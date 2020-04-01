@@ -10,7 +10,7 @@
 
 ### ✨ [drepakin.com](drepakin.com)
 
-### 💻 [React App](https://github.com/tutanck/DrepakinApi)
+### 💻 [React App](https://github.com/tutanck/Drepakin)
 
 # Getting Started for `Development`
 
