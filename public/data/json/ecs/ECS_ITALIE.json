@@ -1,0 +1,3958 @@
+[
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "LECCO",
+    "hospital": "A.O. della Provincia di Lecco - Ospedale Alessandro Manzoni",
+    "name": "Centro di Riferimento per le anemie rare",
+    "name_en": "Centre of Expertise for rare anemia",
+    "address": "S.C. di Pediatria Dipartimento Materno Infantile A.O. della Provincia di Lecco - Ospedale Alessandro Manzoni Via dell'Eremo 9-11 23900 LECCO ITALIE",
+    "consultation_managers": [" Dr Luciano BECCARIA"],
+    "phones": ["39 0341 489215"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ospedali.lecco.it/index.php/it/",
+    "location": { "type": "Point", "coordinates": [9.41512, 45.85212] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via dell'Eremo, 9/11, 23900 Lecco LC, Italy",
+        "latitude": 45.85212,
+        "longitude": 9.41512,
+        "extra": {
+          "googlePlaceId": "ChIJGVzz29AChEcRVVzSbeaK1zc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Lecco",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Lecco",
+          "level3short": "Lecco",
+          "level2long": "Provincia di Lecco",
+          "level2short": "LC",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "9/11",
+        "streetName": "Via dell'Eremo",
+        "city": "Lecco",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "23900",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "VENETO",
+    "city": "PADOVA",
+    "hospital": "Azienda Ospedaliera di Padova",
+    "name": "Centro di Riferimento per l'anemia a cellule falciformi in età pediatrica",
+    "name_en": "Centre of Expertise for pediatric sickle cell anaemia patients",
+    "address": "Clinica di Oncoematologia Pediatrica Dipartimento della Salute della Donna e del Bambino Azienda Ospedaliera di Padova Via Giustiniani 2 35128 PADOVA PD ITALIE",
+    "consultation_managers": [" Dr Laura SAINATI "],
+    "phones": ["39 049 8213579-8030", "39 049 8213535-3536"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.aopd.veneto.it/",
+    "location": { "type": "Point", "coordinates": [11.889653, 45.4027094] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Nicolò Giustiniani, 2, 35128 Padova PD, Italy",
+        "latitude": 45.4027094,
+        "longitude": 11.889653,
+        "extra": {
+          "googlePlaceId": "ChIJxyFrOfnafkcRW_e-CzsePO0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Padova",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Padova",
+          "level3short": "Padova",
+          "level2long": "Provincia di Padova",
+          "level2short": "PD",
+          "level1long": "Veneto",
+          "level1short": "Veneto"
+        },
+        "streetNumber": "2",
+        "streetName": "Via Nicolò Giustiniani",
+        "city": "Padova",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "35128",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MONZA",
+    "hospital": "Azienda Ospedaliera San Gerardo",
+    "name": "Centro di Riferimento per l'emoglobinopatia e l'anemia costituzionale da anomalie del metabolismo del ferro",
+    "name_en": "Centre of Expertise for hemoglobinopathy and constitutional anemia due to iron metabolism disorders",
+    "address": "Centro per la Diagnosi e Terapia dell'Emocromatosi - Ambulatorio Metabolismo del Ferro Clinica Medica Azienda Ospedaliera San Gerardo Via Pergolesi 33 20900 MONZA (MB) ITALIE",
+    "consultation_managers": ["Pr Alberto PIPERNO"],
+    "phones": ["39 039 2339555"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.asst-monza.it/",
+    "location": { "type": "Point", "coordinates": [9.260111, 45.6009217] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via G. B. Pergolesi, 33, 20900 Monza MB, Italy",
+        "latitude": 45.6009217,
+        "longitude": 9.260111,
+        "extra": {
+          "googlePlaceId": "ChIJ6yoUoGO5hkcRjIussRb6PZ8",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Monza",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Monza",
+          "level3short": "Monza",
+          "level2long": "Provincia di Monza e della Brianza",
+          "level2short": "MB",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "33",
+        "streetName": "Via G. B. Pergolesi",
+        "city": "Monza",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20900",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MONZA",
+    "hospital": "Azienda Ospedaliera San Gerardo",
+    "name": "Centro di Riferimento per le emoglobinopatie",
+    "name_en": "Centre of Expertise for hemoglobinopathies",
+    "address": "Clinica Pediatrica Azienda Ospedaliera San Gerardo Via Pergolesi 33 20900 MONZA (MB) ITALIE",
+    "consultation_managers": ["Pr Nicoletta MASERA"],
+    "phones": ["39 039 2333513", "39 039 2333581"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.asst-monza.it/",
+    "location": { "type": "Point", "coordinates": [9.2597899, 45.6018705] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via G. B. Pergolesi, 33, 20900 Monza MB, Italy",
+        "latitude": 45.6018705,
+        "longitude": 9.2597899,
+        "extra": {
+          "googlePlaceId": "ChIJlWcktmO5hkcRIwXozX-Lrzc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Monza",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Monza",
+          "level3short": "Monza",
+          "level2long": "Provincia di Monza e della Brianza",
+          "level2short": "MB",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "33",
+        "streetName": "Via G. B. Pergolesi",
+        "city": "Monza",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20900",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "PAVIA",
+    "hospital": "Fondazione IRCCS Policlinico San Matteo",
+    "name": "Centro di Riferimento per le emoglobinopatie",
+    "name_en": "Centre of Expertise for hemoglobinopathies",
+    "address": "Oncoematologia Pediatrica Dipartimento Materno-Infantile Fondazione IRCCS Policlinico San Matteo Viale Camillo Golgi 19 27100 PAVIA ITALIE",
+    "consultation_managers": [" Dr Marco ZECCA"],
+    "phones": ["39 0382 502607", "39 0382 502848"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.sanmatteo.org/site/home.html",
+    "location": { "type": "Point", "coordinates": [9.1488369, 45.1961078] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Viale Camillo Golgi, 19, 27100 Pavia PV, Italy",
+        "latitude": 45.1961078,
+        "longitude": 9.1488369,
+        "extra": {
+          "googlePlaceId": "ChIJB_arvlQmh0cR3AgGaIZQmm8",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Pavia",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Pavia",
+          "level3short": "Pavia",
+          "level2long": "Provincia di Pavia",
+          "level2short": "PV",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "19",
+        "streetName": "Viale Camillo Golgi",
+        "city": "Pavia",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "27100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "EMILIA ROMAGNA",
+    "city": "MODENA",
+    "hospital": "Azienda Ospedaliero - Universitaria di Modena",
+    "name": "Centro di Riferimento per le anemie rare",
+    "name_en": "Centre of Expertise for rare anemia",
+    "address": "S.C. di Medicina Interna II Dipartimento di Medicine, Medicina d'Urgenza e Specialità Mediche Azienda Ospedaliero - Universitaria di Modena Via del Pozzo 71 41100 MODENA ITALIE",
+    "consultation_managers": ["Pr Antonello PIETRANGELO"],
+    "phones": ["39 059 4224356"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.aou.mo.it/home.html",
+    "location": { "type": "Point", "coordinates": [10.9425871, 44.6354895] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Largo del Pozzo, 71, 41125 Modena MO, Italy",
+        "latitude": 44.6354895,
+        "longitude": 10.9425871,
+        "extra": {
+          "googlePlaceId": "ChIJVTbf5E7vf0cReylrxfMSM0Y",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Modena",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Modena",
+          "level3short": "Modena",
+          "level2long": "Provincia di Modena",
+          "level2short": "MO",
+          "level1long": "Emilia-Romagna",
+          "level1short": "Emilia-Romagna"
+        },
+        "streetNumber": "71",
+        "streetName": "Largo del Pozzo",
+        "city": "Modena",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "41125",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "EMILIA ROMAGNA",
+    "city": "PIACENZA",
+    "hospital": "Ospedale Guglielmo da Saliceto - AUSL Piacenza",
+    "name": "Centro di Riferimento per le anemie rare",
+    "name_en": "Centre of Expertise for rare anemia",
+    "address": "U.O. Pediatria e Neonatologia Dipartimento Materno Infantile Ospedale Guglielmo da Saliceto - AUSL Piacenza Via Taverna 49 29121 PIACENZA (PC) ITALIE",
+    "consultation_managers": [" Dr Giacomo BIASUCCI"],
+    "phones": ["39 0523 303368"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ausl.pc.it/ospedali/ospedali.asp",
+    "location": {
+      "type": "Point",
+      "coordinates": [9.680999, 45.05516129999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Taverna Giuseppe, 49, 29121 Piacenza PC, Italy",
+        "latitude": 45.05516129999999,
+        "longitude": 9.680999,
+        "extra": {
+          "googlePlaceId": "ChIJO_24yUPdgEcRVg-xXSxKBL0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Piacenza",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Piacenza",
+          "level3short": "Piacenza",
+          "level2long": "Provincia di Piacenza",
+          "level2short": "PC",
+          "level1long": "Emilia-Romagna",
+          "level1short": "Emilia-Romagna"
+        },
+        "streetNumber": "49",
+        "streetName": "Via Taverna Giuseppe",
+        "city": "Piacenza",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "29121",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LAZIO",
+    "city": "ROMA",
+    "hospital": "ASLRM2 - Ospedale S. Eugenio",
+    "name": "Centro di Riferimento per la Talassemia e le malattie del Globulo Rosso",
+    "name_en": "Expert Center for thalassemia and rare anemia",
+    "address": "UO Talassemici - Malattie rare del Globulo Rosso ASLRM2 - Ospedale S. Eugenio Piazzale Umanesimo 10 00144 ROMA ITALIE",
+    "consultation_managers": [" Dr Francesco SORRENTINO"],
+    "phones": ["39 06 51002560"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [12.4718628, 41.8218933] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazzale dell'Umanesimo, 10, 00144 Roma RM, Italy",
+        "latitude": 41.8218933,
+        "longitude": 12.4718628,
+        "extra": {
+          "googlePlaceId": "ChIJ4yqw9AmLJRMRTwhRzl0u_xQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Roma",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Roma",
+          "level3short": "Roma",
+          "level2long": "Città Metropolitana di Roma",
+          "level2short": "RM",
+          "level1long": "Lazio",
+          "level1short": "Lazio"
+        },
+        "streetNumber": "10",
+        "streetName": "Piazzale dell'Umanesimo",
+        "city": "Roma",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "00144",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LIGURIA",
+    "city": "GENOVA",
+    "hospital": "Ospedali Galliera",
+    "name": "Centro di Riferimento per le anemie rare e le alterazioni congenite del metabolismo del ferro",
+    "name_en": "Centre of Expertise for rare anemias and congenital disorders of iron metabolism",
+    "address": "S.S.D. Ematologia Dipartimento delle Medicine Generali, Specialistiche e di Pronto Soccorso Ospedali Galliera Via Volta 10 16128 GENOVA ITALIE",
+    "consultation_managers": [" Dr Gianluca FORNI"],
+    "phones": ["39 010 5634557"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.galliera.it/20/58/185/205",
+    "location": { "type": "Point", "coordinates": [8.9407921, 44.3987711] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Mura del Prato, 4, 16128 Genova GE, Italy",
+        "latitude": 44.3987711,
+        "longitude": 8.9407921,
+        "extra": {
+          "googlePlaceId": "ChIJWdEwCsZD0xIRanLr1JRyhnQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Genova",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Genova",
+          "level3short": "Genova",
+          "level2long": "Città Metropolitana di Genova",
+          "level2short": "GE",
+          "level1long": "Liguria",
+          "level1short": "Liguria"
+        },
+        "streetNumber": "4",
+        "streetName": "Mura del Prato",
+        "city": "Genova",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "16128",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "BERGAMO",
+    "hospital": "ASST Papa Giovanni XXIII",
+    "name": "Centro di Riferimento per i difetti rari della coagulazione e le anemie rare",
+    "name_en": "Centre of Expertise for rare coagulation disorders and rare anemias",
+    "address": "Ambulatorio di Emostasi e Trombosi U.S.C. di Immunoematologia e Medicina Trasfusionale ASST Papa Giovanni XXIII Piazza OMS 1 24178 BERGAMO ITALIE",
+    "consultation_managers": [" Pr Anna FALANGA"],
+    "phones": ["39 035 2674776"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.asst-pg23.it/",
+    "location": {
+      "type": "Point",
+      "coordinates": [9.639130699999999, 45.68707329999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza OMS, 1, 24127 Bergamo BG, Italy",
+        "latitude": 45.68707329999999,
+        "longitude": 9.639130699999999,
+        "extra": {
+          "googlePlaceId": "ChIJR-J-HYJRgUcRgJ9X8JbBmJo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bergamo",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bergamo",
+          "level3short": "Bergamo",
+          "level2long": "Provincia di Bergamo",
+          "level2short": "BG",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "1",
+        "streetName": "Piazza OMS",
+        "city": "Bergamo",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "24127",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "BRESCIA",
+    "hospital": "ASST Spedali Civili di Brescia",
+    "name": "Centro di Riferimento per i difetti rari della coagulazione e le anemie rare",
+    "name_en": "Centre of Expertise for rare coagulation disorders and rare anemias",
+    "address": "U.O. di Ematologia Dipartimento di Oncologia Medica ASST Spedali Civili di Brescia Piazzale Spedali Civili 1 25123 BRESCIA ITALIE",
+    "consultation_managers": [" Dr Cecilia CARBONE"],
+    "phones": ["39 030 3995747"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.civile.asst-spedalicivili.it/servizi/unitaoperative/unitaoperative_fase02.aspx?ID=620",
+    "location": { "type": "Point", "coordinates": [10.2315124, 45.5583469] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazzale Spedali Civili, 1, 25123 Brescia BS, Italy",
+        "latitude": 45.5583469,
+        "longitude": 10.2315124,
+        "extra": {
+          "googlePlaceId": "ChIJCfA-rTV2gUcR5Vp6t-tZWCY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Brescia",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Brescia",
+          "level3short": "Brescia",
+          "level2long": "Provincia di Brescia",
+          "level2short": "BS",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "1",
+        "streetName": "Piazzale Spedali Civili",
+        "city": "Brescia",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "25123",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MANTOVA",
+    "hospital": "Azienda Ospedaliera Carlo Poma",
+    "name": "Centro di Riferimento per le anemie rare",
+    "name_en": "Centre of Expertise for rare anemia",
+    "address": "Servizio di Immunoematologia e Medicina Trasfusionale Dipartimento di Medicina di Laboratorio Azienda Ospedaliera Carlo Poma Strada Lago Paiolo 10 46100 MANTOVA ITALIE",
+    "consultation_managers": [" Dr Rosalia TURDO "],
+    "phones": [" 39 0376 201234"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.aopoma.gov.it/ospedale-di-mantova/",
+    "location": { "type": "Point", "coordinates": [10.7732402, 45.1448334] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Str. Lago Paiolo, 10, 46100 Mantova MN, Italy",
+        "latitude": 45.1448334,
+        "longitude": 10.7732402,
+        "extra": {
+          "googlePlaceId": "ChIJl4manXTUgUcRbdzX65pDmBw",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Mantova",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Mantova",
+          "level3short": "Mantova",
+          "level2long": "Provincia di Mantova",
+          "level2short": "MN",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "10",
+        "streetName": "Strada Lago Paiolo",
+        "city": "Mantova",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "46100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MILANO",
+    "hospital": "Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico",
+    "name": "Centro di Riferimento per le anemie rare",
+    "name_en": "Centre of Expertise for rare anemias",
+    "address": "U.O.C. di Medicina Generale Dipartimento di Medicina Interna e Specializzazioni Mediche Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico Via Francesco Sforza 35 20122 MILANO ITALIE",
+    "consultation_managers": [" Pr Maria Domenica CAPPELLINI"],
+    "phones": [" 39 02 55033493"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.policlinico.mi.it/reparti/30/medicina-generale",
+    "location": {
+      "type": "Point",
+      "coordinates": [9.195017600000002, 45.4588194]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Francesco Sforza, 35, 20122 Milano MI, Italy",
+        "latitude": 45.4588194,
+        "longitude": 9.195017600000002,
+        "extra": {
+          "googlePlaceId": "ChIJ9RrHu6fGhkcRcawaBawwpqI",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Milano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Milano",
+          "level3short": "Milano",
+          "level2long": "Città Metropolitana di Milano",
+          "level2short": "MI",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "35",
+        "streetName": "Via Francesco Sforza",
+        "city": "Milano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20122",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MILANO",
+    "hospital": "Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico",
+    "name": "Centro di Riferimento per il disturbo emorragico raro da difetto delle piastrine e le anemie rare",
+    "name_en": "Centre of Expertise for rare hemorrhagic disorder due to a platelet anomaly and rare anemias",
+    "address": "Day Hospital Pediatrico U.O.C. Pediatria 2 Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico Via Francesco Sforza 35 20122 MILANO ITALIE",
+    "consultation_managers": [" Dr Nadia MIRRA"],
+    "phones": ["39 02 55032461"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.policlinico.mi.it/",
+    "location": {
+      "type": "Point",
+      "coordinates": [9.195017600000002, 45.4588194]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Francesco Sforza, 35, 20122 Milano MI, Italy",
+        "latitude": 45.4588194,
+        "longitude": 9.195017600000002,
+        "extra": {
+          "googlePlaceId": "ChIJ9RrHu6fGhkcRcawaBawwpqI",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Milano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Milano",
+          "level3short": "Milano",
+          "level2long": "Città Metropolitana di Milano",
+          "level2short": "MI",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "35",
+        "streetName": "Via Francesco Sforza",
+        "city": "Milano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20122",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PIEMONTE",
+    "city": "ORBASSANO",
+    "hospital": "Azienda Ospedaliero-Universitaria San Luigi Gonzaga",
+    "name": "Centro di Riferimento per le anemie rare",
+    "name_en": "Centre of Expertise for rare anemia",
+    "address": "S.C.D.U. Microcitemie - Pediatria Dipartimento di Scienze Cliniche e Biologiche Azienda Ospedaliero-Universitaria San Luigi Gonzaga Regione Gonzole 10 10043 ORBASSANO (TO) ITALIE",
+    "consultation_managers": [" Pr Antonio PIGA"],
+    "phones": ["39 011 9026032", " 39 011 9026851"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.sanluigi.piemonte.it/",
+    "location": {
+      "type": "Point",
+      "coordinates": [7.556223999999999, 45.0295955]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Regione Gonzole, 10, 10043 Orbassano TO, Italy",
+        "latitude": 45.0295955,
+        "longitude": 7.556223999999999,
+        "extra": {
+          "googlePlaceId": "ChIJ3X0VZ-AUiEcRwkAZRLVRnrk",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Orbassano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Orbassano",
+          "level3short": "Orbassano",
+          "level2long": "Città Metropolitana di Torino",
+          "level2short": "TO",
+          "level1long": "Piemonte",
+          "level1short": "Piemonte"
+        },
+        "streetNumber": "10",
+        "streetName": "Regione Gonzole",
+        "city": "Orbassano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "10043",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PUGLIA",
+    "city": "BARI",
+    "hospital": "Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari",
+    "name": "Centro Interregionale di Riferimento per i difetti rari della coagulazione e le anemie rare pediatriche",
+    "name_en": "Interregional centre of expertise for rare coagulation disorders and rare pediatric anemias",
+    "address": "U.O. Pediatrica \"F. Vecchio\" Dipartimento Assistenziale Integrato Scienze e Chirurgie Pediatriche Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari Piazza Giulio Cesare 11 70124 BARI ITALIE",
+    "consultation_managers": ["  Pr Paola GIORDANO"],
+    "phones": ["39 080 5592298", "39 080 5478905"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.sanita.puglia.it/web/ospedalegiovannixxiii/",
+    "location": { "type": "Point", "coordinates": [16.86185, 41.1120624] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Giulio Cesare, 11, 70124 Bari BA, Italy",
+        "latitude": 41.1120624,
+        "longitude": 16.86185,
+        "extra": {
+          "googlePlaceId": "ChIJzTqXs_noRxMRhfzLbnMrz14",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bari",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bari",
+          "level3short": "Bari",
+          "level2long": "Città Metropolitana di Bari",
+          "level2short": "BA",
+          "level1long": "Puglia",
+          "level1short": "Puglia"
+        },
+        "streetNumber": "11",
+        "streetName": "Piazza Giulio Cesare",
+        "city": "Bari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "70124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PUGLIA",
+    "city": "BARI",
+    "hospital": "Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari",
+    "name": "Centro di Riferimento per le anemie rare",
+    "name_en": "Centre of Expertise for rare anemias",
+    "address": "Sezione di Ematologia con Trapianto Dipartimento Emergenza e Trapianti di Organi Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari Piazza Giulio Cesare 11 70124 BARI ITALIE",
+    "consultation_managers": ["Pr Giorgina SPECCHIA"],
+    "phones": ["39 080 5593471", "39 080 5478966"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.sanita.puglia.it/web/ospedalegiovannixxiii/",
+    "location": { "type": "Point", "coordinates": [16.86185, 41.1120624] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Giulio Cesare, 11, 70124 Bari BA, Italy",
+        "latitude": 41.1120624,
+        "longitude": 16.86185,
+        "extra": {
+          "googlePlaceId": "ChIJzTqXs_noRxMRhfzLbnMrz14",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bari",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bari",
+          "level3short": "Bari",
+          "level2long": "Città Metropolitana di Bari",
+          "level2short": "BA",
+          "level1long": "Puglia",
+          "level1short": "Puglia"
+        },
+        "streetNumber": "11",
+        "streetName": "Piazza Giulio Cesare",
+        "city": "Bari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "70124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SARDEGNA",
+    "city": "CAGLIARI",
+    "hospital": "Ospedale Oncologico \"Armando Businco\"",
+    "name": "Centro di Riferimento per le malattie onco-ematologiche e le anemie rare",
+    "name_en": "Centre of Expertise for onco-hematological diseases and rare anemias",
+    "address": "S.C. di Ematologia e Centro Trapianti di Cellule Staminali Emopoietiche Dipartimento di Oncologia Medica Ospedale Oncologico \"Armando Businco\" Via Edward Jenner 09121 CAGLIARI ITALIE",
+    "consultation_managers": [" Dr Emanuele ANGELUCCI"],
+    "phones": ["39 070 6092065"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.aslcagliari.it/index.html",
+    "location": { "type": "Point", "coordinates": [9.1149509, 39.2452578] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Edward Jenner, 1, 09121 Cagliari CA, Italy",
+        "latitude": 39.2452578,
+        "longitude": 9.1149509,
+        "extra": {
+          "googlePlaceId": "ChIJ1SAV-TA05xIRLHF1t3L2CPA",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Cagliari",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Cagliari",
+          "level3short": "Cagliari",
+          "level2long": "Città Metropolitana di Cagliari",
+          "level2short": "CA",
+          "level1long": "Sardegna",
+          "level1short": "Sardegna"
+        },
+        "streetNumber": "1",
+        "streetName": "Via Edward Jenner",
+        "city": "Cagliari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "09121",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SARDEGNA",
+    "city": "CAGLIARI",
+    "hospital": "Ospedale Regionale per le Microcitemie",
+    "name": "Centro di Riferimento per le anemie rare e le talassemie",
+    "name_en": "Centre of Expertise for rare anemia and thalassemias",
+    "address": "U.O.C. di Microcitemie ed altre Malattie Ematologiche Dipartimento di Scienze Biomediche e Biotecnologie Ospedale Regionale per le Microcitemie Via Jenner 09121 CAGLIARI ITALIE",
+    "consultation_managers": [" "],
+    "phones": ["39 070 6095508", "39 070 6095509"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://mcweb.unica.it/",
+    "location": {
+      "type": "Point",
+      "coordinates": [9.115393599999999, 39.2452131]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Edward Jenner, 09121 Cagliari CA, Italy",
+        "latitude": 39.2452131,
+        "longitude": 9.115393599999999,
+        "extra": {
+          "googlePlaceId": "EitWaWEgRWR3YXJkIEplbm5lciwgMDkxMjEgQ2FnbGlhcmkgQ0EsIEl0YWx5Ii4qLAoUChIJ5xomJDA05xIRgeGXIuUu7RgSFAoSCcsrU8B_NucSEbApqCkZvggc",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Cagliari",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Cagliari",
+          "level3short": "Cagliari",
+          "level2long": "Città Metropolitana di Cagliari",
+          "level2short": "CA",
+          "level1long": "Sardegna",
+          "level1short": "Sardegna"
+        },
+        "streetName": "Via Edward Jenner",
+        "city": "Cagliari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "09121",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SICILIA",
+    "city": "CATANIA",
+    "hospital": "Presidio Ospedaliero Garibaldi-Nesima",
+    "name": "Centro di Riferimento per i difetti rari della coagulazione e le anemie rare",
+    "name_en": "Centre of Expertise for rare coagulation disorders and rare anemias",
+    "address": "U.O.C di Ematologia Presidio Ospedaliero Garibaldi-Nesima Via Palermo 636 95122 CATANIA ITALIE",
+    "consultation_managers": [" Dr Ugo CONSOLI "],
+    "phones": ["39 095 7595055"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ao-garibaldi.catania.it/presidio-osp-nesima/come-raggiungerci/",
+    "location": { "type": "Point", "coordinates": [15.0431833, 37.5114616] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Palermo, 636, 95122 Catania CT, Italy",
+        "latitude": 37.5114616,
+        "longitude": 15.0431833,
+        "extra": {
+          "googlePlaceId": "ChIJRyEW-7niExMRD1NNSPiDNIs",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Catania",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Catania",
+          "level3short": "Catania",
+          "level2long": "Provincia di Catania",
+          "level2short": "CT",
+          "level1long": "Sicilia",
+          "level1short": "Sicilia"
+        },
+        "streetNumber": "636",
+        "streetName": "Via Palermo",
+        "city": "Catania",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "95122",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SICILIA",
+    "city": "PALERMO",
+    "hospital": "A.O. Civico - Di Cristina - Benfratelli",
+    "name": "Centro di Riferimento per le anemie rare",
+    "name_en": "Centre of Expertise for rare anemia",
+    "address": "U.O.C. Ematologia con Talassemia Dipartimento di Medicina A.O. Civico - Di Cristina - Benfratelli Piazza Nicola Leotta 4 90127 PALERMO ITALIE",
+    "consultation_managers": [" Dr Liana CUCCIA "],
+    "phones": ["39 091 6664212", "39 091 6664404"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://ww1.ospedalecivicopa.org/?subid1=e668b7a2-f638-11e9-b63d-38e11f34ff7e",
+    "location": { "type": "Point", "coordinates": [13.3576719, 38.1048151] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Nicola Leotta, 4, 90127 Palermo PA, Italy",
+        "latitude": 38.1048151,
+        "longitude": 13.3576719,
+        "extra": {
+          "googlePlaceId": "ChIJbVqcAX3vGRMRyiA1PYraVSM",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Palermo",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Palermo",
+          "level3short": "Palermo",
+          "level2long": "Provincia di Palermo",
+          "level2short": "PA",
+          "level1long": "Sicilia",
+          "level1short": "Sicilia"
+        },
+        "streetNumber": "4",
+        "streetName": "Piazza Nicola Leotta",
+        "city": "Palermo",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "90127",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TRENTINO ALTO ADIGE",
+    "city": "BOLZANO",
+    "hospital": "Azienda Sanitaria dell'Alto Adige - Ospedale di Bolzano",
+    "name": "Centro di Riferimento per i difetti rari della coagulazione e le anemie rare",
+    "name_en": "Centre of Expertise for rare coagulation disorders and rare anemias",
+    "address": "Divisione di Ematologia e Centro di Trapianto di Midollo Osseo Azienda Sanitaria dell'Alto Adige - Ospedale di Bolzano Via Lorenz Böhler 5 39100 BOLZANO ITALIE",
+    "consultation_managers": ["Pr Sergio CORTELAZZO"],
+    "phones": [" 39 0471 908807", "39 0471 908388"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.asdaa.it/it/osp-bolzano.asp",
+    "location": { "type": "Point", "coordinates": [11.3104178, 46.4986237] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Lorenz-Böhler-Straße, 5, 39100 Bozen, Südtirol, Italy",
+        "latitude": 46.4986237,
+        "longitude": 11.3104178,
+        "extra": {
+          "googlePlaceId": "ChIJb_k1tqeegkcR69EURZCtNcU",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bozen",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bozen",
+          "level3short": "Bozen",
+          "level2long": "Südtirol",
+          "level2short": "BZ",
+          "level1long": "Trentino-Alto Adige",
+          "level1short": "Trentino-Alto Adige"
+        },
+        "streetNumber": "5",
+        "streetName": "Lorenz-Böhler-Straße",
+        "city": "Bozen",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "39100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "VENETO",
+    "city": "ROVIGO",
+    "hospital": "ULSS 18 - Ospedale di Rovigo",
+    "name": "Centro di Riferimento per le anemie rare e le talassemie",
+    "name_en": "Centre of Expertise for rare anemias and thalassemias",
+    "address": "Centro Microcitemia Dipartimento di Medicina Trasfusionale ULSS 18 - Ospedale di Rovigo Viale dei Tre Martiri 144 45100 ROVIGO ITALIE",
+    "consultation_managers": ["Dr Francesco CHIAVILLI"],
+    "phones": [" 39 0425 393407"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.azisanrovigo.it/nqcontent.cfm?a_id=1333",
+    "location": { "type": "Point", "coordinates": [11.8159499, 45.074457] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Viale Tre Martiri, 140, 45100 Rovigo RO, Italy",
+        "latitude": 45.074457,
+        "longitude": 11.8159499,
+        "extra": {
+          "googlePlaceId": "ChIJOZa2mLnwfkcR2YL97H-cvEU",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Rovigo",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Rovigo",
+          "level3short": "Rovigo",
+          "level2long": "Provincia di Rovigo",
+          "level2short": "RO",
+          "level1long": "Veneto",
+          "level1short": "Veneto"
+        },
+        "streetNumber": "140",
+        "streetName": "Viale Tre Martiri",
+        "city": "Rovigo",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "45100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "ABRUZZO",
+    "city": "PESCARA",
+    "hospital": "Presidio Ospedaliero di Pescara",
+    "name": "Centro di Riferimento Regionale per le malattie ematologiche rare",
+    "name_en": "Regional centre of expertise for rare hematologic diseases",
+    "address": "U.O.S.D. Centro Emofilia, Malattie Emorragiche e Trombotiche Congenite Dipartimento di Ematologia Presidio Ospedaliero di Pescara Via Fonte Romana 8 65124 PESCARA ITALIE",
+    "consultation_managers": ["Dr Alfredo DRAGANI"],
+    "phones": ["39 085 4252501"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://sanitab.regione.abruzzo.it/azienda/asl+pescara/presidiospedalieri/popescara.htm",
+    "location": { "type": "Point", "coordinates": [14.198075, 42.4629539] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Fonte Romana, 8, 65124 Pescara PE, Italy",
+        "latitude": 42.4629539,
+        "longitude": 14.198075,
+        "extra": {
+          "googlePlaceId": "ChIJJ1Y_1AqmMRMRJraCoRPWpxo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Pescara",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Pescara",
+          "level3short": "Pescara",
+          "level2long": "Provincia di Pescara",
+          "level2short": "PE",
+          "level1long": "Abruzzo",
+          "level1short": "Abruzzo"
+        },
+        "streetNumber": "8",
+        "streetName": "Via Fonte Romana",
+        "city": "Pescara",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "65124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CALABRIA",
+    "city": "CATANZARO",
+    "hospital": "Azienda Ospedaliera Pugliese Ciaccio",
+    "name": "Centro di Riferimento per le malattie ematologiche rare",
+    "name_en": "Centre of Expertise for rare hematologic diseases",
+    "address": "S.O.C. di Onco-Ematologia Pediatrica Dipartimento di Onco-Ematologia e Medicina Trasfusionale Azienda Ospedaliera Pugliese Ciaccio Viale Pio X 88100 CATANZARO ITALIE",
+    "consultation_managers": [" Dr Caterina CONSARINO"],
+    "phones": ["39 0961 883103", "39 0961 883105"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.aocatanzaro.it/",
+    "location": { "type": "Point", "coordinates": [16.5823473, 38.9202449] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Viale Papa Pio X, 83, 88100 Catanzaro CZ, Italy",
+        "latitude": 38.9202449,
+        "longitude": 16.5823473,
+        "extra": {
+          "googlePlaceId": "ChIJc-ikRlIGQBMRaHQ5Vb0-R7o",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Catanzaro",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Catanzaro",
+          "level3short": "Catanzaro",
+          "level2long": "Provincia di Catanzaro",
+          "level2short": "CZ",
+          "level1long": "Calabria",
+          "level1short": "Calabria"
+        },
+        "streetNumber": "83",
+        "streetName": "Viale Papa Pio X",
+        "city": "Catanzaro",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "88100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "AVELLINO",
+    "hospital": "Azienda Ospedaliera San Giuseppe Moscati",
+    "name": "Centro di Riferimento per le malattie ematologiche ed oncoematologiche rare",
+    "name_en": "Centre of Expertise for rare hematologic and oncohematologic diseases",
+    "address": "U.O. di Ematologia e Trapianto Ematopoietico Dipartimento di Onco-Ematologia Azienda Ospedaliera San Giuseppe Moscati Contrada Amoretta 83100 AVELLINO ITALIE",
+    "consultation_managers": ["Dr Nicola CANTORE"],
+    "phones": ["39 0825 203236"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.aosgmoscati.av.it/",
+    "location": { "type": "Point", "coordinates": [14.7998332, 40.9255307] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Contrada Amoretta, 83100 Avellino AV, Italy",
+        "latitude": 40.9255307,
+        "longitude": 14.7998332,
+        "extra": {
+          "googlePlaceId": "ChIJg6KD8QHNOxMReQang9nkFpM",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Avellino",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Avellino",
+          "level3short": "Avellino",
+          "level2long": "Provincia di Avellino",
+          "level2short": "AV",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetName": "Contrada Amoretta",
+        "city": "Avellino",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "83100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "NAPOLI",
+    "hospital": "Azienda Ospedaliera Universitaria \"Federico II\"",
+    "name": "Centro di Riferimento per le malattie ematologiche rare",
+    "name_en": "Centre of Expertise for rare hematologic diseases",
+    "address": "Dipartimento di Clinica Medica Azienda Ospedaliera Universitaria \"Federico II\" Via Sergio Pansini 5 80131 NAPOLI ITALIE",
+    "consultation_managers": [" Pr Pasquale STRAZZULLO"],
+    "phones": ["39 081 7462011"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.policlinico.unina.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1",
+    "location": { "type": "Point", "coordinates": [14.221714, 40.866693] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Sergio Pansini, 5, 80131 Napoli NA, Italy",
+        "latitude": 40.866693,
+        "longitude": 14.221714,
+        "extra": {
+          "googlePlaceId": "ChIJB-Wz7JYIOxMRpGRC0w_nIWo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Napoli",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Napoli",
+          "level3short": "Napoli",
+          "level2long": "Città Metropolitana di Napoli",
+          "level2short": "NA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetNumber": "5",
+        "streetName": "Via Sergio Pansini",
+        "city": "Napoli",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "80131",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "NAPOLI",
+    "hospital": "Azienda Ospedaliera Universitaria - Seconda Università degli Studi di Napoli",
+    "name": "Centro di Riferimento per le malattie endocrine pediatriche rare",
+    "name_en": "Centre of Expertise for rare pediatric endocrine diseases",
+    "address": "I Clinica Pediatrica Dipartimento Materno Infantile Azienda Ospedaliera Universitaria - Seconda Università degli Studi di Napoli via Luigi De Crecchio 7 80138 NAPOLI ITALIE",
+    "consultation_managers": [" Pr Laura PERRONE "],
+    "phones": ["39 081 5665471", "39 081 5665429"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.policliniconapoli.it/",
+    "location": { "type": "Point", "coordinates": [14.2533395, 40.8522282] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Vico Luigi De Crecchio, 4, 80138 Napoli NA, Italy",
+        "latitude": 40.8522282,
+        "longitude": 14.2533395,
+        "extra": {
+          "googlePlaceId": "ChIJXWo2g0IIOxMR6M1gCNwAEC0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Napoli",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Napoli",
+          "level3short": "Napoli",
+          "level2long": "Città Metropolitana di Napoli",
+          "level2short": "NA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetNumber": "4",
+        "streetName": "Vico Luigi de Crecchio",
+        "city": "Napoli",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "80138",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "NAPOLI",
+    "hospital": "Biotecnologie Avanzate Srl",
+    "name": "Consulenza specialistica per l'ematologia",
+    "name_en": "Hematology specialised clinic",
+    "address": "Area Funzionale di Genetica Medica Dipartimento di Biochimica e Biotecnologie Mediche Biotecnologie Avanzate Srl Via Gaetano Salvatore 486 80145 NAPOLI ITALIE",
+    "consultation_managers": [" Pr Achille IOLASCON"],
+    "phones": ["39 081 3737898", "39 081 3737897"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": true,
+    "website": "https://www.ceinge.unina.it/",
+    "location": { "type": "Point", "coordinates": [14.2189452, 40.8748663] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Gaetano Salvatore, 486, 80131 Napoli NA, Italy",
+        "latitude": 40.8748663,
+        "longitude": 14.2189452,
+        "extra": {
+          "googlePlaceId": "ChIJ01gWsp8IOxMRuw0oRGL42XA",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Napoli",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Napoli",
+          "level3short": "Napoli",
+          "level2long": "Città Metropolitana di Napoli",
+          "level2short": "NA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetNumber": "486",
+        "streetName": "Via Gaetano Salvatore",
+        "city": "Napoli",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "80131",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "EMILIA ROMAGNA",
+    "city": "BOLOGNA",
+    "hospital": "Policlinico S. Orsola-Malpighi - Area S. Orsola",
+    "name": "Centro di Riferimento per le malattie ematologiche ed oncoematologiche pediatriche",
+    "name_en": "Centre of Expertise for pediatric hematologic and oncohematologic diseases",
+    "address": "U.O. di Pediatria - Oncologia ed Ematologia Pediatrica Dipartimento Salute della Donna, del Bambino e dell'Adolescente Policlinico S. Orsola-Malpighi - Area S. Orsola Via Massarenti 9 40138 BOLOGNA ITALIE",
+    "consultation_managers": ["Pr Andrea PESSION"],
+    "phones": ["39 051 6364443"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.aosp.bo.it/",
+    "location": { "type": "Point", "coordinates": [11.3604497, 44.4927201] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Giuseppe Massarenti, 9, 40138 Bologna BO, Italy",
+        "latitude": 44.4927201,
+        "longitude": 11.3604497,
+        "extra": {
+          "googlePlaceId": "ChIJi9cqFbXUf0cRmwY-3BnnPX4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bologna",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bologna",
+          "level3short": "Bologna",
+          "level2long": "Città Metropolitana di Bologna",
+          "level2short": "BO",
+          "level1long": "Emilia-Romagna",
+          "level1short": "Emilia-Romagna"
+        },
+        "streetNumber": "9",
+        "streetName": "Via Giuseppe Massarenti",
+        "city": "Bologna",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "40138",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LAZIO",
+    "city": "ROMA",
+    "hospital": "IRCCS Ospedale Pediatrico Bambino Gesù - SEDE GIANICOLO",
+    "name": "Centro di Riferimento per l'ematologia pediatrica",
+    "name_en": "Centre of Expertise for pediatric hematology",
+    "address": "U.O. di Onco-Ematologia Dipartimento di Onco-Ematologia Pediatrica e Medicina Trasfusionale IRCCS Ospedale Pediatrico Bambino Gesù - SEDE GIANICOLO Piazza S. Onofrio 4 00165 ROMA RM ITALIE",
+    "consultation_managers": [" Pr Franco LOCATELLI"],
+    "phones": ["39 06 68592129"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ospedalebambinogesu.it/home",
+    "location": { "type": "Point", "coordinates": [12.4610205, 41.8976369] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza di Sant'Onofrio, 4, 00165 Roma RM, Italy",
+        "latitude": 41.8976369,
+        "longitude": 12.4610205,
+        "extra": {
+          "googlePlaceId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Roma",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Roma",
+          "level3short": "Roma",
+          "level2long": "Città Metropolitana di Roma",
+          "level2short": "RM",
+          "level1long": "Lazio",
+          "level1short": "Lazio"
+        },
+        "streetNumber": "4",
+        "streetName": "Piazza di Sant'Onofrio",
+        "city": "Roma",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "00165",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LIGURIA",
+    "city": "GENOVA",
+    "hospital": "IRCCS Istituto G. Gaslini - Ospedale Pediatrico",
+    "name": "Centro di riferimento per l'ematologia pediatrica",
+    "name_en": "Centre of Expertise for pediatric hematology",
+    "address": "U.O.S. Ematologia Clinica e di Laboratorio Dipartimento di Emato Oncologia Pediatrica IRCCS Istituto G. Gaslini - Ospedale Pediatrico Largo G. Gaslini 5 16147 GENOVA ITALIE",
+    "consultation_managers": ["  Dr Carlo DUFOUR"],
+    "phones": ["39 010 5636694"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.gaslini.org/",
+    "location": { "type": "Point", "coordinates": [8.98832, 44.39134] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Gerolamo Gaslini, 5, 16147 Genova GE, Italy",
+        "latitude": 44.39134,
+        "longitude": 8.98832,
+        "extra": {
+          "googlePlaceId": "ChIJRZDDVRhD0xIRaLrTGE31lg4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Genova",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Genova",
+          "level3short": "Genova",
+          "level2long": "Città Metropolitana di Genova",
+          "level2short": "GE",
+          "level1long": "Liguria",
+          "level1short": "Liguria"
+        },
+        "streetNumber": "5",
+        "streetName": "Via Gerolamo Gaslini",
+        "city": "Genova",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "16147",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LIGURIA",
+    "city": "PONTEDECIMO",
+    "hospital": "Azienda Sanitaria Locale 3 - Ospedale Andrea Gallino",
+    "name": "Centro di Riferimento per le malattie ematologiche rare",
+    "name_en": "Centre of Expertise for rare hematologic diseases",
+    "address": "Ambulatorio di Ematologia, Immunologia e Malattie Rare Azienda Sanitaria Locale 3 - Ospedale Andrea Gallino Via Ospedale Gallino 5 16164 PONTEDECIMO GE ITALIE",
+    "consultation_managers": ["  Pr Edoardo ROSSI "],
+    "phones": [" 39 010 8498822"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.asl3.liguria.it/",
+    "location": { "type": "Point", "coordinates": [8.900618, 44.4987516] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Ospedale Andrea Gallino, 3, 16164 Genova GE, Italy",
+        "latitude": 44.4987516,
+        "longitude": 8.900618,
+        "extra": {
+          "googlePlaceId": "EjZWaWEgT3NwZWRhbGUgQW5kcmVhIEdhbGxpbm8sIDMsIDE2MTY0IEdlbm92YSBHRSwgSXRhbHkiGhIYChQKEgkb-TckIkbTEhHdH-zamlFDwRAD",
+          "confidence": 0.9,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Genova",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Genova",
+          "level3short": "Genova",
+          "level2long": "Città Metropolitana di Genova",
+          "level2short": "GE",
+          "level1long": "Liguria",
+          "level1short": "Liguria"
+        },
+        "streetNumber": "3",
+        "streetName": "Via Ospedale Andrea Gallino",
+        "city": "Genova",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "16164",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MILANO",
+    "hospital": "IRCCS Istituto Auxologico Italiano - Ospedale San Luca",
+    "name": "Centro di Riferimento per le malattie rare di origine ipofisaria",
+    "name_en": "Centre of Expertise for pituitary deficiencies",
+    "address": "Laboratorio di Ricerche Endocrino-Metaboliche U.O. di Medicina Generale ad Indirizzo Endocrino-Metabolico IRCCS Istituto Auxologico Italiano - Ospedale San Luca Piazzale Brescia 20 20149 MILANO ITALIE",
+    "consultation_managers": [" Pr Luca PERSANI"],
+    "phones": ["39 02 619112738", "39 02 619112432"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.auxologico.it/",
+    "location": { "type": "Point", "coordinates": [9.145011, 45.471875] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazzale Brescia, 20, 20149 Milano MI, Italy",
+        "latitude": 45.471875,
+        "longitude": 9.145011,
+        "extra": {
+          "googlePlaceId": "ChIJfyF1yXDBhkcRX1JVn2HsthI",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Milano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Milano",
+          "level3short": "Milano",
+          "level2long": "Città Metropolitana di Milano",
+          "level2short": "MI",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "20",
+        "streetName": "Piazzale Brescia",
+        "city": "Milano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20149",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MILANO",
+    "hospital": "IRCCS Istituto Auxologico Italiano - Ospedale San Michele",
+    "name": "Centro di Riferimento per i difetti endocrini rari della crescita",
+    "name_en": "Centre of Expertise for rare endocrine growth diseases",
+    "address": "Centro per i Disordini della Crescita Laboratorio Sperimentale Ricerche Auxo-endocrinologiche (LSRAE) IRCCS Istituto Auxologico Italiano - Ospedale San Michele Via Ariosto 13 20145 MILANO ITALIE",
+    "consultation_managers": [" Dr Alessandro SARTORIO"],
+    "phones": ["39 02 619112435"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.auxologico.it/",
+    "location": { "type": "Point", "coordinates": [9.1655076, 45.4694744] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Lodovico Ariosto, 13, 20145 Milano MI, Italy",
+        "latitude": 45.4694744,
+        "longitude": 9.1655076,
+        "extra": {
+          "googlePlaceId": "ChIJmQd70lzBhkcRmeOiSQ_O-zU",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Milano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Milano",
+          "level3short": "Milano",
+          "level2long": "Città Metropolitana di Milano",
+          "level2short": "MI",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "13",
+        "streetName": "Via Lodovico Ariosto",
+        "city": "Milano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20145",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MILANO",
+    "hospital": "IRCCS Ospedale San Raffaele",
+    "name": "Centro di Riferimento per i difetti endocrini rari della crescita",
+    "name_en": "Centre of Expertise for rare endocrinologic growth defects",
+    "address": "Centro di Endocrinologia dell'Infanzia e dell'Adolescenza Dipartimento di Pediatria IRCCS Ospedale San Raffaele Via Olgettina 60 20132 MILANO ITALIE",
+    "consultation_managers": [" Pr Giuseppe CHIUMELLO"],
+    "phones": ["39 02 26432637", "39 02 26432623"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.hsr.it/",
+    "location": { "type": "Point", "coordinates": [9.2657432, 45.5050946] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Olgettina Milano, 60, 20132 Milano MI, Italy",
+        "latitude": 45.5050946,
+        "longitude": 9.2657432,
+        "extra": {
+          "googlePlaceId": "ChIJsws2h2zGhkcR_uRsqqW_EM0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Milano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Milano",
+          "level3short": "Milano",
+          "level2long": "Città Metropolitana di Milano",
+          "level2short": "MI",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "60",
+        "streetName": "Via Olgettina Milano",
+        "city": "Milano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20132",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SICILIA",
+    "city": "PALERMO",
+    "hospital": "Azienda Ospedaliera Ospedali Riuniti \"Villa Sofia-Cervello\" - Presidio Cervello",
+    "name": "Centro di Riferimento Regionale per le malattie ematologiche rare",
+    "name_en": "Regional Centre of Expertise for rare hematologic diseases",
+    "address": "U.O.C. di Ematologia e Malattie Rare del Sangue e degli Organi Ematopoietici Dipartimento di Ematologia ed Oncologia Azienda Ospedaliera Ospedali Riuniti \"Villa Sofia-Cervello\" - Presidio Cervello Via Trabucco 180 90146 PALERMO ITALIE",
+    "consultation_managers": ["Pr Aurelio MAGGIO "],
+    "phones": ["39 091 7808348", "39 091 7808302"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.ospedaliriunitipalermo.it/menu_laterale.html",
+    "location": { "type": "Point", "coordinates": [13.3249581, 38.1584655] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Viale Strasburgo, 233, 90146 Palermo PA, Italy",
+        "latitude": 38.1584655,
+        "longitude": 13.3249581,
+        "extra": {
+          "googlePlaceId": "ChIJGbXWWsPoGRMR7nEAFitCikc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Palermo",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Palermo",
+          "level3short": "Palermo",
+          "level2long": "Provincia di Palermo",
+          "level2short": "PA",
+          "level1long": "Sicilia",
+          "level1short": "Sicilia"
+        },
+        "streetNumber": "233",
+        "streetName": "Viale Strasburgo",
+        "city": "Palermo",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "90146",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TOSCANA",
+    "city": "FIRENZE",
+    "hospital": "Azienda Ospedaliero Universitaria Careggi",
+    "name": "Centro di Riferimento per le malattie ematologiche rare",
+    "name_en": "Centre of Expertise for rare hematologic diseases",
+    "address": "S.O.D. Ematologia Azienda Ospedaliero Universitaria Careggi Largo Brambilla 3 50134 FIRENZE ITALIE",
+    "consultation_managers": [" Pr Alberto BOSI"],
+    "phones": ["39 055 7947476"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.aou-careggi.toscana.it/internet/index.php?option=com_content&view=article&id=641&lang=it",
+    "location": { "type": "Point", "coordinates": [11.2477372, 43.806933] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Largo G. Alessandro Brambilla, 3, 50134 Firenze FI, Italy",
+        "latitude": 43.806933,
+        "longitude": 11.2477372,
+        "extra": {
+          "googlePlaceId": "ChIJW6UE7n1WKhMRcm2AbusRVz0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Firenze",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Firenze",
+          "level3short": "Firenze",
+          "level2long": "Città Metropolitana di Firenze",
+          "level2short": "FI",
+          "level1long": "Toscana",
+          "level1short": "Toscana"
+        },
+        "streetNumber": "3",
+        "streetName": "Largo G. Alessandro Brambilla",
+        "city": "Firenze",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "50134",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "UMBRIA",
+    "city": "PERUGIA",
+    "hospital": "Università degli Studi di Perugia - Ospedale S. Maria della Misericordia",
+    "name": "Centro di Riferimento per l'ematologia pediatrica",
+    "name_en": "Centre of Expertise for pediatric hematology",
+    "address": "S.C. Oncoematologia Pediatrica e Trapianto di Midollo Università degli Studi di Perugia - Ospedale S. Maria della Misericordia Via San Andrea delle Fratte 06156 PERUGIA ITALIE",
+    "consultation_managers": [" Dr Maurizio CANIGLIA"],
+    "phones": ["39 075 5782415", "39 075 5782416"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.ospedale.perugia.it/404",
+    "location": { "type": "Point", "coordinates": [12.355055, 43.0800056] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazzale Giorgio Menghini, 1, 06129 Perugia PG, Italy",
+        "latitude": 43.0800056,
+        "longitude": 12.355055,
+        "extra": {
+          "googlePlaceId": "ChIJn0tZ5yihLhMR_4XAsEZBCyA",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Perugia",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Perugia",
+          "level3short": "Perugia",
+          "level2long": "Provincia di Perugia",
+          "level2short": "PG",
+          "level1long": "Umbria",
+          "level1short": "Umbria"
+        },
+        "streetNumber": "1",
+        "streetName": "Piazzale Giorgio Menghini",
+        "city": "Perugia",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "06129",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "VENETO",
+    "city": "PADOVA",
+    "hospital": "Azienda Ospedaliera di Padova",
+    "name": "Centro di Riferimento per le malattie ematologiche e oncoematologiche pediatriche",
+    "name_en": "Centre of Expertise for pediatric hematologic and oncohematologic diseases",
+    "address": "Clinica di Oncoematologia Pediatrica Dipartimento della Salute della Donna e del Bambino Azienda Ospedaliera di Padova Via Giustiniani 2 35128 PADOVA PD ITALIE",
+    "consultation_managers": [" Pr Giuseppe BASSO "],
+    "phones": ["39 049 8213579-8030", "39 049 8213535-3536"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.aopd.veneto.it/",
+    "location": { "type": "Point", "coordinates": [11.889653, 45.4027094] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Nicolò Giustiniani, 2, 35128 Padova PD, Italy",
+        "latitude": 45.4027094,
+        "longitude": 11.889653,
+        "extra": {
+          "googlePlaceId": "ChIJxyFrOfnafkcRW_e-CzsePO0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Padova",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Padova",
+          "level3short": "Padova",
+          "level2long": "Provincia di Padova",
+          "level2short": "PD",
+          "level1long": "Veneto",
+          "level1short": "Veneto"
+        },
+        "streetNumber": "2",
+        "streetName": "Via Nicolò Giustiniani",
+        "city": "Padova",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "35128",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "VENETO",
+    "city": "VERONA",
+    "hospital": "Azienda Ospedaliera Universitaria Integrata di Verona - Ospedale Borgo Trento",
+    "name": "Centro di Riferimento per le malattie ematologiche ed oncoematologiche pediatriche ",
+    "name_en": "Centre of Expertise for pediatric hematologic and oncohematologic diseases",
+    "address": "U.O. di Ematologia e Oncologia Pediatrica Azienda Ospedaliera Universitaria Integrata di Verona - Ospedale Borgo Trento Piazzale Aristide Stefani 1 37126 VERONA ITALIE",
+    "consultation_managers": ["Dr Simone CESARO"],
+    "phones": ["39 045 8124594", "39 045 8126889"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.aovr.veneto.it/cosa-devi-fare/cercare-una-struttura&p_p_state=maximized&p_p_lifecycle=0&p_l_tower_title=Oncoematologia+Pediatrica&p_tower_c_id=tower-obj%3AOSPVE-UO-297_p93101&p_p_id=TOWER_2_INSTANCE_0000&_TOWER_2_INSTANCE_0000_objectId=tower-obj%3AOSPVE-UO-297_p93101&p_l_meta=%2Fhtml%2Fportlet%2Ftower%2Feditorial_office_content%2Fmeta_tags.jsp&_TOWER_2_INSTANCE_0000_objectDetail=true&_TOWER_2_INSTANCE_0000_struts_action=%2Ftower%2Feditorial_office_content%2Fview&p_p_mode=view",
+    "location": { "type": "Point", "coordinates": [10.9854813, 45.4524596] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazzale Aristide Stefani, 1, 37126 Verona VR, Italy",
+        "latitude": 45.4524596,
+        "longitude": 10.9854813,
+        "extra": {
+          "googlePlaceId": "ChIJu1v9NkNff0cRf4paXbahDDo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Verona",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Verona",
+          "level3short": "Verona",
+          "level2long": "Provincia di Verona",
+          "level2short": "VR",
+          "level1long": "Veneto",
+          "level1short": "Veneto"
+        },
+        "streetNumber": "1",
+        "streetName": "Piazzale Aristide Stefani",
+        "city": "Verona",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "37126",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "VENETO",
+    "city": "VICENZA",
+    "hospital": "ULSS 6 \"Vicenza\"",
+    "name": "Centro di Riferimento per le malattie ematologiche rare",
+    "name_en": "Centre of Expertise for rare hematologic diseases",
+    "address": "Centro Malattie Emorragiche e Trombotiche Dipartimento di Terapie Cellulari ed Ematologia ULSS 6 \"Vicenza\" Via Rodolfi 37 36100 VICENZA ITALIE",
+    "consultation_managers": [" Pr Francesco RODEGHIERO"],
+    "phones": ["39 0444 753626", "39 0444 753679"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.aulss8.veneto.it/nodo.php/79",
+    "location": { "type": "Point", "coordinates": [11.5513942, 45.5531634] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Rodolfi, 36100 Vicenza VI, Italy",
+        "latitude": 45.5531634,
+        "longitude": 11.5513942,
+        "extra": {
+          "googlePlaceId": "ChIJo3eDudMzf0cRNv_gv4Xtimo",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Vicenza",
+          "establishment": "Via Rodolfi"
+        },
+        "administrativeLevels": {
+          "level3long": "Vicenza",
+          "level3short": "Vicenza",
+          "level2long": "Provincia di Vicenza",
+          "level2short": "VI",
+          "level1long": "Veneto",
+          "level1short": "Veneto"
+        },
+        "city": "Vicenza",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "36100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "NAPOLI",
+    "hospital": "Azienda Ospedaliera Universitaria \"Federico II\"",
+    "name": "Centro di Riferimento per le malattie endocrine pediatriche rare",
+    "name_en": "Centre of Expertise for rare pediatric endocrine diseases",
+    "address": "U.O.S. di Endocrinologia Pediatrica Dipartimento di Pediatria Azienda Ospedaliera Universitaria \"Federico II\" Via Sergio Pansini 5 80131 NAPOLI ITALIE",
+    "consultation_managers": [" Pr Mariacarolina SALERNO"],
+    "phones": ["39 081 7464339", "39 081 7462673"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.policlinico.unina.it/",
+    "location": { "type": "Point", "coordinates": [14.2226869, 40.8663471] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Sergio Pansini, 5, 80138 Napoli NA, Italy",
+        "latitude": 40.8663471,
+        "longitude": 14.2226869,
+        "extra": {
+          "googlePlaceId": "ChIJFzhAB5oIOxMRGys3ibgc6a0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Napoli",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Napoli",
+          "level3short": "Napoli",
+          "level2long": "Città Metropolitana di Napoli",
+          "level2short": "NA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetNumber": "5",
+        "streetName": "Via Sergio Pansini",
+        "city": "Napoli",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "80138",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "SCAFATI",
+    "hospital": "ASL Salerno",
+    "name": "Consulenza Specialistica per le malattie reumatologiche rare",
+    "name_en": "Specialized clinic for rare rheumatologic diseases",
+    "address": "Dipartimento di Medicina U.O. di Reumatologia ASL Salerno Via Passanti 5 84018 SCAFATI (SA) ITALIE",
+    "consultation_managers": [" Dr Salvatore SCARPATO"],
+    "phones": ["39 081 5356412"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.aslsalerno.it/",
+    "location": { "type": "Point", "coordinates": [14.5247094, 40.7549378] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Passanti, 5, 84018 Scafati SA, Italy",
+        "latitude": 40.7549378,
+        "longitude": 14.5247094,
+        "extra": {
+          "googlePlaceId": "ChIJS0wxy368OxMRXFZ_PuVyezk",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Scafati",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Scafati",
+          "level3short": "Scafati",
+          "level2long": "Provincia di Salerno",
+          "level2short": "SA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetNumber": "5",
+        "streetName": "Via Passanti",
+        "city": "Scafati",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "84018",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "EMILIA ROMAGNA",
+    "city": "BOLOGNA",
+    "hospital": "Istituto Ortopedico Rizzoli - Ospedale",
+    "name": "Centro di Riferimento per le malattie rare scheletriche",
+    "name_en": "Centre of Expertise for rare bone diseases",
+    "address": "Struttura Semplice di Genetica Medica e Malattie Rare Ortopediche Dipartimento di Patologie Ortopediche-Traumatologiche Specialistiche Istituto Ortopedico Rizzoli - Ospedale Via Pupilli 1 10136 BOLOGNA ITALIE",
+    "consultation_managers": [" Dr Luca SANGIORGI"],
+    "phones": ["39 051 6366681"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.ior.it/curarsi-al-rizzoli/genetica-medica-e-malattie-rare-ortopediche",
+    "location": { "type": "Point", "coordinates": [11.3420977, 44.4810976] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Giulio Cesare Pupilli, 1, 40136 Bologna BO, Italy",
+        "latitude": 44.4810976,
+        "longitude": 11.3420977,
+        "extra": {
+          "googlePlaceId": "ChIJpcmixtzUf0cRmFSMsx0uoCY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bologna",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bologna",
+          "level3short": "Bologna",
+          "level2long": "Città Metropolitana di Bologna",
+          "level2short": "BO",
+          "level1long": "Emilia-Romagna",
+          "level1short": "Emilia-Romagna"
+        },
+        "streetNumber": "1",
+        "streetName": "Via Giulio Cesare Pupilli",
+        "city": "Bologna",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "40136",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "FRIULI VENEZIA GIULIA",
+    "city": "TRIESTE",
+    "hospital": "IRCCS Burlo Garofolo - Istituto per l'Infanzia",
+    "name": "Centro di Riferimento per le malattie reumatologiche pediatriche rare",
+    "name_en": "Centre of Expertise for pediatric rare rheumatologic diseases",
+    "address": "Servizio di Reumatologia Pediatrica ed Immunologia Clinica Dipartimento di Pediatria IRCCS Burlo Garofolo - Istituto per l'Infanzia Via dell'Istria 65/1 34137 TRIESTE ITALIE",
+    "consultation_managers": [" Pr Loredana LEPORE"],
+    "phones": ["39 040 3685263", "39 040 3785477"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [13.7859364, 45.6349278] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via dell'Istria, 65, 34137 Trieste TS, Italy",
+        "latitude": 45.6349278,
+        "longitude": 13.7859364,
+        "extra": {
+          "googlePlaceId": "ChIJqWLz1adre0cRMJDajLij9js",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Trieste",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Trieste",
+          "level3short": "Trieste",
+          "level2long": "UTI Giuliana",
+          "level2short": "TS",
+          "level1long": "Friuli-Venezia Giulia",
+          "level1short": "Friuli-Venezia Giulia"
+        },
+        "streetNumber": "65",
+        "streetName": "Via dell'Istria",
+        "city": "Trieste",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "34137",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LAZIO",
+    "city": "ROMA",
+    "hospital": "IRCCS Ospedale Pediatrico Bambino Gesù - SEDE GIANICOLO",
+    "name": "Centro di Riferimento per le malattie reumatologiche pediatriche rare",
+    "name_en": "Centre of Expertise for rare pediatric rheumatic diseases",
+    "address": "U.O. di Reumatologia Dipartimento di Medicina Pediatrica IRCCS Ospedale Pediatrico Bambino Gesù - SEDE GIANICOLO Piazza S. Onofrio 4 00165 ROMA RM ITALIE",
+    "consultation_managers": ["Dr Fabrizio DE BENEDETTI"],
+    "phones": [" 39 06 68592020"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.ospedalebambinogesu.it/home",
+    "location": { "type": "Point", "coordinates": [12.4610205, 41.8976369] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza di Sant'Onofrio, 4, 00165 Roma RM, Italy",
+        "latitude": 41.8976369,
+        "longitude": 12.4610205,
+        "extra": {
+          "googlePlaceId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Roma",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Roma",
+          "level3short": "Roma",
+          "level2long": "Città Metropolitana di Roma",
+          "level2short": "RM",
+          "level1long": "Lazio",
+          "level1short": "Lazio"
+        },
+        "streetNumber": "4",
+        "streetName": "Piazza di Sant'Onofrio",
+        "city": "Roma",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "00165",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LAZIO",
+    "city": "ROMA",
+    "hospital": "IRCCS Ospedale Pediatrico Bambino Gesù - SEDE GIANICOLO",
+    "name": "Centro di Riferimento per le malattie endocrine pediatriche rare",
+    "name_en": "Centre of Expertise for rare endocrine diseases",
+    "address": "U.O. di Endocrinologia e Diabetologia Dipartimento di Pediatrico Universitario-Ospedaliero IRCCS Ospedale Pediatrico Bambino Gesù - SEDE GIANICOLO Piazza S. Onofrio 4 00165 ROMA RM ITALIE",
+    "consultation_managers": [" Dr Marco CAPPA"],
+    "phones": ["39 06 68592301", "39 06 68592935"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ospedalebambinogesu.it/dipartimento-pediatrico-universitario-ospedaliero-dpuo-#.XbrDOJpKjIU",
+    "location": { "type": "Point", "coordinates": [12.4610205, 41.8976369] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza di Sant'Onofrio, 4, 00165 Roma RM, Italy",
+        "latitude": 41.8976369,
+        "longitude": 12.4610205,
+        "extra": {
+          "googlePlaceId": "ChIJDY8LeUJgLxMR1VdZtjuE6m4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Roma",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Roma",
+          "level3short": "Roma",
+          "level2long": "Città Metropolitana di Roma",
+          "level2short": "RM",
+          "level1long": "Lazio",
+          "level1short": "Lazio"
+        },
+        "streetNumber": "4",
+        "streetName": "Piazza di Sant'Onofrio",
+        "city": "Roma",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "00165",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LIGURIA",
+    "city": "GENOVA",
+    "hospital": "IRCCS Istituto G. Gaslini - Ospedale Pediatrico",
+    "name": "Centro di Riferimento per le malattie endocrine pediatriche rare",
+    "name_en": "Centre of Expertise for rare pediatric endocrine diseases",
+    "address": "Day Hospital Endocrinologia Pediatrica Clinica Pediatrica IRCCS Istituto G. Gaslini - Ospedale Pediatrico Largo G. Gaslini 5 16147 GENOVA ITALIE",
+    "consultation_managers": [" Dr Mohamad MAGHNIE"],
+    "phones": ["39 010 5636248", "39 010 5636357"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.gaslini.org/",
+    "location": {
+      "type": "Point",
+      "coordinates": [8.9881853, 44.39284929999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Gerolamo Gaslini, 5, 16147 Genova GE, Italy",
+        "latitude": 44.39284929999999,
+        "longitude": 8.9881853,
+        "extra": {
+          "googlePlaceId": "ChIJ7ZkGMxhD0xIRLO6v99TBgzQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Genova",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Genova",
+          "level3short": "Genova",
+          "level2long": "Città Metropolitana di Genova",
+          "level2short": "GE",
+          "level1long": "Liguria",
+          "level1short": "Liguria"
+        },
+        "streetNumber": "5",
+        "streetName": "Via Gerolamo Gaslini",
+        "city": "Genova",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "16147",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MILANO",
+    "hospital": "Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico",
+    "name": "Consulenza Specialistica per le malattie ossee",
+    "name_en": "Bone diseases specialized clinic",
+    "address": "U.O.C. Endocrinologia e Malattie Metaboliche Dipartimento di Medicina Interna e Specializzazioni Mediche Fondazione IRCCS Ca' Granda - Ospedale Maggiore Policlinico Via Francesco Sforza 35 20122 MILANO ITALIE",
+    "consultation_managers": [],
+    "phones": ["39 02 50320606"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.policlinico.mi.it/",
+    "location": {
+      "type": "Point",
+      "coordinates": [9.195017600000002, 45.4588194]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Francesco Sforza, 35, 20122 Milano MI, Italy",
+        "latitude": 45.4588194,
+        "longitude": 9.195017600000002,
+        "extra": {
+          "googlePlaceId": "ChIJ9RrHu6fGhkcRcawaBawwpqI",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Milano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Milano",
+          "level3short": "Milano",
+          "level2long": "Città Metropolitana di Milano",
+          "level2short": "MI",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "35",
+        "streetName": "Via Francesco Sforza",
+        "city": "Milano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20122",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "MILANO",
+    "hospital": "IRCCS Ospedale San Raffaele",
+    "name": "Centro di riferimento per le malattie ipotalamo-ipofisarie",
+    "name_en": "Centre of Expertise for hypothalamic-hypophyseal diseases",
+    "address": "U.O. Neuroendocrinochirurgia Dipartimento di Neurochirurgia IRCCS Ospedale San Raffaele Via Olgettina 60 20132 MILANO ITALIE",
+    "consultation_managers": [],
+    "phones": ["39 02 26432396"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [9.2657432, 45.5050946] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Olgettina Milano, 60, 20132 Milano MI, Italy",
+        "latitude": 45.5050946,
+        "longitude": 9.2657432,
+        "extra": {
+          "googlePlaceId": "ChIJsws2h2zGhkcR_uRsqqW_EM0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Milano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Milano",
+          "level3short": "Milano",
+          "level2long": "Città Metropolitana di Milano",
+          "level2short": "MI",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "60",
+        "streetName": "Via Olgettina Milano",
+        "city": "Milano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "20132",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PIEMONTE",
+    "city": "TORINO",
+    "hospital": "A.O.U. Città della Salute e della Scienza di Torino - Ospedale Molinette",
+    "name": "Centro di Riferimento per le malattie endocrine rare",
+    "name_en": "Centre of Expertise for rare endocrine diseases",
+    "address": "S.C.D.U. Endocrinologia, Diabetologia e Metabolismo Dipartimento di Scienze Mediche A.O.U. Città della Salute e della Scienza di Torino - Ospedale Molinette Corso Bramante 88/90 10126 TORINO ITALIE",
+    "consultation_managers": ["Pr Roberta GIORDANO"],
+    "phones": ["39 011 6335544", "39 011 6334317"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.cittadellasalute.to.it/index.php?option=com_content&view=article&id=4401:endocrinologia-diabetologia-e-metabolismo-u&catid=140:strutture-sanitarie-sede-presidio-molinette&Itemid=412",
+    "location": { "type": "Point", "coordinates": [7.6742608, 45.0413665] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Corso Bramante, 88, 10126 Torino TO, Italy",
+        "latitude": 45.0413665,
+        "longitude": 7.6742608,
+        "extra": {
+          "googlePlaceId": "ChIJy1u2VkttiEcRdOONCSpobgY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Torino",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Torino",
+          "level3short": "Torino",
+          "level2long": "Città Metropolitana di Torino",
+          "level2short": "TO",
+          "level1long": "Piemonte",
+          "level1short": "Piemonte"
+        },
+        "streetNumber": "88",
+        "streetName": "Corso Bramante",
+        "city": "Torino",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "10126",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PUGLIA",
+    "city": "BARI",
+    "hospital": "Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari",
+    "name": "Centro di Riferimento per le malattie reumatologiche rare",
+    "name_en": "Centre of expertise for rare rheumatologic diseases",
+    "address": "U.O.C. Reumatologia Universitaria Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari Piazza Giulio Cesare 11 70124 BARI ITALIE",
+    "consultation_managers": ["Pr Giovanni LAPADULA"],
+    "phones": ["39 080 5592592", "39 080 5592775"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.sanita.puglia.it/web/ospedalegiovannixxiii/",
+    "location": { "type": "Point", "coordinates": [16.86185, 41.1120624] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Giulio Cesare, 11, 70124 Bari BA, Italy",
+        "latitude": 41.1120624,
+        "longitude": 16.86185,
+        "extra": {
+          "googlePlaceId": "ChIJzTqXs_noRxMRhfzLbnMrz14",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bari",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bari",
+          "level3short": "Bari",
+          "level2long": "Città Metropolitana di Bari",
+          "level2short": "BA",
+          "level1long": "Puglia",
+          "level1short": "Puglia"
+        },
+        "streetNumber": "11",
+        "streetName": "Piazza Giulio Cesare",
+        "city": "Bari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "70124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PUGLIA",
+    "city": "BARI",
+    "hospital": "Ospedale Pediatrico Giovanni XXIII",
+    "name": "Centro di Riferimento per le malattie endocrine rare",
+    "name_en": "Centre of Expertise for rare endocrine diseases",
+    "address": "U.O.C. Malattie Metaboliche e Genetiche D.A.I. Pediatria Ospedale Pediatrico Giovanni XXIII Via Giovanni Amendola 207 70126 BARI ITALIE",
+    "consultation_managers": [],
+    "phones": ["39 080 5596659", "39 080 5596582"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.sanita.puglia.it/portal/page/portal/SAUSSC/Aziende%20Sanitarie/AZIENDE%20OSPEDALIERE/Azienda%20Ospedaliero%20Universitaria%20Consorziale%20Policlinico",
+    "location": { "type": "Point", "coordinates": [16.8871342, 41.0983805] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Giovanni Amendola, 207, 70126 Bari BA, Italy",
+        "latitude": 41.0983805,
+        "longitude": 16.8871342,
+        "extra": {
+          "googlePlaceId": "ChIJI3vbrsrpRxMRIqKWdVxTCzw",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bari",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bari",
+          "level3short": "Bari",
+          "level2long": "Città Metropolitana di Bari",
+          "level2short": "BA",
+          "level1long": "Puglia",
+          "level1short": "Puglia"
+        },
+        "streetNumber": "207",
+        "streetName": "Via Giovanni Amendola",
+        "city": "Bari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "70126",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PUGLIA",
+    "city": "BARI",
+    "hospital": "Ospedale Pediatrico Giovanni XXIII",
+    "name": "Centro di Riferimento per le malattie endocrine pediatriche rare",
+    "name_en": "Centre of Expertise for rare pediatric endocrine diseases",
+    "address": "U.O.C. Pediatria Generale e Specialistica \" Bruno Trambusti\" D.A.I. di Scienze Chirurgiche e Pediatriche Ospedale Pediatrico Giovanni XXIII Via Giovanni Amendola 207 70126 BARI ITALIE",
+    "consultation_managers": [" Pr Luciano CAVALLO"],
+    "phones": ["39 080 5596798"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.sanita.puglia.it/web/ospedalegiovannixxiii/",
+    "location": { "type": "Point", "coordinates": [16.8871342, 41.0983805] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Giovanni Amendola, 207, 70126 Bari BA, Italy",
+        "latitude": 41.0983805,
+        "longitude": 16.8871342,
+        "extra": {
+          "googlePlaceId": "ChIJI3vbrsrpRxMRIqKWdVxTCzw",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bari",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bari",
+          "level3short": "Bari",
+          "level2long": "Città Metropolitana di Bari",
+          "level2short": "BA",
+          "level1long": "Puglia",
+          "level1short": "Puglia"
+        },
+        "streetNumber": "207",
+        "streetName": "Via Giovanni Amendola",
+        "city": "Bari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "70126",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PUGLIA",
+    "city": "RUFFANO",
+    "hospital": "Ars Radiologica srl",
+    "name": "Consulenza Specialistica di Radiologia e Diagnostica per Immagini per le malattie ossee",
+    "name_en": "Bone diseases anomalies specialized radiology and diagnostic imaging clinic",
+    "address": "Centro di Diagnostica per Immagini Ars Radiologica srl Piazza Nazario Sauro 6 73049 RUFFANO (LE) ITALIE",
+    "consultation_managers": [],
+    "phones": [" 39 0833 693656"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.arsradiologica.it/pagine/default.asp",
+    "location": { "type": "Point", "coordinates": [18.2469963, 39.9859629] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Nazario Sauro, 6, 73049 Ruffano LE, Italy",
+        "latitude": 39.9859629,
+        "longitude": 18.2469963,
+        "extra": {
+          "googlePlaceId": "ChIJTTJ_iwQQRBMRIkwGgx5qnVA",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Ruffano",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Ruffano",
+          "level3short": "Ruffano",
+          "level2long": "Provincia di Lecce",
+          "level2short": "LE",
+          "level1long": "Puglia",
+          "level1short": "Puglia"
+        },
+        "streetNumber": "6",
+        "streetName": "Piazza Nazario Sauro",
+        "city": "Ruffano",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "73049",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SICILIA",
+    "city": "MESSINA",
+    "hospital": "A.O.U. Policlinico \"G. Martino\"",
+    "name": "Centro di Riferimento per le malattie endocrine pediatriche rare",
+    "name_en": "Centre of Expertise for rare pediatric endocrine diseases",
+    "address": "U.O. Clinica Pediatrica Dipartimento Materno Infantile A.O.U. Policlinico \"G. Martino\" Via Consolare Valeria 1 98125 MESSINA ITALIE",
+    "consultation_managers": ["Dr Fortunato LOMBARDO"],
+    "phones": ["39 090 2213151"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.polime.it/",
+    "location": { "type": "Point", "coordinates": [15.5380047, 38.1653015] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Consolare Valeria, 1, 98124 Messina ME, Italy",
+        "latitude": 38.1653015,
+        "longitude": 15.5380047,
+        "extra": {
+          "googlePlaceId": "ChIJQyf2DeVOFBMRNKCuvK_alNM",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Messina",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Messina",
+          "level3short": "Messina",
+          "level2long": "Provincia di Messina",
+          "level2short": "ME",
+          "level1long": "Sicilia",
+          "level1short": "Sicilia"
+        },
+        "streetNumber": "1",
+        "streetName": "Via Consolare Valeria",
+        "city": "Messina",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "98124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SICILIA",
+    "city": "MESSINA",
+    "hospital": "A.O.U. Policlinico \"G. Martino\"",
+    "name": "Centro di riferimento per le malattie reumatologiche pediatriche rare",
+    "name_en": "Centre of Expertise for paediatric rare rheumatologic diseases",
+    "address": "UOSD Nefrologia e Reumatologia Pediatrica con Dialisi Dipartimento Materno Infantile A.O.U. Policlinico \"G. Martino\" Via Consolare Valeria 1 98125 MESSINA ITALIE",
+    "consultation_managers": ["Pr Carmelo FEDE"],
+    "phones": ["39 090 2217106", "39 090 2213118"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [15.5380047, 38.1653015] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Consolare Valeria, 1, 98124 Messina ME, Italy",
+        "latitude": 38.1653015,
+        "longitude": 15.5380047,
+        "extra": {
+          "googlePlaceId": "ChIJQyf2DeVOFBMRNKCuvK_alNM",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Messina",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Messina",
+          "level3short": "Messina",
+          "level2long": "Provincia di Messina",
+          "level2short": "ME",
+          "level1long": "Sicilia",
+          "level1short": "Sicilia"
+        },
+        "streetNumber": "1",
+        "streetName": "Via Consolare Valeria",
+        "city": "Messina",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "98124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TOSCANA",
+    "city": "FIRENZE",
+    "hospital": "Azienda Ospedaliera Universitaria Anna Meyer",
+    "name": "Centro di Riferimento per le malattie reumatologiche pediatriche rare",
+    "name_en": "Centre of Expertise for paediatric rare rheumatologic diseases",
+    "address": "Servizio di Reumatologia Azienda Ospedaliera Universitaria Anna Meyer Viale Pieraccini 24 50139 FIRENZE ITALIE",
+    "consultation_managers": [" Pr Rolando CIMAZ"],
+    "phones": ["39 055 5662924", "39 055 5662913"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [11.2523823, 43.8104324] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Viale Gaetano Pieraccini, 24, 50139 Firenze FI, Italy",
+        "latitude": 43.8104324,
+        "longitude": 11.2523823,
+        "extra": {
+          "googlePlaceId": "ChIJb23ubX5WKhMRL3RilnlUNPI",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Firenze",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Firenze",
+          "level3short": "Firenze",
+          "level2long": "Città Metropolitana di Firenze",
+          "level2short": "FI",
+          "level1long": "Toscana",
+          "level1short": "Toscana"
+        },
+        "streetNumber": "24",
+        "streetName": "Viale Gaetano Pieraccini",
+        "city": "Firenze",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "50139",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TOSCANA",
+    "city": "FIRENZE",
+    "hospital": "Azienda Ospedaliero Universitaria Careggi",
+    "name": "Centro di Riferimento per le malattie rare dell'osso",
+    "name_en": "Centre of Expertise for rare bone diseases",
+    "address": "S.O.D. Malattie del Metabolismo Minerale ed Osseo Dipartimento di Ortopedia - Centro Traumatologico Ortopedico Azienda Ospedaliero Universitaria Careggi Largo Brambilla 3 50134 FIRENZE ITALIE",
+    "consultation_managers": [" Pr Maria Luisa BRANDI"],
+    "phones": ["39 055 7946303", "39 055 7948021"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.aou-careggi.toscana.it/internet/index.php?option=com_content&view=article&id=12&Itemid=159&lang=it",
+    "location": { "type": "Point", "coordinates": [11.2477372, 43.806933] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Largo G. Alessandro Brambilla, 3, 50134 Firenze FI, Italy",
+        "latitude": 43.806933,
+        "longitude": 11.2477372,
+        "extra": {
+          "googlePlaceId": "ChIJW6UE7n1WKhMRcm2AbusRVz0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Firenze",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Firenze",
+          "level3short": "Firenze",
+          "level2long": "Città Metropolitana di Firenze",
+          "level2short": "FI",
+          "level1long": "Toscana",
+          "level1short": "Toscana"
+        },
+        "streetNumber": "3",
+        "streetName": "Largo G. Alessandro Brambilla",
+        "city": "Firenze",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "50134",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TOSCANA",
+    "city": "SIENA",
+    "hospital": "Azienda Ospedaliera Universitaria Senese - Ospedale Santa Maria alle Scotte",
+    "name": "Centro di Riferimento per le malattie endocrine rare",
+    "name_en": "Centre of Expertise for rare endocrine diseases",
+    "address": "U.O.C. di Endocrinologia Azienda Ospedaliera Universitaria Senese - Ospedale Santa Maria alle Scotte Viale Mario Bracci 53100 SIENA ITALIE",
+    "consultation_managers": [" Pr Furio PACINI"],
+    "phones": ["39 0577 585406"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ao-siena.toscana.it/",
+    "location": { "type": "Point", "coordinates": [11.3288254, 43.3423624] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Viale Mario Bracci, 53100 Siena SI, Italy",
+        "latitude": 43.3423624,
+        "longitude": 11.3288254,
+        "extra": {
+          "googlePlaceId": "ChIJN_36FNwsKhMRngDS77ueNIg",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Siena",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Siena",
+          "level3short": "Siena",
+          "level2long": "Provincia di Siena",
+          "level2short": "SI",
+          "level1long": "Toscana",
+          "level1short": "Toscana"
+        },
+        "streetName": "Viale Mario Bracci",
+        "city": "Siena",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "53100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TRENTINO ALTO ADIGE",
+    "city": "BOLZANO",
+    "hospital": "Azienda Sanitaria dell'Alto Adige - Ospedale di Bolzano",
+    "name": "Centro di Riferimento per le malattie endocrine rare",
+    "name_en": "Centre of Expertise for rare endocrine diseases",
+    "address": "Dipartimento di Medicina Interna Azienda Sanitaria dell'Alto Adige - Ospedale di Bolzano Via Lorenz Böhler 5 39100 BOLZANO ITALIE",
+    "consultation_managers": [" Pr Christian WIEDERMANN"],
+    "phones": ["39 0471 908566"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.asdaa.it/it/osp-bolzano.asp",
+    "location": { "type": "Point", "coordinates": [11.3104178, 46.4986237] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Lorenz-Böhler-Straße, 5, 39100 Bozen, Südtirol, Italy",
+        "latitude": 46.4986237,
+        "longitude": 11.3104178,
+        "extra": {
+          "googlePlaceId": "ChIJb_k1tqeegkcR69EURZCtNcU",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bozen",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bozen",
+          "level3short": "Bozen",
+          "level2long": "Südtirol",
+          "level2short": "BZ",
+          "level1long": "Trentino-Alto Adige",
+          "level1short": "Trentino-Alto Adige"
+        },
+        "streetNumber": "5",
+        "streetName": "Lorenz-Böhler-Straße",
+        "city": "Bozen",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "39100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TRENTINO ALTO ADIGE",
+    "city": "TRENTO",
+    "hospital": "Ospedale Santa Chiara",
+    "name": "Centro di riferimento per le malattie reumatologiche",
+    "name_en": "Centre of expertise for rare rheumatologic diseases",
+    "address": "U.O. di Reumatologia Ospedale Santa Chiara Largo Medaglie D'Oro 38100 TRENTO ITALIE",
+    "consultation_managers": [" Dr Giuseppe PAOLAZZI"],
+    "phones": ["39 0461 903251", "39 0461 903962"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [11.1331093, 46.0568908] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Largo Medaglie d'oro, 9, 38122 Trento TN, Italy",
+        "latitude": 46.0568908,
+        "longitude": 11.1331093,
+        "extra": {
+          "googlePlaceId": "ChIJZTbLZKV2gkcRrnGjmAhyB6c",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Trento",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Trento",
+          "level3short": "Trento",
+          "level2long": "Trentino",
+          "level2short": "TN",
+          "level1long": "Trentino-Alto Adige",
+          "level1short": "Trentino-Alto Adige"
+        },
+        "streetNumber": "9",
+        "streetName": "Largo Medaglie d'oro",
+        "city": "Trento",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "38122",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "VENETO",
+    "city": "VERONA",
+    "hospital": "Azienda Ospedaliera Universitaria Integrata di Verona - Ospedale Borgo Roma",
+    "name": "Centro di Riferimento per la diagnosi e cura delle malattie rare scheletriche dell'età evolutiva",
+    "name_en": "Centre of Expertise for diagnosis and treatment of rare skeletal diseases in childhood",
+    "address": "Servizio di Endocrinologia Pediatrica U.O. di Pediatria - Dipartimento di Scienze della Vita e della Riproduzione Azienda Ospedaliera Universitaria Integrata di Verona - Ospedale Borgo Roma Piazzale Ludovico Antonio Scuro 10 37134 VERONA ITALIE",
+    "consultation_managers": ["Pr Franco ANTONIAZZI"],
+    "phones": ["30 045 8128440", "39 045 8124395"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.aovr.veneto.it/",
+    "location": { "type": "Point", "coordinates": [10.9942648, 45.4036956] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazzale L.A. Scuro, 10, 37134 Verona VR, Italy",
+        "latitude": 45.4036956,
+        "longitude": 10.9942648,
+        "extra": {
+          "googlePlaceId": "ChIJp-gV7qRff0cRw2-FBblPN1M",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Verona",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Verona",
+          "level3short": "Verona",
+          "level2long": "Provincia di Verona",
+          "level2short": "VR",
+          "level1long": "Veneto",
+          "level1short": "Veneto"
+        },
+        "streetNumber": "10",
+        "streetName": "Piazzale L.A. Scuro",
+        "city": "Verona",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "37134",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "VENETO",
+    "city": "VERONA",
+    "hospital": "Azienda Ospedaliera Universitaria Integrata di Verona - Ospedale Borgo Roma",
+    "name": "Centro di Riferimento per le malattie endocrine pediatriche rare",
+    "name_en": "Centre of Expertise for rare pediatric endocrine diseases",
+    "address": "Servizio di Endocrinologia Pediatrica U.O. di Pediatria - Dipartimento di Scienze della Vita e della Riproduzione Azienda Ospedaliera Universitaria Integrata di Verona - Ospedale Borgo Roma Piazzale Ludovico Antonio Scuro 10 37134 VERONA ITALIE",
+    "consultation_managers": [],
+    "phones": ["30 045 8128440", "39 045 8124395"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.aovr.veneto.it/",
+    "location": { "type": "Point", "coordinates": [10.9942648, 45.4036956] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazzale L.A. Scuro, 10, 37134 Verona VR, Italy",
+        "latitude": 45.4036956,
+        "longitude": 10.9942648,
+        "extra": {
+          "googlePlaceId": "ChIJp-gV7qRff0cRw2-FBblPN1M",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Verona",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Verona",
+          "level3short": "Verona",
+          "level2long": "Provincia di Verona",
+          "level2short": "VR",
+          "level1long": "Veneto",
+          "level1short": "Veneto"
+        },
+        "streetNumber": "10",
+        "streetName": "Piazzale L.A. Scuro",
+        "city": "Verona",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "37134",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "NAPOLI",
+    "hospital": "AOU Seconda Università degli Studi di Napoli - Cappella Cangiani",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare",
+    "name_en": "Centre of Expertise for rare systemic or rheumatologic diseases",
+    "address": "Divisione di Reumatologia Dipartimento Assistenziale Integrato di Medicina Interna e Specialistica CC AOU Seconda Università degli Studi di Napoli - Cappella Cangiani Via Sergio Pansini 5 80131 NAPOLI ITALIE",
+    "consultation_managers": ["Pr Gabriele VALENTINI"],
+    "phones": ["39 081 5666746", "39 081 5464487"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.unicampania.it/",
+    "location": { "type": "Point", "coordinates": [14.2226869, 40.8663471] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Sergio Pansini, 5, 80138 Napoli NA, Italy",
+        "latitude": 40.8663471,
+        "longitude": 14.2226869,
+        "extra": {
+          "googlePlaceId": "ChIJFzhAB5oIOxMRGys3ibgc6a0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Napoli",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Napoli",
+          "level3short": "Napoli",
+          "level2long": "Città Metropolitana di Napoli",
+          "level2short": "NA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetNumber": "5",
+        "streetName": "Via Sergio Pansini",
+        "city": "Napoli",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "80138",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "NAPOLI",
+    "hospital": "Azienda Ospedaliera \"A. Cardarelli\"",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare",
+    "name_en": "Centre of Expertise for rare rheumatologic and systemic diseases",
+    "address": "U.O.S. di Reumatologia Dipartimento di Medicina Interna 3 Azienda Ospedaliera \"A. Cardarelli\" Via Cardarelli 9 80131 NAPOLI ITALIE",
+    "consultation_managers": [" Dr Generoso UOMO"],
+    "phones": ["39 081 7472117"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ospedalecardarelli.it/",
+    "location": { "type": "Point", "coordinates": [14.2258287, 40.8651106] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Antonio Cardarelli, 9, 80131 Napoli NA, Italy",
+        "latitude": 40.8651106,
+        "longitude": 14.2258287,
+        "extra": {
+          "googlePlaceId": "ChIJ6SweC5AIOxMReKAkeaLlh20",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Napoli",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Napoli",
+          "level3short": "Napoli",
+          "level2long": "Città Metropolitana di Napoli",
+          "level2short": "NA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetNumber": "9",
+        "streetName": "Via Antonio Cardarelli",
+        "city": "Napoli",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "80131",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "NAPOLI",
+    "hospital": "Azienda Ospedaliera Universitaria \"Federico II\"",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare",
+    "name_en": "Centre of Expertise for rare rheumatologic and systemic diseases",
+    "address": "Area Funzionale di Reumatologia e Riabilitazione Reumatologica Dipartimento di Medicina Clinica e Chirurgia Azienda Ospedaliera Universitaria \"Federico II\" Via Sergio Pansini 5 80131 NAPOLI ITALIE",
+    "consultation_managers": [" Pr Raffaele SCARPA"],
+    "phones": ["39 081 7463773"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.policlinico.unina.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1",
+    "location": { "type": "Point", "coordinates": [14.221714, 40.866693] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Sergio Pansini, 5, 80131 Napoli NA, Italy",
+        "latitude": 40.866693,
+        "longitude": 14.221714,
+        "extra": {
+          "googlePlaceId": "ChIJB-Wz7JYIOxMRpGRC0w_nIWo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Napoli",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Napoli",
+          "level3short": "Napoli",
+          "level2long": "Città Metropolitana di Napoli",
+          "level2short": "NA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetNumber": "5",
+        "streetName": "Via Sergio Pansini",
+        "city": "Napoli",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "80131",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PUGLIA",
+    "city": "BARI",
+    "hospital": "Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare",
+    "name_en": "Centre of Expertise for rare systemic and rheumatologic diseases",
+    "address": "U.O. Patologie Reumatologiche e Autoimmuni Sistemiche Dipartimento di Scienze Biomediche ed Oncologia Umana Azienda Ospedaliero-Universitaria Consorziale Policlinico di Bari Piazza Giulio Cesare 11 70124 BARI ITALIE",
+    "consultation_managers": ["Pr Federico PEROSA"],
+    "phones": ["39 080 5478862"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.sanita.puglia.it/web/ospedalegiovannixxiii/",
+    "location": { "type": "Point", "coordinates": [16.86185, 41.1120624] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Giulio Cesare, 11, 70124 Bari BA, Italy",
+        "latitude": 41.1120624,
+        "longitude": 16.86185,
+        "extra": {
+          "googlePlaceId": "ChIJzTqXs_noRxMRhfzLbnMrz14",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Bari",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Bari",
+          "level3short": "Bari",
+          "level2long": "Città Metropolitana di Bari",
+          "level2short": "BA",
+          "level1long": "Puglia",
+          "level1short": "Puglia"
+        },
+        "streetNumber": "11",
+        "streetName": "Piazza Giulio Cesare",
+        "city": "Bari",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "70124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SICILIA",
+    "city": "CATANIA",
+    "hospital": "Azienda Ospedaliero Universitaria \"Policlinico Vittorio Emanuele\"",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare pediatriche",
+    "name_en": "Centre of Expertise for rare pediatric rheumatologic and systemic diseases",
+    "address": "U.O.C. di Broncopneumologia Pediatrica Dipartimento Materno Infantile Policlinico OVE Azienda Ospedaliero Universitaria \"Policlinico Vittorio Emanuele\" Via S. Sofia 78 95123 CATANIA ITALIE",
+    "consultation_managers": [" Dr Patrizia BARONE"],
+    "phones": ["39 095 3782424", " 39 095 3782460"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.policlinicovittorioemanuele.it/",
+    "location": { "type": "Point", "coordinates": [15.0694568, 37.5292221] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Santa Sofia, 78, 95125 Catania CT, Italy",
+        "latitude": 37.5292221,
+        "longitude": 15.0694568,
+        "extra": {
+          "googlePlaceId": "ChIJE0W-QSP9ExMRAuk3ng_m7ww",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Catania",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Catania",
+          "level3short": "Catania",
+          "level2long": "Provincia di Catania",
+          "level2short": "CT",
+          "level1long": "Sicilia",
+          "level1short": "Sicilia"
+        },
+        "streetNumber": "78",
+        "streetName": "Via Santa Sofia",
+        "city": "Catania",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "95125",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "SICILIA",
+    "city": "CATANIA",
+    "hospital": "Policlinico Vittorio Emanuele",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare",
+    "name_en": "Centre of Expertise for rare systemic or rheumatologic diseases",
+    "address": "U.O. di Reumatologia Policlinico Vittorio Emanuele Via Plebiscito 628 95123 CATANIA ITALIE",
+    "consultation_managers": ["Pr Rosario FOTI"],
+    "phones": ["39 095 7435047", "39 095 7435046"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.policlinicovittorioemanuele.it/",
+    "location": { "type": "Point", "coordinates": [15.0781905, 37.5050613] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Plebiscito, 628, 95124 Catania CT, Italy",
+        "latitude": 37.5050613,
+        "longitude": 15.0781905,
+        "extra": {
+          "googlePlaceId": "ChIJGwSyBNbiExMRbiAE862zxAw",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Catania",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Catania",
+          "level3short": "Catania",
+          "level2long": "Provincia di Catania",
+          "level2short": "CT",
+          "level1long": "Sicilia",
+          "level1short": "Sicilia"
+        },
+        "streetNumber": "628",
+        "streetName": "Via Plebiscito",
+        "city": "Catania",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "95124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TOSCANA",
+    "city": "FIRENZE",
+    "hospital": "AOU Careggi",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare",
+    "name_en": "Centre of Expertise for rare systemic and rheumatologic diseases",
+    "address": "S.O.D. di Reumatologia Dipartimento di Biomedicina AOU Careggi Viale Pieraccini 6 50139 FIRENZE ITALIE",
+    "consultation_managers": [" Pr Marco MATUCCI-CERINIC"],
+    "phones": ["39 055 7949271"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.aou-careggi.toscana.it/internet/index.php?option=com_content&view=article&id=646&Itemid=212&lang=it",
+    "location": { "type": "Point", "coordinates": [11.2477372, 43.806933] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Largo G. Alessandro Brambilla, 3, 50134 Firenze FI, Italy",
+        "latitude": 43.806933,
+        "longitude": 11.2477372,
+        "extra": {
+          "googlePlaceId": "ChIJW6UE7n1WKhMRcm2AbusRVz0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Firenze",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Firenze",
+          "level3short": "Firenze",
+          "level2long": "Città Metropolitana di Firenze",
+          "level2short": "FI",
+          "level1long": "Toscana",
+          "level1short": "Toscana"
+        },
+        "streetNumber": "3",
+        "streetName": "Largo G. Alessandro Brambilla",
+        "city": "Firenze",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "50134",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "TOSCANA",
+    "city": "PISA",
+    "hospital": "Azienda Ospedaliero Universitaria Pisana - Ospedale S. Chiara",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare",
+    "name_en": "Centre of Expertise for rare systemic or rheumatologic diseases",
+    "address": "U.O. di Reumatologia Azienda Ospedaliero Universitaria Pisana - Ospedale S. Chiara Via Roma 67 56126 PISA ITALIE",
+    "consultation_managers": ["Pr Stefano BOMBARDIERI"],
+    "phones": ["39 050 992519"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ao-pisa.toscana.it/",
+    "location": { "type": "Point", "coordinates": [10.3949373, 43.7219449] },
+    "meta": {
+      "place": {
+        "formattedAddress": "20 Bis, Azienda Ospedaliero Universitaria Pisana - Stabilimento di Santa Chiara, Via Roma, 67, 56126 Pisa PI, Italy",
+        "latitude": 43.7219449,
+        "longitude": 10.3949373,
+        "extra": {
+          "googlePlaceId": "ChIJs7A0BQqR1RIRkJfDw9TY11s",
+          "confidence": 1,
+          "premise": "Azienda Ospedaliero Universitaria Pisana - Stabilimento di Santa Chiara",
+          "subpremise": null,
+          "neighborhood": "Pisa",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Pisa",
+          "level3short": "Pisa",
+          "level2long": "Provincia di Pisa",
+          "level2short": "PI",
+          "level1long": "Toscana",
+          "level1short": "Toscana"
+        },
+        "streetNumber": "67",
+        "streetName": "Via Roma",
+        "city": "Pisa",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "56126",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "VENETO",
+    "city": "PADOVA",
+    "hospital": "Azienda Ospedaliera di Padova",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare",
+    "name_en": "Centre of Expertise for rare rheumatologic and systemic diseases",
+    "address": "U.O.C. di Reumatologia Dipartimento di Medicina Azienda Ospedaliera di Padova Via Giustiniani 2 35128 PADOVA PD ITALIE",
+    "consultation_managers": [" Pr Leonardo PUNZI"],
+    "phones": ["39 049 8212190"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.aopd.veneto.it/",
+    "location": { "type": "Point", "coordinates": [11.887838, 45.4033988] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Nicolò Giustiniani, 2, 35128 Padova PD, Italy",
+        "latitude": 45.4033988,
+        "longitude": 11.887838,
+        "extra": {
+          "googlePlaceId": "ChIJ6avQ5vjafkcR1mvzBmOo2Yg",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Padova",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Padova",
+          "level3short": "Padova",
+          "level2long": "Provincia di Padova",
+          "level2short": "PD",
+          "level1long": "Veneto",
+          "level1short": "Veneto"
+        },
+        "streetNumber": "2",
+        "streetName": "Via Nicolò Giustiniani",
+        "city": "Padova",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "35128",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "CAMPANIA",
+    "city": "NAPOLI",
+    "hospital": "Azienda Ospedaliera A. Cardarelli",
+    "name": "Centro di Riferimento per le emoglobinopatie",
+    "name_en": "Centre of Expertise for hemoglobinopathies",
+    "address": "U.O.S.D. Centro per le Microcitemie Dipartimento Onco-Pneumo-Ematologia Azienda Ospedaliera A. Cardarelli Via Cardarelli 9 80131 NAPOLI ITALIE",
+    "consultation_managers": [],
+    "phones": ["39 081 7472704", "39 081 7472256"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ospedalecardarelli.it/",
+    "location": { "type": "Point", "coordinates": [14.2255972, 40.8627201] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Antonio Cardarelli, 9, 80131 Napoli NA, Italy",
+        "latitude": 40.8627201,
+        "longitude": 14.2255972,
+        "extra": {
+          "googlePlaceId": "ChIJ6SweC5AIOxMReKAkeaLlh20",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Napoli",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Napoli",
+          "level3short": "Napoli",
+          "level2long": "Città Metropolitana di Napoli",
+          "level2short": "NA",
+          "level1long": "Campania",
+          "level1short": "Campania"
+        },
+        "streetName": "Via Antonio Cardarelli",
+        "city": "Napoli",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "80131",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "EMILIA ROMAGNA",
+    "city": "FERRARA",
+    "hospital": "A.O.U. di Ferrara - Nuovo Ospedale S.Anna - Sede di Cona",
+    "name": "Centro di Riferimento per le emoglobinopatie",
+    "name_en": "Centre of Expertise for hemoglobinopathies",
+    "address": "Day Hospital della Talassemia e delle Emoglobinopatie Dipartimento di Accrescimento e Riproduzione A.O.U. di Ferrara - Nuovo Ospedale S.Anna - Sede di Cona Via Aldo Moro 8 44124 FERRARA ITALIE",
+    "consultation_managers": ["Dr Maria Rita GAMBERINI"],
+    "phones": ["39 0532 237349"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ospfe.it/",
+    "location": { "type": "Point", "coordinates": [11.6970199, 44.7992809] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Aldo Moro, 8, 44124 Ferrara FE, Italy",
+        "latitude": 44.7992809,
+        "longitude": 11.6970199,
+        "extra": {
+          "googlePlaceId": "ChIJzab0iJFFfkcRmrYbjwERgFc",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Ferrara",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Ferrara",
+          "level3short": "Ferrara",
+          "level2long": "Provincia di Ferrara",
+          "level2short": "FE",
+          "level1long": "Emilia-Romagna",
+          "level1short": "Emilia-Romagna"
+        },
+        "streetName": "Via Aldo Moro",
+        "city": "Ferrara",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "44124",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "LOMBARDIA",
+    "city": "VARESE",
+    "hospital": "A.O.U. Ospedale di Circolo e Fondazione Macchi - Ospedale Filippo Del Ponte",
+    "name": "Centro di Riferimento per il disturbo emorragico raro da difetto delle piastrine e le anemie rare",
+    "name_en": "Centre of Expertise for rare hemorrhagic disorder due to a platelet anomaly and rare anemias",
+    "address": "U.O.C. di Pediatria Dipartimento Materno Infantile A.O.U. Ospedale di Circolo e Fondazione Macchi - Ospedale Filippo Del Ponte Via Filippo del Ponte 19 21100 VARESE ITALIE",
+    "consultation_managers": ["Pr Luigi NESPOLI"],
+    "phones": ["39 0332 299231", "39 0332 299247"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.asst-settelaghi.it/ospedali/delponte-varese/",
+    "location": {
+      "type": "Point",
+      "coordinates": [8.834321400000002, 45.8152645]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via del Ponte, 19, 21100 Varese VA, Italy",
+        "latitude": 45.8152645,
+        "longitude": 8.834321400000002,
+        "extra": {
+          "googlePlaceId": "ChIJH7r4EpyAhkcRuTsps_a7_EY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Varese",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Varese",
+          "level3short": "Varese",
+          "level2long": "Provincia di Varese",
+          "level2short": "VA",
+          "level1long": "Lombardia",
+          "level1short": "Lombardia"
+        },
+        "streetNumber": "19",
+        "streetName": "Via del Ponte",
+        "city": "Varese",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "21100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PIEMONTE",
+    "city": "TORINO",
+    "hospital": "A.O. Città della Salute e della Scienza di Torino - Ospedale Regina Margherita",
+    "name": "Centro di Riferimento per i difetti rari della coagulazione e le anemie rare",
+    "name_en": "Centre of Expertise for rare coagulation disorders and rare anemias",
+    "address": "S.S. di Ematologia Pediatrica Dipartimento di Scienze Pediatriche e dell'Adolescenza A.O. Città della Salute e della Scienza di Torino - Ospedale Regina Margherita Piazza Polonia 94 10126 TORINO ITALIE",
+    "consultation_managers": [" Pr Ugo RAMENGHI"],
+    "phones": ["39 011 3135356", "39 011 3135303"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.cittadellasalute.to.it/index.php?option=com_content&view=article&id=3467:ematologia-pediatrica-&catid=141:strutture-sanitarie-citta-della-salute-oirm",
+    "location": { "type": "Point", "coordinates": [7.6748349, 45.0345582] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Polonia, 94, 10126 Torino TO, Italy",
+        "latitude": 45.0345582,
+        "longitude": 7.6748349,
+        "extra": {
+          "googlePlaceId": "ChIJkdR7drESiEcR7_ZeJUaNtx4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Torino",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Torino",
+          "level3short": "Torino",
+          "level2long": "Città Metropolitana di Torino",
+          "level2short": "TO",
+          "level1long": "Piemonte",
+          "level1short": "Piemonte"
+        },
+        "streetNumber": "94",
+        "streetName": "Piazza Polonia",
+        "city": "Torino",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "10126",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PIEMONTE",
+    "city": "CUNEO",
+    "hospital": "A. O. Santa Croce e Carle - Ospedale S.Croce",
+    "name": "Centro di Riferimento per le malattie endocrine rare",
+    "name_en": "Centre of Expertise for rare endocrine diseases",
+    "address": "S.C. di Endocrinologia, Diabetologia e Metabolismo Dipartimento di Medicina 1 A. O. Santa Croce e Carle - Ospedale S.Croce Via Michele Coppino 26 12100 CUNEO ITALIE",
+    "consultation_managers": [" Dr Giorgio BORRETTA"],
+    "phones": ["39 0171 642030"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.ospedale.cuneo.it/",
+    "location": { "type": "Point", "coordinates": [7.5366136, 44.3853584] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Via Michele Coppino, 26, 12100 Cuneo CN, Italy",
+        "latitude": 44.3853584,
+        "longitude": 7.5366136,
+        "extra": {
+          "googlePlaceId": "ChIJPQjbx1lpzRIRYkHDP6tx-nc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Cuneo",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Cuneo",
+          "level3short": "Cuneo",
+          "level2long": "Provincia di Cuneo",
+          "level2short": "CN",
+          "level1long": "Piemonte",
+          "level1short": "Piemonte"
+        },
+        "streetNumber": "26",
+        "streetName": "Via Michele Coppino",
+        "city": "Cuneo",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "12100",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PIEMONTE",
+    "city": "TORINO",
+    "hospital": "A.O. Città della Salute e della Scienza di Torino - Ospedale Regina Margherita",
+    "name": "Centro di Riferimento per le malattie endocrine rare",
+    "name_en": "Centre of Expertise for rare endocrine diseases",
+    "address": "S.S. di Endocrinologia S.C.D.U. Endrocrinologia e Diabetologia Pediatrica A.O. Città della Salute e della Scienza di Torino - Ospedale Regina Margherita Piazza Polonia 94 10126 TORINO ITALIE",
+    "consultation_managers": [" Dr Roberto LALA"],
+    "phones": ["39 011 3135854", "39 011 3135612"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.cittadellasalute.to.it/",
+    "location": { "type": "Point", "coordinates": [7.6748349, 45.0345582] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Polonia, 94, 10126 Torino TO, Italy",
+        "latitude": 45.0345582,
+        "longitude": 7.6748349,
+        "extra": {
+          "googlePlaceId": "ChIJkdR7drESiEcR7_ZeJUaNtx4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Torino",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Torino",
+          "level3short": "Torino",
+          "level2long": "Città Metropolitana di Torino",
+          "level2short": "TO",
+          "level1long": "Piemonte",
+          "level1short": "Piemonte"
+        },
+        "streetNumber": "94",
+        "streetName": "Piazza Polonia",
+        "city": "Torino",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "10126",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PIEMONTE",
+    "city": "TORINO",
+    "hospital": "A.O. Città della Salute e della Scienza di Torino - Ospedale Regina Margherita",
+    "name": "Centro di Riferimento per le displasie scheletriche",
+    "name_en": "Centre of Expertise for skeletal dysplasia",
+    "address": "S.S. di Endocrinologia S.C.D.U. Endrocrinologia e Diabetologia Pediatrica A.O. Città della Salute e della Scienza di Torino - Ospedale Regina Margherita Piazza Polonia 94 10126 TORINO ITALIE",
+    "consultation_managers": [],
+    "phones": ["39 011 3135854", "39 011 3135612"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.cittadellasalute.to.it/",
+    "location": { "type": "Point", "coordinates": [7.6748349, 45.0345582] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Polonia, 94, 10126 Torino TO, Italy",
+        "latitude": 45.0345582,
+        "longitude": 7.6748349,
+        "extra": {
+          "googlePlaceId": "ChIJkdR7drESiEcR7_ZeJUaNtx4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Torino",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Torino",
+          "level3short": "Torino",
+          "level2long": "Città Metropolitana di Torino",
+          "level2short": "TO",
+          "level1long": "Piemonte",
+          "level1short": "Piemonte"
+        },
+        "streetNumber": "94",
+        "streetName": "Piazza Polonia",
+        "city": "Torino",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "10126",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "ITALIE",
+    "region": "PIEMONTE",
+    "city": "TORINO",
+    "hospital": "A.O. Città della Salute e della Scienza di Torino - Ospedale Regina Margherita",
+    "name": "Centro di Riferimento per le malattie reumatologiche e sistemiche rare pediatriche",
+    "name_en": "Centre of Expertise for rare pediatric rheumatologic and systemic diseases",
+    "address": "S.S. di Immunologia e Reumatologia S.C. di Pediatria II A.O. Città della Salute e della Scienza di Torino - Ospedale Regina Margherita Piazza Polonia 94 10126 TORINO ITALIE",
+    "consultation_managers": ["Pr Silvana MARTINO"],
+    "phones": ["39 011 3135032", "39 011 3135034"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.cittadellasalute.to.it/",
+    "location": { "type": "Point", "coordinates": [7.6748349, 45.0345582] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Piazza Polonia, 94, 10126 Torino TO, Italy",
+        "latitude": 45.0345582,
+        "longitude": 7.6748349,
+        "extra": {
+          "googlePlaceId": "ChIJkdR7drESiEcR7_ZeJUaNtx4",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Torino",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level3long": "Torino",
+          "level3short": "Torino",
+          "level2long": "Città Metropolitana di Torino",
+          "level2short": "TO",
+          "level1long": "Piemonte",
+          "level1short": "Piemonte"
+        },
+        "streetNumber": "94",
+        "streetName": "Piazza Polonia",
+        "city": "Torino",
+        "country": "Italy",
+        "countryCode": "IT",
+        "zipcode": "10126",
+        "provider": "google"
+      }
+    }
+  }
+]

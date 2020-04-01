@@ -1,0 +1,371 @@
+[
+  {
+    "country": "CANADA",
+    "region": "Manitoba",
+    "city": "WINNIPEG",
+    "hospital": "Health Sciences Centre",
+    "name": "Genetics and Metabolism",
+    "name_en": "Genetics and Metabolism",
+    "address": "Genetics and Metabolism Regional Program Winnipeg Health Region Health Sciences Centre 820 Sherbrook Street R3A 1R9 WINNIPEG CANADA",
+    "consultation_managers": ["Dr Bernie CHODIRKER"],
+    "phones": ["1(204)787-2494"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "location": { "type": "Point", "coordinates": [-97.159449, 49.9046706] },
+    "meta": {
+      "place": {
+        "formattedAddress": "820 Sherbrook St, Winnipeg, MB R3A 1R9, Canada",
+        "latitude": 49.9046706,
+        "longitude": -97.159449,
+        "extra": {
+          "googlePlaceId": "ChIJa9ruCeVz6lIRVGSG44MFgKo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "West Alexander",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Division No. 11",
+          "level2short": "Division No. 11",
+          "level1long": "Manitoba",
+          "level1short": "MB"
+        },
+        "streetNumber": "820",
+        "streetName": "Sherbrook Street",
+        "city": "Winnipeg",
+        "country": "Canada",
+        "countryCode": "CA",
+        "zipcode": "R3A 1R9",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CANADA",
+    "region": "Ontario",
+    "city": "MISSISSAUGA",
+    "hospital": "Genetics Clinic, Credit Valley Hospital",
+    "name": "Clinical Genetics, Credit Valley Site, Trillium Health Partners",
+    "name_en": "Clinical Genetics, Credit Valley Site, Trillium Health Partners",
+    "address": "Clinical Genetics, Credit Valley Site, Trillium Health Partners Credit Valley Hospital Genetics Clinic, Credit Valley Hospital 2200 Eglinton Ave West L5M 2N1 MISSISSAUGA CANADA",
+    "consultation_managers": ["Dr Cynthia FORSTER-GIBSON"],
+    "phones": ["1 (905) 813-4104"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://trilliumhealthpartners.ca/patientservices/genetics/Pages/default.aspx",
+    "location": { "type": "Point", "coordinates": [-79.7037003, 43.5591213] },
+    "meta": {
+      "place": {
+        "formattedAddress": "2200 Eglinton Ave W, Mississauga, ON L5M 2N1, Canada",
+        "latitude": 43.5591213,
+        "longitude": -79.7037003,
+        "extra": {
+          "googlePlaceId": "ChIJd4VZ3IVBK4gRbITYK9EJ2iQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Erin Mills",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Regional Municipality of Peel",
+          "level2short": "Regional Municipality of Peel",
+          "level1long": "Ontario",
+          "level1short": "ON"
+        },
+        "streetNumber": "2200",
+        "streetName": "Eglinton Avenue West",
+        "city": "Mississauga",
+        "country": "Canada",
+        "countryCode": "CA",
+        "zipcode": "L5M 2N1",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CANADA",
+    "region": "Ontario",
+    "city": "TORONTO",
+    "hospital": "Mount Sinai Hospital",
+    "name": "The Prenatal Diagnosis and Medical Genetics Program, Mount Sinai Hospital",
+    "name_en": "The Prenatal Diagnosis and Medical Genetics Program, Mount Sinai Hospital",
+    "address": "The Prenatal Diagnosis and Medical Genetics Program Mount Sinai Hospital 600 University Avenue M5G 1Z5 TORONTO CANADA",
+    "consultation_managers": ["Pr David CHITAYAT"],
+    "phones": ["1 (416) 586-4523", "1 (416) 586-4800"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "location": { "type": "Point", "coordinates": [-79.3909438, 43.6576736] },
+    "meta": {
+      "place": {
+        "formattedAddress": "600 University Ave, Toronto, ON M5G 1X5, Canada",
+        "latitude": 43.6576736,
+        "longitude": -79.3909438,
+        "extra": {
+          "googlePlaceId": "ChIJ2_HZWsg0K4gR6Ifmv4w7Yi0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Old Toronto",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Toronto Division",
+          "level2short": "Toronto Division",
+          "level1long": "Ontario",
+          "level1short": "ON"
+        },
+        "streetNumber": "600",
+        "streetName": "University Avenue",
+        "city": "Toronto",
+        "country": "Canada",
+        "countryCode": "CA",
+        "zipcode": "M5G 1X5",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CANADA",
+    "region": "Ontario",
+    "city": "TORONTO",
+    "hospital": "The Hospital for Sick Children and University of Toronto",
+    "name": "Clinical and Metabolic Genetics Division",
+    "name_en": "Clinical and Metabolic Genetics Division",
+    "address": "Division of Clinical and Metabolic Genetics, Department of Paediatrics University of Toronto The Hospital for Sick Children and University of Toronto 555 University Avenue M5G 2L3 TORONTO CANADA",
+    "consultation_managers": ["Dr Ronald COHN"],
+    "phones": ["01 (416) 813-6390"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.sickkids.ca/CGenetics/index.html",
+    "location": { "type": "Point", "coordinates": [-79.3875399, 43.6573521] },
+    "meta": {
+      "place": {
+        "formattedAddress": "555 University Ave, Toronto, ON M5G 1X8, Canada",
+        "latitude": 43.6573521,
+        "longitude": -79.3875399,
+        "extra": {
+          "googlePlaceId": "ChIJyTwlssk0K4gRzwbTu235JtY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Old Toronto",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Toronto Division",
+          "level2short": "Toronto Division",
+          "level1long": "Ontario",
+          "level1short": "ON"
+        },
+        "streetNumber": "555",
+        "streetName": "University Avenue",
+        "city": "Toronto",
+        "country": "Canada",
+        "countryCode": "CA",
+        "zipcode": "M5G 1X8",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CANADA",
+    "region": "Québec",
+    "city": "MONTRÉAL",
+    "hospital": "Centre hospitalier universitaire Sainte-Justine",
+    "name": "Medical Genetics Clinic",
+    "name_en": "Medical Genetics Clinic",
+    "address": "Genetique Medicale Centre hospitalier universitaire Sainte-Justine 3175, Chemin de la Côte Sainte-Catherine H3T 1C5 MONTRÉAL CANADA",
+    "consultation_managers": ["Dr Jacques L MICHAUD"],
+    "phones": ["1(514)345-4727"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.chusj.org/en/soins-services/G/Genetique-medicale?viewContact=13355",
+    "location": { "type": "Point", "coordinates": [-73.6239156, 45.5032186] },
+    "meta": {
+      "place": {
+        "formattedAddress": "3175 Chemin de la Côte-Sainte-Catherine, Montréal, QC H3T 1C5, Canada",
+        "latitude": 45.5032186,
+        "longitude": -73.6239156,
+        "extra": {
+          "googlePlaceId": "ChIJk_7fwewZyUwR4P6mQ2tjG-U",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Communauté-Urbaine-de-Montréal",
+          "level2short": "Communauté-Urbaine-de-Montréal",
+          "level1long": "Québec",
+          "level1short": "QC"
+        },
+        "streetNumber": "3175",
+        "streetName": "Chemin de la Côte-Sainte-Catherine",
+        "city": "Montréal",
+        "country": "Canada",
+        "countryCode": "CA",
+        "zipcode": "H3T 1C5",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CANADA",
+    "region": "Québec",
+    "city": "MONTRÉAL",
+    "hospital": "Glen / McGill Univeristy Health Centre - Centre Universitaire de santé McGill",
+    "name": "Clinique génétique médicale pédiatrique",
+    "name_en": "Medical genetics pediatric clinic",
+    "address": "Medical Genetics - Génétique Médicale A04.3140 Montreal Children's Hospital - Hôpital de Montréal pour enfants Glen / McGill Univeristy Health Centre - Centre Universitaire de santé McGill 1001 Décarie blvd. H4A 3J1 MONTRÉAL CANADA",
+    "consultation_managers": [
+      "Mme Stella DRURY",
+      "Mme Stephanie FOX",
+      "Mme Laura WHELTON"
+    ],
+    "phones": ["1(514)345-4727"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://muhc.ca/med-genetics/profile/department-medical-genetics",
+    "location": { "type": "Point", "coordinates": [-73.6009687, 45.472852] },
+    "meta": {
+      "place": {
+        "formattedAddress": "1001 Boulevard Décarie, Montréal, QC H4A 3J1, Canada",
+        "latitude": 45.472852,
+        "longitude": -73.6009687,
+        "extra": {
+          "googlePlaceId": "ChIJjYDmWqMQyUwR1-jN-82xOB0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Communauté-Urbaine-de-Montréal",
+          "level2short": "Communauté-Urbaine-de-Montréal",
+          "level1long": "Québec",
+          "level1short": "QC"
+        },
+        "streetNumber": "1001",
+        "streetName": "Boulevard Décarie",
+        "city": "Montréal",
+        "country": "Canada",
+        "countryCode": "CA",
+        "zipcode": "H4A 3J1",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CANADA",
+    "region": "Québec",
+    "city": "MONTRÉAL",
+    "hospital": "Glen / McGill Univeristy Health Centre - Centre Universitaire de santé McGill",
+    "name": "Clinique génétique médicale pour adultes",
+    "name_en": "Medical genetics adult clinic",
+    "address": "Medical Genetics - Génétique Médicale A04.3140 Montreal Children's Hospital - Hôpital de Montréal pour enfants Glen / McGill Univeristy Health Centre - Centre Universitaire de santé McGill 1001 Décarie blvd. H4A 3J1 MONTRÉAL CANADA",
+    "consultation_managers": ["Mme Laurence BARET", "M. Guillaume SILLON"],
+    "phones": ["1 (514) 412 - 4427"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://muhc.ca/med-genetics/profile/department-medical-genetics",
+    "location": { "type": "Point", "coordinates": [-73.6009687, 45.472852] },
+    "meta": {
+      "place": {
+        "formattedAddress": "1001 Boulevard Décarie, Montréal, QC H4A 3J1, Canada",
+        "latitude": 45.472852,
+        "longitude": -73.6009687,
+        "extra": {
+          "googlePlaceId": "ChIJjYDmWqMQyUwR1-jN-82xOB0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Communauté-Urbaine-de-Montréal",
+          "level2short": "Communauté-Urbaine-de-Montréal",
+          "level1long": "Québec",
+          "level1short": "QC"
+        },
+        "streetNumber": "1001",
+        "streetName": "Boulevard Décarie",
+        "city": "Montréal",
+        "country": "Canada",
+        "countryCode": "CA",
+        "zipcode": "H4A 3J1",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CANADA",
+    "region": "Québec",
+    "city": "SHERBROOKE",
+    "hospital": "CIUSSS de l'Estrie - CHUS Fleurimont",
+    "name": "Service génétique médicale",
+    "name_en": "Medical genetics service",
+    "address": "Service de génétique médicale Département de Pédiatrie CIUSSS de l'Estrie - CHUS Fleurimont 3001, 12e Avenue Nord J1H 5N4 SHERBROOKE CANADA",
+    "consultation_managers": ["Dr Sebastien CHENIER"],
+    "phones": ["1 (819) 820-6828"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "location": { "type": "Point", "coordinates": [-71.8700563, 45.4474217] },
+    "meta": {
+      "place": {
+        "formattedAddress": "3001 12e Avenue N, Sherbrooke, QC J1H 5H3, Canada",
+        "latitude": 45.4474217,
+        "longitude": -71.8700563,
+        "extra": {
+          "googlePlaceId": "ChIJrV11TGKxt0wRk333Yo9uPDc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Fleurimont",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "La Région-Sherbrookoise",
+          "level2short": "La Région-Sherbrookoise",
+          "level1long": "Québec",
+          "level1short": "QC"
+        },
+        "streetNumber": "3001",
+        "streetName": "12e Avenue Nord",
+        "city": "Sherbrooke",
+        "country": "Canada",
+        "countryCode": "CA",
+        "zipcode": "J1H 5H3",
+        "provider": "google"
+      }
+    }
+  }
+]

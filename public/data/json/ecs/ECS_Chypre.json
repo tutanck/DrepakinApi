@@ -1,0 +1,123 @@
+[
+  {
+    "country": "CHYPRE",
+    "region": "Cyprus",
+    "city": "NICOSIA",
+    "hospital": "Archbishop Makarios III hospital",
+    "name": "Hemoglobinopathies clinic",
+    "name_en": "Hemoglobinopathies clinic",
+    "address": "Hemoglobinopathies clinic Archbishop Makarios III hospital 6 Koritsas Street, Strovolos 1474 NICOSIA CHYPRE",
+    "consultation_managers": ["Dr Kiki MELANTHIOU", "Dr Antonis PAPATRYFONOS"],
+    "phones": ["357 22 40 5000"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [33.3598366, 35.1338417] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Strovolos, Cyprus",
+        "latitude": 35.1338417,
+        "longitude": 33.3598366,
+        "extra": {
+          "googlePlaceId": "ChIJ90x2dika3hQRq7-H2HRHAJo",
+          "confidence": 0.5,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Strovolos",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Nicosia",
+          "level1short": "Nicosia"
+        },
+        "city": "Strovolos",
+        "country": "Cyprus",
+        "countryCode": "CY",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CHYPRE",
+    "region": "Cyprus",
+    "city": "NICOSIA",
+    "hospital": "Archbishop Makarios III hospital",
+    "name": "Hemoglobinopathies clinic",
+    "name_en": "Hemoglobinopathies clinic",
+    "address": "Thalassemia center Archbishop Makarios III hospital 6 Koritsas Street, Strovolos 1474 NICOSIA CHYPRE",
+    "consultation_managers": ["Dr Christou SOTEROULA"],
+    "phones": ["357 22 405 209"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": true,
+    "location": { "type": "Point", "coordinates": [33.3598366, 35.1338417] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Strovolos, Cyprus",
+        "latitude": 35.1338417,
+        "longitude": 33.3598366,
+        "extra": {
+          "googlePlaceId": "ChIJ90x2dika3hQRq7-H2HRHAJo",
+          "confidence": 0.5,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Strovolos",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Nicosia",
+          "level1short": "Nicosia"
+        },
+        "city": "Strovolos",
+        "country": "Cyprus",
+        "countryCode": "CY",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "CHYPRE",
+    "region": "Cyprus",
+    "city": "NICOSIA",
+    "hospital": "Archbishop Makarios III hospital",
+    "name": "Genetic red cells disease clinic",
+    "name_en": "Genetic red cells disease clinic",
+    "address": "Genetic red cells disease clinic Archbishop Makarios III hospital 6 Koritsas Street, Strovolos 1474 NICOSIA CHYPRE",
+    "consultation_managers": ["Dr Kiki MELANTHIOU", "Dr Antonis PAPATRYFONOS"],
+    "phones": ["357 22 40 5000"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "location": { "type": "Point", "coordinates": [33.3598366, 35.1338417] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Strovolos, Cyprus",
+        "latitude": 35.1338417,
+        "longitude": 33.3598366,
+        "extra": {
+          "googlePlaceId": "ChIJ90x2dika3hQRq7-H2HRHAJo",
+          "confidence": 0.5,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Strovolos",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Nicosia",
+          "level1short": "Nicosia"
+        },
+        "city": "Strovolos",
+        "country": "Cyprus",
+        "countryCode": "CY",
+        "provider": "google"
+      }
+    }
+  }
+]

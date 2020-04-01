@@ -1,0 +1,43 @@
+[
+  {
+    "country": "HONGRIE",
+    "region": "Dél-Dunántúl",
+    "city": "PECS",
+    "hospital": "Heart Medical Clinic - Clinical Center - University of Pécs",
+    "name": "Multidisciplinary clinic for endocrinological rare growth disorders",
+    "name_en": "Multidisciplinary clinic for endocrinological rare growth disorders",
+    "address": "Internal medecine clinic - Department of endocrinology and metabolic diseases Heart Medical Clinic - Clinical Center - University of Pécs Ifjúság u. 13. 7624 PECS HONGRIE",
+    "consultation_mangers": ["Dr Emese MEZOSI"],
+    "phones": ["36 (06) 72 536 165"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://aok.pte.hu/index.php?page=egyseg&nyelv=hun&egy_id=290&egy=290",
+    "location": { "type": "Point", "coordinates": [18.237722, 46.0741828] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Pécs, 48-as tér 1, 7622 Hungary",
+        "latitude": 46.0741828,
+        "longitude": 18.237722,
+        "extra": {
+          "googlePlaceId": "ChIJGQW4VQuxQkcR2ic5RDhPzVI",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Pécs",
+          "establishment": null
+        },
+        "administrativeLevels": {},
+        "streetNumber": "1",
+        "streetName": "48-as tér",
+        "city": "Pécs",
+        "country": "Hungary",
+        "countryCode": "HU",
+        "zipcode": "7622",
+        "provider": "google"
+      }
+    }
+  }
+]

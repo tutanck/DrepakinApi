@@ -1,0 +1,484 @@
+[
+  {
+    "country": "AUTRICHE",
+    "region": "WIEN",
+    "city": "WIEN",
+    "hospital": "Allgemeines Krankenhaus der Stadt Wien",
+    "name": "Ambulanz für Schilddrüsen- und hormonelle Erkrankungen",
+    "name_en": "Outpatient clinic for thyroid and hormonal disorders",
+    "address": "Klinische Abteilung für Endokrinologie und Stoffwechsel Universitätsklinik für Innere Medizin III Allgemeines Krankenhaus der Stadt Wien Währinger Gürtel 18-20 1097 WIEN AUTRICHE",
+    "consultation_managers": [],
+    "phones": ["+43 (0)1 40400 43090"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.meduniwien.ac.at/innere3/endo/index.htm",
+    "location": { "type": "Point", "coordinates": [16.3467881, 48.2205992] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Währinger Gürtel 18-20, 1090 Wien, Austria",
+        "latitude": 48.2205992,
+        "longitude": 16.3467881,
+        "extra": {
+          "googlePlaceId": "ChIJyUJ4V8QHbUcRMHRPDmFRRY0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Alsergrund",
+          "establishment": null
+        },
+        "administrativeLevels": { "level1long": "Wien", "level1short": "Wien" },
+        "streetNumber": "18-20",
+        "streetName": "Währinger Gürtel",
+        "city": "Wien",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "1090",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "WIEN",
+    "city": "WIEN",
+    "hospital": "Allgemeines Krankenhaus der Stadt Wien",
+    "name": "Ambulanz für Varianten der Geschlechtsentwicklung",
+    "name_en": "Disorders of sex development clinic",
+    "address": "Klinische Abteilung für Pädiatrische Pulmologie, Allergologie und Endokrinologie Universitätsklinik für Kinder- und Jugendheilkunde Allgemeines Krankenhaus der Stadt Wien Währinger Gürtel 18-20 1097 WIEN AUTRICHE",
+    "consultation_managers": [" Dr Stefan RIEDL"],
+    "phones": ["+43 (0)1 40400 32320"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.orpha.net/consor/cgi-bin/Clinics_Search.php?lng=FR&data_id=111500&Centres%20experts=Ambulanz-fur-Varianten-der-Geschlechtsentwicklung&title=Ambulanz%20f%FCr%20Varianten%20der%20Geschlechtsentwicklung&search=Clinics_Search_Simple",
+    "location": { "type": "Point", "coordinates": [16.3446253, 48.2192866] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Währinger Gürtel 16, 1090 Wien, Austria",
+        "latitude": 48.2192866,
+        "longitude": 16.3446253,
+        "extra": {
+          "googlePlaceId": "ChIJMWaol8QHbUcR8HZowkt_HMk",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Alsergrund",
+          "establishment": null
+        },
+        "administrativeLevels": { "level1long": "Wien", "level1short": "Wien" },
+        "streetNumber": "16",
+        "streetName": "Währinger Gürtel",
+        "city": "Wien",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "1090",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "STEIERMARK",
+    "city": "GRAZ",
+    "hospital": "Medizinische Universität Graz",
+    "name": "Klinische Abteilung für pädiatrische Hämatologie/Onkologie - Ambulanz",
+    "name_en": "Division of Pediatric Hematology-Oncology - Outpatient Clinics",
+    "address": "Klinische Abteilung für pädiatrische Hämato-Onkologie Universitätsklinik für Kinder- und Jugendheilkunde Medizinische Universität Graz 8036 GRAZ AUTRICHE",
+    "consultation_managers": [],
+    "phones": ["+43 (0)316 385 13485"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://kinderklinik.uniklinikumgraz.at/paed-haemato-onko/Seiten/default.aspx",
+    "location": { "type": "Point", "coordinates": [15.4691082, 47.0845183] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Auenbruggerpl. 30, 8036 Graz, Austria",
+        "latitude": 47.0845183,
+        "longitude": 15.4691082,
+        "extra": {
+          "googlePlaceId": "ChIJx9kdom1KbkcRs7Ng-TFnrYY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Graz",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Graz",
+          "level2short": "Graz",
+          "level1long": "Steiermark",
+          "level1short": "Steiermark"
+        },
+        "streetNumber": "30",
+        "streetName": "Auenbruggerplatz",
+        "city": "Graz",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "8036",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "OBERÖSTERREICH",
+    "city": "LINZ",
+    "hospital": "Ordensklinikum Linz GmbH Elisabethinen",
+    "name": "Ambulanz Innere Medizin",
+    "name_en": "Outpatient clinic of the Department of Internal Medicine 4",
+    "address": "4. Interne Abteilung - Gastroenterologie, Hepatologie, Stoffwechsel- und Ernährungsmedizin, Endokrinologie Ordensklinikum Linz GmbH Elisabethinen Fadingerstrasse 1 4020 LINZ AUTRICHE",
+    "consultation_managers": [" Dr Dietmar SCHILLER"],
+    "phones": ["+43 (0)732 7676 4441"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.ordensklinikum.at/de/patienten/abteilungen/gastroenterologie/",
+    "location": { "type": "Point", "coordinates": [14.2935453, 48.303904] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Fadingerstraße 1, 4020 Linz, Austria",
+        "latitude": 48.303904,
+        "longitude": 14.2935453,
+        "extra": {
+          "googlePlaceId": "ChIJX4G1q4iXc0cRTzM23HuoEaw",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Innenstadt",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Linz",
+          "level2short": "Linz",
+          "level1long": "Oberösterreich",
+          "level1short": "Oberösterreich"
+        },
+        "streetNumber": "1",
+        "streetName": "Fadingerstraße",
+        "city": "Linz",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "4020",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "SALZBURG",
+    "city": "SALZBURG",
+    "hospital": "Universitätsklinikum der Paracelsus Medizinischen Privatuniversität",
+    "name": "Ambulanz für pädiatrische Endokrinologie",
+    "name_en": "Pediatric endocrinology clinic",
+    "address": "Division für Klinische Genetik Universitätsklinik für Kinder- und Jugendheilkunde Universitätsklinikum der Paracelsus Medizinischen Privatuniversität Müllner Hauptstraße 48 5020 SALZBURG AUTRICHE",
+    "consultation_managers": [],
+    "phones": ["+43 (0)5 7255 26255"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://salk.at/3397.html",
+    "location": { "type": "Point", "coordinates": [13.0313348, 47.8092675] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Strubergasse 21, 5020 Salzburg, Austria",
+        "latitude": 47.8092675,
+        "longitude": 13.0313348,
+        "extra": {
+          "googlePlaceId": "ChIJFf6st3OQdkcRc_tynAol7SY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Salzburg",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Salzburg",
+          "level2short": "Salzburg",
+          "level1long": "Salzburg",
+          "level1short": "Salzburg"
+        },
+        "streetNumber": "21",
+        "streetName": "Strubergasse",
+        "city": "Salzburg",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "5020",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "SALZBURG",
+    "city": "SALZBURG",
+    "hospital": "Universitätsklinikum der Paracelsus Medizinischen Privatuniversität",
+    "name": "Kinderonkologische-hämatologische Ambulanz",
+    "name_en": "Pediatric hematology & oncology clinic",
+    "address": "Universitätsklinik für Kinder- und Jugendheilkunde Universitätsklinikum der Paracelsus Medizinischen Privatuniversität Müllner Hauptstraße 48 5020 SALZBURG AUTRICHE",
+    "consultation_managers": [],
+    "phones": ["+43 (0)662 4482 2600"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://salk.at/1076.html",
+    "location": { "type": "Point", "coordinates": [13.0313348, 47.8092675] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Strubergasse 21, 5020 Salzburg, Austria",
+        "latitude": 47.8092675,
+        "longitude": 13.0313348,
+        "extra": {
+          "googlePlaceId": "ChIJFf6st3OQdkcRc_tynAol7SY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Salzburg",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Salzburg",
+          "level2short": "Salzburg",
+          "level1long": "Salzburg",
+          "level1short": "Salzburg"
+        },
+        "streetNumber": "21",
+        "streetName": "Strubergasse",
+        "city": "Salzburg",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "5020",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "STEIERMARK",
+    "city": "GRAZ",
+    "hospital": "Medizinische Universität Graz",
+    "name": "Ambulanz für Endokrinologie, Diabetes und Adoleszentenmedizin",
+    "name_en": "Outpatient clinic for endocrinology, diabetes, and adolescent medicine",
+    "address": "Klinische Abteilung für Allgemeine Pädiatrie Universitätsklinik für Kinder- und Jugendheilkunde Medizinische Universität Graz 8036 GRAZ AUTRICHE",
+    "consultation_managers": [],
+    "phones": ["+43 (0)316 385 82679"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://kinderklinik.uniklinikumgraz.at/allg-paediatrie/Seiten/default.aspx",
+    "location": { "type": "Point", "coordinates": [15.4691082, 47.0845183] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Auenbruggerpl. 30, 8036 Graz, Austria",
+        "latitude": 47.0845183,
+        "longitude": 15.4691082,
+        "extra": {
+          "googlePlaceId": "ChIJx9kdom1KbkcRs7Ng-TFnrYY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Graz",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Graz",
+          "level2short": "Graz",
+          "level1long": "Steiermark",
+          "level1short": "Steiermark"
+        },
+        "streetNumber": "30",
+        "streetName": "Auenbruggerplatz",
+        "city": "Graz",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "8036",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "WIEN",
+    "city": "WIEN",
+    "hospital": "Allgemeines Krankenhaus der Stadt Wien",
+    "name": "Zentrum für seltene Knochenerkrankungen, Störungen des Mineralhaushaltes und Wachstumsstörungen - Standort Univ. Klinik für Kinder- und Jugendheilkunde, AKH Wien",
+    "name_en": "Pediatric endocrinology clinic with subspecialty bone metabolism",
+    "address": "Klinische Abteilung für Pädiatrische Pulmologie, Allergologie und Endokrinologie Universitätsklinik für Kinder- und Jugendheilkunde Allgemeines Krankenhaus der Stadt Wien Währinger Gürtel 18-20 1097 WIEN AUTRICHE",
+    "consultation_managers": [" Pr Gabriele HÄUSLER"],
+    "phones": ["+43 (0)1 40400 32320"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://kinderklinik.meduniwien.ac.at/klinik-patientinnen/spezialambulanzen-spezialbereiche/",
+    "location": { "type": "Point", "coordinates": [16.3446253, 48.2192866] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Währinger Gürtel 16, 1090 Wien, Austria",
+        "latitude": 48.2192866,
+        "longitude": 16.3446253,
+        "extra": {
+          "googlePlaceId": "ChIJMWaol8QHbUcR8HZowkt_HMk",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Alsergrund",
+          "establishment": null
+        },
+        "administrativeLevels": { "level1long": "Wien", "level1short": "Wien" },
+        "streetNumber": "16",
+        "streetName": "Währinger Gürtel",
+        "city": "Wien",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "1090",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "WIEN",
+    "city": "WIEN",
+    "hospital": "Krankenhaus der Barmherzigen Schwestern Wien",
+    "name": "Ambulanz für Stoffwechselerkrankungen des Knochens",
+    "name_en": "Outpatient clinic for metabolic bone diseases",
+    "address": "II. Medizinische Abteilung Krankenhaus der Barmherzigen Schwestern Wien Stumpergasse 13 1060 WIEN AUTRICHE",
+    "consultation_managers": [" Pr Heinrich RESCH"],
+    "phones": ["+43 (0)1 59988 3234"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.bhswien.at/leistungsspektrum/ii-med-abteilung/ambulanzen/",
+    "location": { "type": "Point", "coordinates": [16.3459021, 48.1924802] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Stumpergasse 13, 1060 Wien, Austria",
+        "latitude": 48.1924802,
+        "longitude": 16.3459021,
+        "extra": {
+          "googlePlaceId": "ChIJc0tXvyCobUcRYGlCGJJdDIY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Mariahilf",
+          "establishment": null
+        },
+        "administrativeLevels": { "level1long": "Wien", "level1short": "Wien" },
+        "streetNumber": "13",
+        "streetName": "Stumpergasse",
+        "city": "Wien",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "1060",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "WIEN",
+    "city": "WIEN",
+    "hospital": "St. Anna Kinderspital",
+    "name": "Hämatologische Ambulanz",
+    "name_en": "Pediatric hematology clinic",
+    "address": "Zentrum für Kinder- und Jugendheilkunde St. Anna Kinderspital Kinderspitalgasse 6 1090 WIEN AUTRICHE",
+    "consultation_managers": ["Pr Wolfgang HOLTER"],
+    "phones": ["+43 (0)1 40170"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.stanna.at/content.php?p=1",
+    "location": {
+      "type": "Point",
+      "coordinates": [16.3444346, 48.21602559999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Kinderspitalgasse 6, 1090 Wien, Austria",
+        "latitude": 48.21602559999999,
+        "longitude": 16.3444346,
+        "extra": {
+          "googlePlaceId": "ChIJUReZWsIHbUcRkQTGlwb8EUY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Alsergrund",
+          "establishment": null
+        },
+        "administrativeLevels": { "level1long": "Wien", "level1short": "Wien" },
+        "streetNumber": "6",
+        "streetName": "Kinderspitalgasse",
+        "city": "Wien",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "1090",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "AUTRICHE",
+    "region": "WIEN",
+    "city": "WIEN",
+    "hospital": "St. Anna Kinderspital",
+    "name": "Endokrinologische Ambulanz",
+    "name_en": "Pediatric endocrinology clinic",
+    "address": "Zentrum für Kinder- und Jugendheilkunde St. Anna Kinderspital Kinderspitalgasse 6 1090 WIEN AUTRICHE",
+    "consultation_managers": ["Dr Stefan RIEDL"],
+    "phones": ["+43 (0)1 40170"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.stanna.at/content.php?p=1",
+    "location": {
+      "type": "Point",
+      "coordinates": [16.3444346, 48.21602559999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Kinderspitalgasse 6, 1090 Wien, Austria",
+        "latitude": 48.21602559999999,
+        "longitude": 16.3444346,
+        "extra": {
+          "googlePlaceId": "ChIJUReZWsIHbUcRkQTGlwb8EUY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Alsergrund",
+          "establishment": null
+        },
+        "administrativeLevels": { "level1long": "Wien", "level1short": "Wien" },
+        "streetNumber": "6",
+        "streetName": "Kinderspitalgasse",
+        "city": "Wien",
+        "country": "Austria",
+        "countryCode": "AT",
+        "zipcode": "1090",
+        "provider": "google"
+      }
+    }
+  }
+]

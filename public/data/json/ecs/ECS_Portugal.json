@@ -1,0 +1,91 @@
+[
+  {
+    "country": "PORTUGAL",
+    "region": "CENTRO",
+    "city": "COIMBRA",
+    "hospital": "Hosp. Pediátrico e Hosp. Covões - Centro Hospitalar e Universitário de Coimbra",
+    "name": "Consulta de Coagulopatias Congénitas",
+    "name_en": "Hemoglobinopathies clinic",
+    "address": "Serviço de Hematologia Centro Hospitalar e Universitário de Coimbra Hosp. Pediátrico e Hosp. Covões - Centro Hospitalar e Universitário de Coimbra Quinta dos Vales, São Martinho do Bispo 3041-853 COIMBRA PORTUGAL",
+    "consultation_managers": ["Dr Manuela BENEDITO", "Pr Letícia RIBEIRO"],
+    "phones": ["351 239 488 700", "351 239 800 116"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": true,
+    "website": "http://www.chc-hematologia.org/",
+    "location": {
+      "type": "Point",
+      "coordinates": [-8.459679099999999, 40.1958958]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Quinta dos Vales, São Martinho do Bispo 108, 3041-801 Coimbra, Portugal",
+        "latitude": 40.1958958,
+        "longitude": -8.459679099999999,
+        "extra": {
+          "googlePlaceId": "ChIJwwyinV34Ig0RYOtegRFx6-Q",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Coimbra",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Coimbra",
+          "level1short": "Coimbra"
+        },
+        "streetNumber": "108",
+        "streetName": "Quinta dos Vales, São Martinho do Bispo",
+        "city": "Coimbra",
+        "country": "Portugal",
+        "countryCode": "PT",
+        "zipcode": "3041-801",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PORTUGAL",
+    "region": "NORTE",
+    "city": "PORTO",
+    "hospital": "Hospital de Santo António - Centro Hospitalar do Porto",
+    "name": "Consulta especializada de doenças endocrinas raras",
+    "name_en": "Secialized clinic for rare endocrine disorders",
+    "address": "Serviço de Endocrinologia, Diabetes e Metabolismo Hospital Geral de Santo António - Centro Hospitalar do Porto Hospital de Santo António - Centro Hospitalar do Porto Largo Professor Abel Salazar 4099-001 PORTO PORTUGAL",
+    "consultation_managers": ["Dr Maria de Fátima BORGES"],
+    "phones": ["351 222 077 520"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "location": { "type": "Point", "coordinates": [-8.6195355, 41.1472269] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Largo do Prof. Abel Salazar, 4099-001 Porto, Portugal",
+        "latitude": 41.1472269,
+        "longitude": -8.6195355,
+        "extra": {
+          "googlePlaceId": "ChIJg6XdbB1lJA0ROPr51HSutZk",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Porto",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Porto",
+          "level1short": "Porto"
+        },
+        "streetName": "Largo do Professor Abel Salazar",
+        "city": "Porto",
+        "country": "Portugal",
+        "countryCode": "PT",
+        "zipcode": "4099-001",
+        "provider": "google"
+      }
+    }
+  }
+]

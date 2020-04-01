@@ -1,0 +1,48 @@
+{
+  "name": "drepakin",
+  "version": "1.0.0",
+  "description": "This project aims to help sickle cell disease patients to find the closet specialised hospital from their location.",
+  "main": "app",
+  "scripts": {
+    "dev": "nodemon --watch app",
+    "start": "env-cmd -f .env.production node app",
+    "start:staging": "env-cmd -f .env.staging node app",
+    "pretty-ec": "prettier --write 'public/data/json/ecs/*.json'",
+    "init-db": "node app/scripts/init-db",
+    "relocate-ec": "node app/scripts/relocate-centers",
+    "lint": "eslint .",
+    "pretest": "cross-env NODE_ENV=test",
+    "test": "jest --testTimeout=9000 --maxWorkers=1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "5.10.2",
+    "body-parser": "1.19.0",
+    "chalk": "2.4.2",
+    "cookie-parser": "1.4.4",
+    "cors": "2.8.5",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "express-async-errors": "3.1.1",
+    "express-validator": "6.2.0",
+    "google-auth-library": "5.5.1",
+    "http-errors": "1.7.3",
+    "load-json-file": "6.2.0",
+    "mongoose": "5.8.3",
+    "morgan": "1.9.1",
+    "node-geocoder": "3.25.0"
+  },
+  "devDependencies": {
+    "@shelf/jest-mongodb": "1.1.3",
+    "cross-env": "7.0.2",
+    "env-cmd": "10.0.1",
+    "eslint": "6.5.1",
+    "eslint-config-prettier": "6.3.0",
+    "eslint-plugin-prettier": "3.1.1",
+    "jest": "25.1.0",
+    "nodemon": "1.19.3",
+    "prettier": "1.18.2",
+    "supertest": "4.0.2"
+  }
+}

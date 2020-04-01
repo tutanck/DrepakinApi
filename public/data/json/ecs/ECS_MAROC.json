@@ -1,0 +1,131 @@
+[
+  {
+    "country": "MAROC",
+    "region": "Rabat",
+    "city": "RABAT",
+    "hospital": "CHU Ibn SINA - Souissi",
+    "name": "Consultation spécialisée pour la drépanocytose",
+    "name_en": "Specialized clinic for Sickle cell anemia",
+    "address": "Service d'hématologie et d'oncologie pédiatrique CHU Ibn SINA - Souissi Bd Rochd  RABAT MAROC",
+    "consultation_managers": [" Pr Mohammed KHATTAB"],
+    "phones": ["212 (0) 537 68 28 12"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [-6.854770599999999, 33.9852642]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Rabat, Morocco",
+        "latitude": 33.9852642,
+        "longitude": -6.854770599999999,
+        "extra": {
+          "googlePlaceId": "ChIJES65ZZVspw0R2VEzPGCZl1g",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Rabat",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Rabat-Salé-Kénitra",
+          "level1short": "Rabat-Salé-Kénitra"
+        },
+        "city": "Rabat",
+        "country": "Morocco",
+        "countryCode": "MA",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "MAROC",
+    "region": "Rabat",
+    "city": "RABAT",
+    "hospital": "CHU Ibn SINA - Souissi",
+    "name": "Consultation spécialisée pour les thalassémies",
+    "name_en": "Thalassemia specialised clinic",
+    "address": "Service d'hématologie et d'oncologie pédiatrique CHU Ibn SINA - Souissi Bd Rochd  RABAT MAROC",
+    "consultation_managers": [" Pr Mohammed KHATTAB"],
+    "phones": ["212 (0) 537 68 28 12"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [-6.854770599999999, 33.9852642]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Rabat, Morocco",
+        "latitude": 33.9852642,
+        "longitude": -6.854770599999999,
+        "extra": {
+          "googlePlaceId": "ChIJES65ZZVspw0R2VEzPGCZl1g",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Rabat",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Rabat-Salé-Kénitra",
+          "level1short": "Rabat-Salé-Kénitra"
+        },
+        "city": "Rabat",
+        "country": "Morocco",
+        "countryCode": "MA",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "MAROC",
+    "region": "Rabat",
+    "city": "RABAT",
+    "hospital": "CHU Ibn SINA - Souissi",
+    "name": "Consultation spécialisée maladies endocriniennes rares de la croissance",
+    "name_en": "Specialized consultation rare endocrine diseases of growth",
+    "address": "Service de pédiatrie II Hôpital des enfants CHU Ibn SINA - Souissi Bd Rochd  RABAT MAROC",
+    "consultation_managers": [],
+    "phones": ["212 (0) 37 67 31 35"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [-6.8541971, 33.9864461] },
+    "meta": {
+      "place": {
+        "formattedAddress": "BP 6527,Rue Lamfadel Cherkaoui Rabat Institut، Rabat, Morocco",
+        "latitude": 33.9864461,
+        "longitude": -6.8541971,
+        "extra": {
+          "googlePlaceId": "ChIJD8ccDJVspw0RJKB8IZA9X0k",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Rabat",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Rabat-Salé-Kénitra",
+          "level1short": "Rabat-Salé-Kénitra"
+        },
+        "city": "Rabat",
+        "country": "Morocco",
+        "countryCode": "MA",
+        "provider": "google"
+      }
+    }
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "country": "PAYS-BAS",
+    "region": "Zuid-Holland",
+    "city": "ROTTERDAM",
+    "hospital": "Erasmus MC - Erasmus Medisch Centrum",
+    "name": "Sikkelcelcentrum",
+    "name_en": "Sickle Cell Center",
+    "address": "Erasmus MC - Erasmus Medisch Centrum Erasmus MC - Erasmus Medisch Centrum 's-Gravendijkwal 230 3015 CE ROTTERDAM PAYS-BAS",
+    "consultation_managers": [],
+    "phones": ["+31 (0)10 704 0704"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.erasmusmc.nl/",
+    "location": {
+      "type": "Point",
+      "coordinates": [4.467854099999999, 51.9108848]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Doctor Molewaterplein 40, 3015 GD Rotterdam, Netherlands",
+        "latitude": 51.9108848,
+        "longitude": 4.467854099999999,
+        "extra": {
+          "googlePlaceId": "ChIJAQAA0Js0xEcR5g_rJYMRkYQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Centrum",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Rotterdam",
+          "level2short": "Rotterdam",
+          "level1long": "Zuid-Holland",
+          "level1short": "ZH"
+        },
+        "streetNumber": "40",
+        "streetName": "Doctor Molewaterplein",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "3015 GD",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Zuid-Holland",
+    "city": "ROTTERDAM",
+    "hospital": "Erasmus MC - Erasmus Medisch Centrum",
+    "name": "Pediatrisch Sikkelcelcentrum",
+    "name_en": "Pediatric Sickle Cell Center",
+    "address": "Erasmus MC - Erasmus Medisch Centrum Erasmus MC - Erasmus Medisch Centrum 's-Gravendijkwal 230 3015 CE ROTTERDAM PAYS-BAS",
+    "consultation_managers": [],
+    "phones": ["+31 (0)10 704 0704"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.erasmusmc.nl/",
+    "location": {
+      "type": "Point",
+      "coordinates": [4.467854099999999, 51.9108848]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Doctor Molewaterplein 40, 3015 GD Rotterdam, Netherlands",
+        "latitude": 51.9108848,
+        "longitude": 4.467854099999999,
+        "extra": {
+          "googlePlaceId": "ChIJAQAA0Js0xEcR5g_rJYMRkYQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Centrum",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Rotterdam",
+          "level2short": "Rotterdam",
+          "level1long": "Zuid-Holland",
+          "level1short": "ZH"
+        },
+        "streetNumber": "40",
+        "streetName": "Doctor Molewaterplein",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "3015 GD",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Noord-Holland",
+    "city": "AMSTERDAM",
+    "hospital": "Amsterdam UMC, locatie AMC",
+    "name": "Centrum voor Sikkelcelziekte",
+    "name_en": "Centre for Sickle Cell Disease",
+    "address": "Polikliniek Kinderhematologie Emma Kinderziekenhuis Amsterdam UMC, locatie AMC Meibergdreef 9 1105 AZ AMSTERDAM PAYS-BAS",
+    "consultation_managers": [" Dr M. [Marjolein] PETERS"],
+    "phones": ["+31 (0)20 566 8000", "+31 (0)20 566 3083"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.amc.nl/web/mijn-kind-heeft-een-afspraak-1/hematologie-kind.htm",
+    "location": { "type": "Point", "coordinates": [4.957693, 52.294372] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Meibergdreef 9, 1105 AZ Amsterdam, Netherlands",
+        "latitude": 52.294372,
+        "longitude": 4.957693,
+        "extra": {
+          "googlePlaceId": "ChIJtWYt030LxkcRc_GgzGT7Dwc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Amsterdam-Zuidoost",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Amsterdam",
+          "level2short": "Amsterdam",
+          "level1long": "Noord-Holland",
+          "level1short": "NH"
+        },
+        "streetNumber": "9",
+        "streetName": "Meibergdreef",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "1105 AZ",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Zuid-Holland",
+    "city": "LEIDEN",
+    "hospital": "LUMC - Leids Universitair Medisch Centrum",
+    "name": "Expertisecentrum voor Hemoglobinopathie",
+    "name_en": "Expert Center for Hemoglobinopathies",
+    "address": "LUMC - Leids Universitair Medisch Centrum LUMC - Leids Universitair Medisch Centrum Albinusdreef 2 2333 ZA LEIDEN PAYS-BAS",
+    "consultation_managers": [],
+    "phones": ["+31 (0)71 526 9111"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.lumc.nl/",
+    "location": { "type": "Point", "coordinates": [4.4785036, 52.1660315] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Albinusdreef 2, 2333 ZA Leiden, Netherlands",
+        "latitude": 52.1660315,
+        "longitude": 4.4785036,
+        "extra": {
+          "googlePlaceId": "ChIJ7yWazefGxUcR6i4Aco_m3d0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Leiden",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Leiden",
+          "level2short": "Leiden",
+          "level1long": "Zuid-Holland",
+          "level1short": "ZH"
+        },
+        "streetNumber": "2",
+        "streetName": "Albinusdreef",
+        "city": "Leiden",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "2333 ZA",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Utrecht",
+    "city": "UTRECHT",
+    "hospital": "UMC Utrecht - Universitair Medisch Centrum Utrecht",
+    "name": "Van Creveldkliniek - Expertisecentrum voor Benigne Hematologie, Trombose en Hemostase",
+    "name_en": "Van Creveldkliniek - Expertise Centre for Benign Hematology, Thrombosis and Hemostasis",
+    "address": "Van Creveldkliniek Afdeling Hematologie UMC Utrecht - Universitair Medisch Centrum Utrecht Heidelberglaan 100 3584 CX UTRECHT PAYS-BAS",
+    "consultation_managers": ["Dr R.E.G. [Roger] SCHUTGENS"],
+    "phones": ["+31 (0)88 755 8450"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.vancreveldkliniek.nl/",
+    "location": {
+      "type": "Point",
+      "coordinates": [5.179913099999999, 52.0865646]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Heidelberglaan 100, 3584 CX Utrecht, Netherlands",
+        "latitude": 52.0865646,
+        "longitude": 5.179913099999999,
+        "extra": {
+          "googlePlaceId": "ChIJUzytwYVoxkcRhCB2Is-6eFc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Oost",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Utrecht",
+          "level2short": "Utrecht",
+          "level1long": "Utrecht",
+          "level1short": "UT"
+        },
+        "streetNumber": "100",
+        "streetName": "Heidelberglaan",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "3584 CX",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Zuid-Holland",
+    "city": "ROTTERDAM",
+    "hospital": "Erasmus MC - Erasmus Medisch Centrum",
+    "name": "Expertisecentrum Zeldzame Groeistoornissen",
+    "name_en": "Expert Center Rare Growth Disorders",
+    "address": "Erasmus MC - Erasmus Medisch Centrum Erasmus MC - Erasmus Medisch Centrum 's-Gravendijkwal 230 3015 CE ROTTERDAM PAYS-BAS",
+    "consultation_managers": [],
+    "phones": ["+31 (0)10 704 0704"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.erasmusmc.nl/",
+    "location": {
+      "type": "Point",
+      "coordinates": [4.467854099999999, 51.9108848]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Doctor Molewaterplein 40, 3015 GD Rotterdam, Netherlands",
+        "latitude": 51.9108848,
+        "longitude": 4.467854099999999,
+        "extra": {
+          "googlePlaceId": "ChIJAQAA0Js0xEcR5g_rJYMRkYQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Centrum",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Rotterdam",
+          "level2short": "Rotterdam",
+          "level1long": "Zuid-Holland",
+          "level1short": "ZH"
+        },
+        "streetNumber": "40",
+        "streetName": "Doctor Molewaterplein",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "3015 GD",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Gelderland",
+    "city": "NIJMEGEN",
+    "hospital": "Radboudumc - Radboud universitair medisch centrum",
+    "name": "Radboud Hypofyse Centrum",
+    "name_en": "Radboud Pituitary Center",
+    "address": "Radboudumc Radboudumc - Radboud universitair medisch centrum Geert Grooteplein-Zuid 10 6525 GA NIJMEGEN PAYS-BAS",
+    "consultation_managers": [],
+    "phones": ["+31 (0)24 361 1111"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.radboudumc.nl/patientenzorg",
+    "location": { "type": "Point", "coordinates": [5.8611812, 51.8235728] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Geert Grooteplein Zuid 10, 6525 GA Nijmegen, Netherlands",
+        "latitude": 51.8235728,
+        "longitude": 5.8611812,
+        "extra": {
+          "googlePlaceId": "ChIJeQuOBvIIx0cRrLAdBVRzWp8",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Nijmegen-Midden",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Nijmegen",
+          "level2short": "Nijmegen",
+          "level1long": "Gelderland",
+          "level1short": "GE"
+        },
+        "streetNumber": "10",
+        "streetName": "Geert Grooteplein Zuid",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "6525 GA",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Groningen",
+    "city": "GRONINGEN",
+    "hospital": "UMCG - Universitair Medisch Centrum Groningen",
+    "name": "UMCG Hypofyse Centrum",
+    "name_en": "UMCG Pituitary Center",
+    "address": "Afdeling Endocrinologie UMCG - Universitair Medisch Centrum Groningen Hanzeplein 1 9713 GZ GRONINGEN PAYS-BAS",
+    "consultation_managers": [" Dr M.M. [Melanie] VAN DER KLAUW"],
+    "phones": ["+31 (0)50 361 3962", "+31 (0)50 361 4697"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://umcg.net/de-afdeling/",
+    "location": {
+      "type": "Point",
+      "coordinates": [6.577062400000001, 53.22088309999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Hanzeplein 1, 9713 GZ Groningen, Netherlands",
+        "latitude": 53.22088309999999,
+        "longitude": 6.577062400000001,
+        "extra": {
+          "googlePlaceId": "ChIJaR8c-6fSyUcRtSD0kmgFIyU",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Oosterparkwijk",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Groningen",
+          "level2short": "Groningen",
+          "level1long": "Groningen",
+          "level1short": "GR"
+        },
+        "streetNumber": "1",
+        "streetName": "Hanzeplein",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "9713 GZ",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Noord-Holland",
+    "city": "AMSTERDAM",
+    "hospital": "Amsterdam UMC, locatie AMC",
+    "name": "Centrum voor Zeldzame Hypothalame en Hypofysaire Aandoeningen",
+    "name_en": "Centre for Rare Hypothalamic and Pituitary Diseases",
+    "address": "Amsterdam UMC, locatie AMC Amsterdam UMC, locatie AMC Meibergdreef 9 1105 AZ AMSTERDAM PAYS-BAS",
+    "consultation_managers": [],
+    "phones": ["+31 (0)20 566 9111"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.amc.nl/web/home.htm",
+    "location": { "type": "Point", "coordinates": [4.957693, 52.294372] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Meibergdreef 9, 1105 AZ Amsterdam, Netherlands",
+        "latitude": 52.294372,
+        "longitude": 4.957693,
+        "extra": {
+          "googlePlaceId": "ChIJtWYt030LxkcRc_GgzGT7Dwc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Amsterdam-Zuidoost",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Amsterdam",
+          "level2short": "Amsterdam",
+          "level1long": "Noord-Holland",
+          "level1short": "NH"
+        },
+        "streetNumber": "9",
+        "streetName": "Meibergdreef",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "1105 AZ",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Zuid-Holland",
+    "city": "LEIDEN",
+    "hospital": "LUMC - Leids Universitair Medisch Centrum",
+    "name": "CETL - Centrum Endocriene Tumoren Leiden",
+    "name_en": "CETL - Center for Endocrine Tumors Leiden",
+    "address": "Polikliniek Endocrinologie LUMC - Leids Universitair Medisch Centrum Albinusdreef 2 2333 ZA LEIDEN PAYS-BAS",
+    "consultation_managers": ["Pr A.M. [Alberto] PEREIRA"],
+    "phones": ["+31 (0)71 526 3505"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.lumc.nl/org/interne-geneeskunde/endocrinologie/",
+    "location": { "type": "Point", "coordinates": [4.4785036, 52.1660315] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Albinusdreef 2, 2333 ZA Leiden, Netherlands",
+        "latitude": 52.1660315,
+        "longitude": 4.4785036,
+        "extra": {
+          "googlePlaceId": "ChIJ7yWazefGxUcR6i4Aco_m3d0",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Leiden",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Leiden",
+          "level2short": "Leiden",
+          "level1long": "Zuid-Holland",
+          "level1short": "ZH"
+        },
+        "streetNumber": "2",
+        "streetName": "Albinusdreef",
+        "city": "Leiden",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "2333 ZA",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "PAYS-BAS",
+    "region": "Zuid-Holland",
+    "city": "ROTTERDAM",
+    "hospital": "Erasmus MC - Erasmus Medisch Centrum",
+    "name": "Erasmus MC Centrum voor Endocriene Ziekten",
+    "name_en": "Erasmus MC Centre for Endocrine Disorders",
+    "address": "Polikliniek Endocrinologie Erasmus MC - Erasmus Medisch Centrum 's-Gravendijkwal 230 3015 CE ROTTERDAM PAYS-BAS",
+    "consultation_managers": [],
+    "phones": ["+31 (0)10 704 0115"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www6.erasmusmc.nl/inwendige_geneeskunde/endocrinologie/?reason=404",
+    "location": {
+      "type": "Point",
+      "coordinates": [4.467854099999999, 51.9108848]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Doctor Molewaterplein 40, 3015 GD Rotterdam, Netherlands",
+        "latitude": 51.9108848,
+        "longitude": 4.467854099999999,
+        "extra": {
+          "googlePlaceId": "ChIJAQAA0Js0xEcR5g_rJYMRkYQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Centrum",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Rotterdam",
+          "level2short": "Rotterdam",
+          "level1long": "Zuid-Holland",
+          "level1short": "ZH"
+        },
+        "streetNumber": "40",
+        "streetName": "Doctor Molewaterplein",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "zipcode": "3015 GD",
+        "provider": "google"
+      }
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "country": "SUEDE",
+    "region": "Stockholms läns landsting",
+    "city": "STOCKHOLM",
+    "hospital": "Karolinska Universitetssjukhuset - Huddinge",
+    "name": "Rare constitutional anemia clinic",
+    "name_en": "Rare constitutional anemia clinic",
+    "address": "Hematology Centre Karolinska Universitetssjukhuset - Huddinge 14186 STOCKHOLM SUEDE",
+    "consultation_managers": [" Dr Mikael SUNDIN"],
+    "phones": ["46 8 51781477"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.karolinska.se/en/Astrid-Lindgren-Childrens-Hospital/Pediatric-Departments/Hematology-Immunology-and-HIV/",
+    "location": { "type": "Point", "coordinates": [17.9359035, 59.2208358] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Hälsovägen, 141 57 Huddinge, Sweden",
+        "latitude": 59.2208358,
+        "longitude": 17.9359035,
+        "extra": {
+          "googlePlaceId": "ChIJp9TbJR5xX0YRqbcus37HwlA",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Flemingsberg",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Stockholms län",
+          "level1short": "Stockholms län"
+        },
+        "streetName": "Hälsovägen",
+        "city": "Huddinge",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "zipcode": "141 57",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "SUEDE",
+    "region": "Stockholms läns landsting",
+    "city": "STOCKHOLM",
+    "hospital": "Karolinska Universitetssjukhuset - Solna",
+    "name": "Expertteam för tromboembolisk sjukdom hos barn",
+    "name_en": "Expert team for thromboembolic disease in children",
+    "address": "Centre for Rare Diseases - Karolinska Karolinska Universitetssjukhuset - Solna 17176 STOCKHOLM SUEDE",
+    "consultation_managers": [],
+    "phones": ["46 8 51775626"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.karolinska.se/sallsyntadiagnoser",
+    "location": { "type": "Point", "coordinates": [18.0304568, 59.3486777] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Karolinska Universitetssjukhuset, Eugeniavägen 3, 171 76 Solna, Sweden",
+        "latitude": 59.3486777,
+        "longitude": 18.0304568,
+        "extra": {
+          "googlePlaceId": "ChIJIyjptp-dX0YRQVOumuJHiCw",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Hagalund",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Stockholms län",
+          "level1short": "Stockholms län"
+        },
+        "streetNumber": "3",
+        "streetName": "Eugeniavägen",
+        "city": "Solna",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "zipcode": "171 76",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "SUEDE",
+    "region": "Stockholms läns landsting",
+    "city": "STOCKHOLM",
+    "hospital": "Karolinska Universitetssjukhuset - Solna",
+    "name": "Expertteam för ovanliga blodsjukdomar",
+    "name_en": "Expert team for rare blood disorders",
+    "address": "Centre for Rare Diseases - Karolinska Karolinska Universitetssjukhuset - Solna 17176 STOCKHOLM SUEDE",
+    "consultation_managers": [" Dr Mikael SUNDIN"],
+    "phones": ["46 8 51775626"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": true,
+    "website": "https://www.karolinska.se/sallsyntadiagnoser",
+    "location": { "type": "Point", "coordinates": [18.0304568, 59.3486777] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Karolinska Universitetssjukhuset, Eugeniavägen 3, 171 76 Solna, Sweden",
+        "latitude": 59.3486777,
+        "longitude": 18.0304568,
+        "extra": {
+          "googlePlaceId": "ChIJIyjptp-dX0YRQVOumuJHiCw",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Hagalund",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "Stockholms län",
+          "level1short": "Stockholms län"
+        },
+        "streetNumber": "3",
+        "streetName": "Eugeniavägen",
+        "city": "Solna",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "zipcode": "171 76",
+        "provider": "google"
+      }
+    }
+  }
+]

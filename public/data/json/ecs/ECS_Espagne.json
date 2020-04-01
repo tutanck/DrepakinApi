@@ -1,0 +1,723 @@
+[
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "BARCELONA",
+    "hospital": "Hospital Universitari Vall d'Hebron",
+    "name": "Consulta de enfermedades genéticas del eritrocito",
+    "name_en": "Genetic red cells diseases clinic",
+    "address": "Servicio de Hematología y hemoterapia Hospital Universitari Vall d'Hebron Paseo Vall d'Hebron, 119-129 08035 BARCELONA ESPAGNE",
+    "consultation_managers": [
+      "Dr David BENEITEZ PASTOR",
+      "Dr Adoración BLANCO"
+    ],
+    "phones": ["34 932 74 61 97", "34 932 74 60 00"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": true,
+    "website": "https://www.vallhebron.com/es/especialidades/hematologia-y-hemoterapia",
+    "location": {
+      "type": "Point",
+      "coordinates": [2.14243, 41.42834610000001]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Passeig de la Vall d'Hebron, 119, 129, 08035 Barcelona, Spain",
+        "latitude": 41.42834610000001,
+        "longitude": 2.14243,
+        "extra": {
+          "googlePlaceId": "ChIJ3-xLF_2XpBIRdZjtdppRBQY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": "129",
+          "neighborhood": "Barcelona",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Catalunya",
+          "level1short": "CT"
+        },
+        "streetNumber": "119",
+        "streetName": "Passeig de la Vall d'Hebron",
+        "city": "Barcelona",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08035",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "MATARÓ",
+    "hospital": "Hospital de Mataró",
+    "name": "Consulta de drepanocitosis",
+    "name_en": "Sickle cell anemia clinic",
+    "address": "Servicio de Hematología y Pediatría Consorci Sanitari del Maresme Hospital de Mataró Carretera de Cirera s/n 08304 MATARÓ ESPAGNE",
+    "consultation_managers": ["Dr Montse BARTROLI"],
+    "phones": ["34 937417700"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.csdm.cat/",
+    "location": { "type": "Point", "coordinates": [2.4290511, 41.5563503] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Carr. de Cirera, 230, 08304 Mataró, Barcelona, Spain",
+        "latitude": 41.5563503,
+        "longitude": 2.4290511,
+        "extra": {
+          "googlePlaceId": "ChIJq6qqquO0pBIRsKBkdCu_0xE",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Mataró",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Cataluña",
+          "level1short": "CT"
+        },
+        "streetNumber": "230",
+        "streetName": "Carretera de Cirera",
+        "city": "Mataró",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08304",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Comunidad Valenciana",
+    "city": "VALENCIA",
+    "hospital": "Hospital Clínico Universitario de Valencia",
+    "name": "Unidad de referencia regional de oncología pediátrica",
+    "name_en": "Regional unit of expertise of pediatric oncology",
+    "address": "Unidad de oncología, hematología y TPH pediátrico Hospital Clínico Universitario de Valencia Avenida Blasco Ibáñez, 17 46010 VALENCIA ESPAGNE",
+    "consultation_managers": [
+      "Dr Olga BENAVENT CASANOVA",
+      "Dr Nuria BENAVENTE GÓMEZ",
+      "Dr Elena CARCELLER",
+      "Dr Francisco José MARES DIAGO",
+      "Dr Cristina NOVA",
+      "Dr Jaime VERDÚ AMORÓS"
+    ],
+    "phones": ["34 937417700"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.pedclinval.es/download.php?reload=1&file=52-oncohematologia-y-hospital-de-dia-pediatricos",
+    "location": { "type": "Point", "coordinates": [-0.3612201, 39.4788801] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Av. de Blasco Ibáñez, 17, 46010 València, Valencia, Spain",
+        "latitude": 39.4788801,
+        "longitude": -0.3612201,
+        "extra": {
+          "googlePlaceId": "ChIJczNAcKRIYA0Rel4VMvMQvyI",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "València",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Valencia",
+          "level2short": "V",
+          "level1long": "Comunidad Valenciana",
+          "level1short": "Comunidad Valenciana"
+        },
+        "streetNumber": "17",
+        "streetName": "Avinguda de Blasco Ibáñez",
+        "city": "València",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "46010",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "BADALONA",
+    "hospital": "ICO Badalona - Hospital Germans Trias i Pujol",
+    "name": "Consulta de enfermedades genéticas raras del metabolismo del hierro",
+    "name_en": "Rare iron metabolism disorders clinic",
+    "address": "Servicio de Hematología Clínica ICO Badalona - Hospital Germans Trias i Pujol Carretera Canyet s/n 08916 BADALONA ESPAGNE",
+    "consultation_managers": [
+      "Dr Francisco ALMAZÁN",
+      "Dr Mayka SÁNCHEZ FERNÁNDEZ"
+    ],
+    "phones": ["34 934 978 987"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://ico.gencat.cat/es/l_institut/centres/ico_badalona/Serveis/hematologia_clinica/",
+    "location": {
+      "type": "Point",
+      "coordinates": [2.2378669, 41.48111710000001]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Carretera de Canyet, s/n, 08916 Badalona, Barcelona, Spain",
+        "latitude": 41.48111710000001,
+        "longitude": 2.2378669,
+        "extra": {
+          "googlePlaceId": "ChIJT8_Gk-y7pBIRtW1TARXF_yo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Badalona",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Catalunya",
+          "level1short": "CT"
+        },
+        "streetNumber": "s/n",
+        "streetName": "Carretera de Canyet",
+        "city": "Badalona",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08916",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "BARCELONA",
+    "hospital": "Hospital de la Santa Creu i Sant Pau",
+    "name": "CSUR - Unidad de referencia nacional en eritropatología hereditaria",
+    "name_en": "CSUR - National unit of expertise for hereditary erythropathology",
+    "address": "CSUR en Eritropatología hereditaria Hospital de la Santa Creu i Sant Pau Avenida Sant Antoni Maria Claret, 167 08025 BARCELONA ESPAGNE",
+    "consultation_managers": ["Dr Isabel BADELL", "Dr Ángel REMACHA SEVILLA"],
+    "phones": ["34 93 291 90 00"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.santpau.cat/web/public/home",
+    "location": { "type": "Point", "coordinates": [2.174314, 41.4136997] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Carrer de Sant Quintí, 89, 08041 Barcelona, Spain",
+        "latitude": 41.4136997,
+        "longitude": 2.174314,
+        "extra": {
+          "googlePlaceId": "ChIJJ0AB4M-ipBIRj3HSiyLF-gE",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Barcelona",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Catalunya",
+          "level1short": "CT"
+        },
+        "streetNumber": "89",
+        "streetName": "Carrer de Sant Quintí",
+        "city": "Barcelona",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08041",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "ESPLUGUES DE LLOBREGAT",
+    "hospital": "Hospital Sant Joan de Déu Barcelona",
+    "name": "CSUR - Unidad de referencia nacional en eritropatología hereditaria (pediátrica)",
+    "name_en": "CSUR - National unit of expertise for hereditary erythropathology (pediatric)",
+    "address": "Servicio de Oncología y Hematología Hospital Sant Joan de Déu Barcelona Paseo de Sant Joan de Déu, 2 08950 ESPLUGUES DE LLOBREGAT ESPAGNE",
+    "consultation_managers": ["Dr Anna RUIZ LLOBET"],
+    "phones": ["34 93 253 21 00"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.sjdhospitalbarcelona.org/es/ninos/oncologia-hematologia",
+    "location": { "type": "Point", "coordinates": [2.102142, 41.38424] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Passeig de Sant Joan de Déu, 2, 08950 Esplugues de Llobregat, Barcelona, Spain",
+        "latitude": 41.38424,
+        "longitude": 2.102142,
+        "extra": {
+          "googlePlaceId": "ChIJHRlbNKqZpBIRcNRe_AzqSdU",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Esplugues de Llobregat",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Catalunya",
+          "level1short": "CT"
+        },
+        "streetNumber": "2",
+        "streetName": "Passeig de Sant Joan de Déu",
+        "city": "Esplugues de Llobregat",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08950",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "ESPLUGUES DE LLOBREGAT",
+    "hospital": "Hospital Sant Joan de Déu Barcelona",
+    "name": "CSUR - Unidad de referencia nacional en eritropatología hereditaria (pediátrica)",
+    "name_en": "CSUR - National unit of expertise for hereditary erythropathology (pediatric)",
+    "address": "Servicio de Oncología y Hematología Hospital Sant Joan de Déu Barcelona Paseo de Sant Joan de Déu, 2 08950 ESPLUGUES DE LLOBREGAT ESPAGNE",
+    "consultation_managers": ["Dr Anna RUIZ LLOBET"],
+    "phones": ["34 93 253 21 00"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.sjdhospitalbarcelona.org/es/ninos/oncologia-hematologia",
+    "location": { "type": "Point", "coordinates": [2.102142, 41.38424] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Passeig de Sant Joan de Déu, 2, 08950 Esplugues de Llobregat, Barcelona, Spain",
+        "latitude": 41.38424,
+        "longitude": 2.102142,
+        "extra": {
+          "googlePlaceId": "ChIJHRlbNKqZpBIRcNRe_AzqSdU",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Esplugues de Llobregat",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Catalunya",
+          "level1short": "CT"
+        },
+        "streetNumber": "2",
+        "streetName": "Passeig de Sant Joan de Déu",
+        "city": "Esplugues de Llobregat",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08950",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "TORTOSA",
+    "hospital": "Hospital de Tortosa Verge de la Cinta",
+    "name": "Consulta de anemias raras y coagulopatías congénitas",
+    "name_en": "Rare anemias and congenital coagulopathies clinics",
+    "address": "Servicio de Oncología y Hematología Hospital Sant Joan de Déu Barcelona Paseo de Sant Joan de Déu, 2 08950 ESPLUGUES DE LLOBREGAT ESPAGNE",
+    "consultation_managers": [
+      "Dr Marta RODRÍGUEZ LUACES",
+      "Dr Llorenç FONT FERRE"
+    ],
+    "phones": ["34 977519100"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "location": { "type": "Point", "coordinates": [2.102142, 41.38424] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Passeig de Sant Joan de Déu, 2, 08950 Esplugues de Llobregat, Barcelona, Spain",
+        "latitude": 41.38424,
+        "longitude": 2.102142,
+        "extra": {
+          "googlePlaceId": "ChIJHRlbNKqZpBIRcNRe_AzqSdU",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Esplugues de Llobregat",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Catalunya",
+          "level1short": "CT"
+        },
+        "streetNumber": "2",
+        "streetName": "Passeig de Sant Joan de Déu",
+        "city": "Esplugues de Llobregat",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08950",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Madrid",
+    "city": "MADRID",
+    "hospital": "Hospital Materno Infantil Gregorio Marañón",
+    "name": "CSUR - Unidad de referencia nacional en eritropatología hereditaria",
+    "name_en": "CSUR - National unit of expertise for hereditary erythropathology",
+    "address": "CSUR en Eritropatología hereditaria Hospital Materno Infantil Gregorio Marañón Calle Maiquez, 9 28009 MADRID ESPAGNE",
+    "consultation_managers": ["Dr Elena CELA DE JULIÁN"],
+    "phones": ["34 91 529 00 37"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.madrid.org/cs/Satellite?language=es&pagename=HospitalGregorioMaranon%2FPage%2FHGMA_home",
+    "location": { "type": "Point", "coordinates": [-3.6722475, 40.4207009] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Calle de O'Donnell, 48, 28009 Madrid, Spain",
+        "latitude": 40.4207009,
+        "longitude": -3.6722475,
+        "extra": {
+          "googlePlaceId": "ChIJYyIMiKUoQg0R4vOvEiGbNPo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Madrid",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Madrid",
+          "level2short": "M",
+          "level1long": "Comunidad de Madrid",
+          "level1short": "Comunidad de Madrid"
+        },
+        "streetNumber": "48",
+        "streetName": "Calle de O'Donnell",
+        "city": "Madrid",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "28009",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Madrid",
+    "city": "MADRID",
+    "hospital": "Hospital Universitario Fundación Jiménez Díaz",
+    "name": "Consulta de enfermedades neurogenéticas",
+    "name_en": "Neurogenetic diseases clinic",
+    "address": "Servicio de Neurología Hospital Universitario Fundación Jiménez Díaz Avenida Reyes Católicos, 2 28040 MADRID ESPAGNE",
+    "consultation_managers": ["Dr Carmen AYUSO", "Pr Pedro GARCÍA RUIZ"],
+    "phones": ["34 91 529 00 37"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.fjd.es/es/cartera-servicios/neurologia",
+    "location": { "type": "Point", "coordinates": [-3.7194856, 40.4387381] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Av. de los Reyes Católicos, 2, 28040 Madrid, Spain",
+        "latitude": 40.4387381,
+        "longitude": -3.7194856,
+        "extra": {
+          "googlePlaceId": "ChIJS3SHTkYoQg0R1CIx35YRZDo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Madrid",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Madrid",
+          "level2short": "M",
+          "level1long": "Comunidad de Madrid",
+          "level1short": "Comunidad de Madrid"
+        },
+        "streetNumber": "2",
+        "streetName": "Avenida de los Reyes Católicos",
+        "city": "Madrid",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "28040",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Madrid",
+    "city": "MADRID",
+    "hospital": "INGEMM - Instituto de Genética Médica y Molecular (IdiPAZ)",
+    "name": "Consulta de diagnóstico prenatal y asesoramiento genético en el embarazo",
+    "name_en": "Prenatal diagnosis and genetic counseling in pregnancy",
+    "address": "Sección de Citogenética INGEMM - Instituto de Genética Médica y Molecular (IdiPAZ) Paseo de la Castellana, 261 28046 MADRID ESPAGNE",
+    "consultation_managers": [
+      "Dr Fe GARCÍA SANTIAGO",
+      "Dr Elena MANSILLA APARICIO"
+    ],
+    "phones": ["34 91 207 1010"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.fjd.es/es/cartera-servicios/neurologia",
+    "location": {
+      "type": "Point",
+      "coordinates": [-3.687177399999999, 40.4815795]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "28029 Madrid, Spain",
+        "latitude": 40.4815795,
+        "longitude": -3.687177399999999,
+        "extra": {
+          "googlePlaceId": "ChIJzXoHL2kpQg0RfAUqPH6ymfo",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Madrid",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Madrid",
+          "level2short": "M",
+          "level1long": "Community of Madrid",
+          "level1short": "Community of Madrid"
+        },
+        "city": "Madrid",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "28029",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "País Vasco",
+    "city": "BARAKALDO",
+    "hospital": "Hospital Universitario Cruces - Osakidetza",
+    "name": "Consulta de enfermedades endocrinas raras",
+    "name_en": "Rare endocrine diseases clinic",
+    "address": "Servicio de Endocrinología Hospital Universitario Cruces - Osakidetza Plaza de Cruces s/n 48903 BARAKALDO ESPAGNE",
+    "consultation_managers": ["Dr Sonia GAZTAMBIDE SÁENZ"],
+    "phones": ["34 946 006 000"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": true,
+    "website": "http://www.hospitalcruces.com/",
+    "location": { "type": "Point", "coordinates": [-2.983914, 43.2820309] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Cruces Plaza, S/N, 48903 Barakaldo, Bizkaia, Spain",
+        "latitude": 43.2820309,
+        "longitude": -2.983914,
+        "extra": {
+          "googlePlaceId": "ChIJw3DwDIRQTg0RTODG2QPdk58",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Barakaldo",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Bizkaia",
+          "level2short": "BI",
+          "level1long": "Euskadi",
+          "level1short": "PV"
+        },
+        "streetNumber": "S/N",
+        "streetName": "Cruces Plaza",
+        "city": "Barakaldo",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "48903",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "BARCELONA",
+    "hospital": "Hospital Universitari Vall d'Hebron",
+    "name": "Consulta de endocrinología pediátrica",
+    "name_en": "Paediatric endocrinology clinic",
+    "address": "Servicio de Endocrinología Pediátrica Servicio de Pediatría Hospital Universitari Vall d'Hebron Paseo Vall d'Hebron, 119-129 08035 BARCELONA ESPAGNE",
+    "consultation_managers": ["Dr Diego YESTE FERNÁNDEZ"],
+    "phones": ["34 934 89 32 63", "34 934 89 31 61"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": true,
+    "website": "https://www.vallhebron.com/es/especialidades/endocrinologia-pediatrica",
+    "location": {
+      "type": "Point",
+      "coordinates": [2.14243, 41.42834610000001]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Passeig de la Vall d'Hebron, 119, 129, 08035 Barcelona, Spain",
+        "latitude": 41.42834610000001,
+        "longitude": 2.14243,
+        "extra": {
+          "googlePlaceId": "ChIJ3-xLF_2XpBIRdZjtdppRBQY",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": "129",
+          "neighborhood": "Barcelona",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Catalunya",
+          "level1short": "CT"
+        },
+        "streetNumber": "119",
+        "streetName": "Passeig de la Vall d'Hebron",
+        "city": "Barcelona",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08035",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Cataluña",
+    "city": "BARCELONA",
+    "hospital": "Hospital de la Santa Creu i Sant Pau",
+    "name": "Consulta de enfermedades hipofisarias o hipotalámicas raras",
+    "name_en": "Rare hypothalamic or pituitary diseases clinic",
+    "address": "Servicio de Endocrinología y Nutrición Hospital de la Santa Creu i Sant Pau Avenida Sant Antoni Maria Claret, 167 08025 BARCELONA ESPAGNE",
+    "consultation_managers": ["Pr Susan WEBB YOUDALE"],
+    "phones": ["34 935 56 59 61"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.santpau.cat/es/web/public/endocri-inici",
+    "location": { "type": "Point", "coordinates": [2.174377, 41.411882] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Carrer de Sant Antoni Maria Claret, 167, 08025 Barcelona, Spain",
+        "latitude": 41.411882,
+        "longitude": 2.174377,
+        "extra": {
+          "googlePlaceId": "ChIJ23XR4s-ipBIRNBld_26w2xs",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Barcelona",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Barcelona",
+          "level2short": "Barcelona",
+          "level1long": "Catalunya",
+          "level1short": "CT"
+        },
+        "streetNumber": "167",
+        "streetName": "Carrer de Sant Antoni Maria Claret",
+        "city": "Barcelona",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "08025",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "Espagne",
+    "region": "Galicia",
+    "city": "SANTIAGO DE COMPOSTELA",
+    "hospital": "Complejo Hospitalario Universitario de Santiago",
+    "name": "Consulta Especializada en Endocrinología y Lipodistrofias",
+    "name_en": "Endocrinology diseases and lipodystrophy clinic",
+    "address": "Servicio de Endocrinología y Nutrición Complejo Hospitalario Universitario de Santiago Travesía de Choupana s/n 15706 SANTIAGO DE COMPOSTELA ESPAGNE",
+    "consultation_managers": [
+      "Pr David ARAUJO VILAR",
+      "Pr Felipe CASANUEVA-FREIJO"
+    ],
+    "phones": ["349 81 95 12 45"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.usc.es/medicina/UETeM.html",
+    "location": { "type": "Point", "coordinates": [-8.5657444, 42.8693812] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Rúa da Choupana, s/n, 15706 Santiago de Compostela, A Coruña, Spain",
+        "latitude": 42.8693812,
+        "longitude": -8.5657444,
+        "extra": {
+          "googlePlaceId": "ChIJw2ehEQz-Lg0Rjahaq8tfKKk",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Santiago de Compostela",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "A Coruña",
+          "level2short": "C",
+          "level1long": "Galicia",
+          "level1short": "GA"
+        },
+        "streetNumber": "s/n",
+        "streetName": "Rúa da Choupana",
+        "city": "Santiago de Compostela",
+        "country": "Spain",
+        "countryCode": "ES",
+        "zipcode": "15706",
+        "provider": "google"
+      }
+    }
+  }
+]

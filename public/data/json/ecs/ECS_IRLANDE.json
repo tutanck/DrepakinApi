@@ -1,0 +1,348 @@
+[
+  {
+    "country": "IRLANDE",
+    "region": "County Dublin",
+    "city": "DUBLIN",
+    "hospital": "Our Lady's Children's Hospital",
+    "name": "General Paediatric Endocrinology Clinic",
+    "name_en": "General Paediatric Endocrinology Clinic",
+    "address": "Diabetes and Endocrinology Centre Our Lady's Children's Hospital Crumlin  DUBLIN 12 IRLANDE",
+    "consultation_managers": [" Dr Susan O'CONNELL"],
+    "phones": ["353 (01) 409 6399"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.olchc.ie/Children-Family/Parent-Patient-Information-leaflets/Endocrine-Endocrinology-Department-in-OLCHC-2017.pdf",
+    "location": { "type": "Point", "coordinates": [-6.3175373, 53.3265089] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Cooley Rd, Crumlin, Dublin, D12 N512, Ireland",
+        "latitude": 53.3265089,
+        "longitude": -6.3175373,
+        "extra": {
+          "googlePlaceId": "ChIJe2PK8ooMZ0gRLaI6SijhVyA",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Drimnagh",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "County Dublin",
+          "level1short": "County Dublin"
+        },
+        "streetName": "Cooley Road",
+        "city": "Dublin",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "zipcode": "D12 N512",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "IRLANDE",
+    "region": "County Dublin",
+    "city": "DUBLIN",
+    "hospital": "Our Lady's Children's Hospital",
+    "name": "Paediatric Haemoglobinopathy clinic",
+    "name_en": "Paediatric Haemoglobinopathy clinic",
+    "address": "Haematology Department Our Lady's Children's Hospital Crumlin  DUBLIN 12 IRLANDE",
+    "consultation_managers": [" Dr Corrina MCMAHON"],
+    "phones": [" 353 (0)1 409 6100", "353 (0)1 409 6913"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [-6.3175373, 53.3265089] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Cooley Rd, Crumlin, Dublin, D12 N512, Ireland",
+        "latitude": 53.3265089,
+        "longitude": -6.3175373,
+        "extra": {
+          "googlePlaceId": "ChIJe2PK8ooMZ0gRLaI6SijhVyA",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Drimnagh",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "County Dublin",
+          "level1short": "County Dublin"
+        },
+        "streetName": "Cooley Road",
+        "city": "Dublin",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "zipcode": "D12 N512",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "IRLANDE",
+    "region": "County Dublin",
+    "city": "DUBLIN",
+    "hospital": "St James's Hospital",
+    "name": "Adult Haemaglobinopathy Clinic",
+    "name_en": "Adult Haemaglobinopathy Clinic",
+    "address": "Department of Haematology St James's Hospital James's Street  DUBLIN Dublin 8 IRLANDE",
+    "consultation_managers": ["  Dr Emma TUOHY"],
+    "phones": ["+353 (01) 416 2168"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.stjames.ie/Departments/DepartmentsA-Z/H/HaematologyDepartment/DepartmentOverview/",
+    "location": { "type": "Point", "coordinates": [-6.2966764, 53.3392542] },
+    "meta": {
+      "place": {
+        "formattedAddress": "James's St, Ushers, Dublin 8, D08 NHY1, Ireland",
+        "latitude": 53.3392542,
+        "longitude": -6.2966764,
+        "extra": {
+          "googlePlaceId": "ChIJFeoUpDgMZ0gRInP98MJ4Btk",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Ushers",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "County Dublin",
+          "level1short": "County Dublin"
+        },
+        "streetName": "James's St",
+        "city": "Dublin 8",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "zipcode": "D08 NHY1",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "IRLANDE",
+    "region": "County Dublin",
+    "city": "DUBLIN",
+    "hospital": "Children's University Hospital",
+    "name": "Rare Paediatric Bone Disorders Clinic",
+    "name_en": "Rare Paediatric Bone Disorders Clinic",
+    "address": "Department of Endocrinology Children's University Hospital Temple Street  DUBLIN Dublin 1 IRLANDE",
+    "consultation_managers": [" Dr Ciara MCDONNELL "],
+    "phones": ["353 (01) 892 1846"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "https://www.cuh.ie/",
+    "location": { "type": "Point", "coordinates": [-6.2620292, 53.356787] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Temple St, Northside, Dublin 1, D01 XD99, Ireland",
+        "latitude": 53.356787,
+        "longitude": -6.2620292,
+        "extra": {
+          "googlePlaceId": "ChIJA-oGjH0OZ0gR3hNoQ5RABMc",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Northside",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "County Dublin",
+          "level1short": "County Dublin"
+        },
+        "streetName": "Temple Street",
+        "city": "Dublin 1",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "zipcode": "D01 XD99",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "IRLANDE",
+    "region": "County Dublin",
+    "city": "DUBLIN",
+    "hospital": "Our Lady's Children's Hospital",
+    "name": "Rare Endocrine Growth Disorders Clinic",
+    "name_en": "Rare Endocrine Growth Disorders Clinic",
+    "address": "Diabetes and Endocrinology Centre Our Lady's Children's Hospital Crumlin  DUBLIN 12 IRLANDE",
+    "consultation_managers": [" Dr Susan O'CONNELL "],
+    "phones": ["353 (01) 409 6399"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.olchc.ie/Children-Family/Parent-Patient-Information-leaflets/Endocrine-Endocrinology-Department-in-OLCHC-2017.pdf",
+    "location": { "type": "Point", "coordinates": [-6.3175373, 53.3265089] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Cooley Rd, Crumlin, Dublin, D12 N512, Ireland",
+        "latitude": 53.3265089,
+        "longitude": -6.3175373,
+        "extra": {
+          "googlePlaceId": "ChIJe2PK8ooMZ0gRLaI6SijhVyA",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Drimnagh",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "County Dublin",
+          "level1short": "County Dublin"
+        },
+        "streetName": "Cooley Road",
+        "city": "Dublin",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "zipcode": "D12 N512",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "IRLANDE",
+    "region": "County Dublin",
+    "city": "DUBLIN",
+    "hospital": "Endocrinology Department, Beaumont Hospital",
+    "name": "Pituitary Disease clinic",
+    "name_en": "Pituitary Disease clinic",
+    "address": "Pituitary Service Endocrinology Department, Beaumont Hospital Beaumont Road  DUBLIN 9 IRLANDE",
+    "consultation_managers": ["Pr Christopher THOMPSON"],
+    "phones": ["353 (0)1 809-2811"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.beaumont.ie/index.jsp?n=206",
+    "location": { "type": "Point", "coordinates": [-6.2233019, 53.3904777] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Beaumont Rd, Beaumont, Dublin, Ireland",
+        "latitude": 53.3904777,
+        "longitude": -6.2233019,
+        "extra": {
+          "googlePlaceId": "ChIJVQxAqzIOZ0gRGFkMJHmjWzE",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Beaumont",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "County Dublin",
+          "level1short": "County Dublin"
+        },
+        "streetName": "Beaumont Road",
+        "city": "Dublin",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "IRLANDE",
+    "region": "County Dublin",
+    "city": "DUBLIN",
+    "hospital": "Our Lady's Children's Hospital",
+    "name": "Pituitary Clinic",
+    "name_en": "Pituitary Clinic",
+    "address": "Diabetes and Endocrinology Centre Our Lady's Children's Hospital Crumlin  DUBLIN 12 IRLANDE",
+    "consultation_managers": ["Dr Susan O'CONNELL"],
+    "phones": ["353 (01) 409 6399"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "http://www.olchc.ie/Children-Family/Parent-Patient-Information-leaflets/Endocrine-Endocrinology-Department-in-OLCHC-2017.pdf",
+    "location": { "type": "Point", "coordinates": [-6.3175373, 53.3265089] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Cooley Rd, Crumlin, Dublin, D12 N512, Ireland",
+        "latitude": 53.3265089,
+        "longitude": -6.3175373,
+        "extra": {
+          "googlePlaceId": "ChIJe2PK8ooMZ0gRLaI6SijhVyA",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Drimnagh",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "County Dublin",
+          "level1short": "County Dublin"
+        },
+        "streetName": "Cooley Road",
+        "city": "Dublin",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "zipcode": "D12 N512",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "IRLANDE",
+    "region": "County Dublin",
+    "city": "DUBLIN",
+    "hospital": "St. Vincent's University Hospital",
+    "name": "Complex Metabolic Bone Diseases Clinic",
+    "name_en": "Complex Metabolic Bone Diseases Clinic",
+    "address": "Endocrinology Department St. Vincent's University Hospital Elm Park  DUBLIN Dublin 4 IRLANDE",
+    "consultation_managers": ["Dr Rachel CROWLEY"],
+    "phones": [" 353 (01) 221 4407"],
+    "for_children": false,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [-6.212890100000001, 53.3169997]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "196 Merrion Road, Elm Park, Dublin, D04 T6F4, Ireland",
+        "latitude": 53.3169997,
+        "longitude": -6.212890100000001,
+        "extra": {
+          "googlePlaceId": "ChIJd9ngI9UOZ0gRBuRgtzZzEVE",
+          "confidence": 0.7,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Dublin",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level1long": "County Dublin",
+          "level1short": "County Dublin"
+        },
+        "streetName": "Elm Park",
+        "city": "Dublin",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "zipcode": "D04 T6F4",
+        "provider": "google"
+      }
+    }
+  }
+]

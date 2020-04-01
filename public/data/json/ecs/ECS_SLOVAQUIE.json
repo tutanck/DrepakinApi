@@ -1,0 +1,48 @@
+[
+  {
+    "country": "SLOVAQUIE",
+    "region": "Kosicky kraj",
+    "city": "KOSICE",
+    "hospital": "Safarik University Medical School and University Children´s Hospital",
+    "name": "Centrum pre zriedkave reumatologicke ochorenia",
+    "name_en": "Center for Rare Rheumatologic Diseases",
+    "address": "1st Department of Pediatrics Safarik University Medical School and University Children´s Hospital Trieda SNP 1 040 11 KOSICE SLOVAQUIE",
+    "consultation_managers": ["Mme Veronika VARGOVA"],
+    "phones": ["+42155 2352 393"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": false,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [21.2368717, 48.723221] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Trieda SNP 457/1, 040 11 Košice, Slovakia",
+        "latitude": 48.723221,
+        "longitude": 21.2368717,
+        "extra": {
+          "googlePlaceId": "ChIJc23arUTgPkcRJ7UPzA-hqTY",
+          "confidence": 1,
+          "premise": "457",
+          "subpremise": null,
+          "neighborhood": "Košice",
+          "establishment": null
+        },
+        "administrativeLevels": {
+          "level2long": "Košice II",
+          "level2short": "Košice II",
+          "level1long": "Košický kraj",
+          "level1short": "Košický kraj"
+        },
+        "streetNumber": "1",
+        "streetName": "Trieda SNP",
+        "city": "Košice",
+        "country": "Slovakia",
+        "countryCode": "SK",
+        "zipcode": "040 11",
+        "provider": "google"
+      }
+    }
+  }
+]

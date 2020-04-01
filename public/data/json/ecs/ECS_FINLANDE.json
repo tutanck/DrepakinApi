@@ -1,0 +1,304 @@
+[
+  {
+    "country": "FINLANDE",
+    "region": "Finland",
+    "city": "KUOPIO",
+    "hospital": "Kuopio University Hospital",
+    "name": "Paediatric Haematology and Oncology Unit",
+    "name_en": "Paediatric Haematology and Oncology Unit",
+    "address": "Department of Pediatrics Kuopio University Hospital Puijonlaaksontie 2 70210 KUOPIO FINLANDE",
+    "consultation_managers": [" M. Pekka RIIKONEN"],
+    "phones": [" 358 17 172 396"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "https://www.psshp.fi/web/en/medical-care/paediatrics",
+    "location": {
+      "type": "Point",
+      "coordinates": [27.647025, 62.89754199999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Puijonlaaksontie 2, 70210 Kuopio, Finland",
+        "latitude": 62.89754199999999,
+        "longitude": 27.647025,
+        "extra": {
+          "googlePlaceId": "ChIJ0RvZ9oGwhEYRx4UMLyaq3CQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Kuopio",
+          "establishment": null
+        },
+        "administrativeLevels": {},
+        "streetNumber": "2",
+        "streetName": "Puijonlaaksontie",
+        "city": "Kuopio",
+        "country": "Finland",
+        "countryCode": "FI",
+        "zipcode": "70210",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "FINLANDE",
+    "region": "Finland",
+    "city": "KUOPIO",
+    "hospital": "Kuopio University Hospital",
+    "name": "Harvinaissairauksien yksikkö",
+    "name_en": "Rare Diseases Unit",
+    "address": "Kuopio University Hospital Kuopio University Hospital Puijonlaaksontie 2 70210 KUOPIO FINLANDE",
+    "consultation_managers": [" Pr Jarmo JÄÄSKELÄINEN"],
+    "phones": [" "],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": {
+      "type": "Point",
+      "coordinates": [27.647025, 62.89754199999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Puijonlaaksontie 2, 70210 Kuopio, Finland",
+        "latitude": 62.89754199999999,
+        "longitude": 27.647025,
+        "extra": {
+          "googlePlaceId": "ChIJ0RvZ9oGwhEYRx4UMLyaq3CQ",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Kuopio",
+          "establishment": null
+        },
+        "administrativeLevels": {},
+        "streetNumber": "2",
+        "streetName": "Puijonlaaksontie",
+        "city": "Kuopio",
+        "country": "Finland",
+        "countryCode": "FI",
+        "zipcode": "70210",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "FINLANDE",
+    "region": "Finland",
+    "city": "OULU",
+    "hospital": "Oulu University Hospital",
+    "name": "Harvinaissairauksien yksikkö",
+    "name_en": "Rare Diseases Unit",
+    "address": "Department of Clinical Genetics Oulu University Hospital Kajaanintie 50 90220 OULU FINLANDE",
+    "consultation_managers": [],
+    "phones": [" 358 8 315 3218", "358 8 315 3185"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "https://www.ppshp.fi/Toimipaikat/Perinnollisyyslaaketiede/Perinnollisyyspoliklinikka/Pages/default.aspx",
+    "location": {
+      "type": "Point",
+      "coordinates": [25.5179525, 65.00696529999999]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Kajaanintie 50, 90220 Oulu, Finland",
+        "latitude": 65.00696529999999,
+        "longitude": 25.5179525,
+        "extra": {
+          "googlePlaceId": "ChIJU9QC3FnNgUYRPYDw4E4_ebo",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Oulu",
+          "establishment": null
+        },
+        "administrativeLevels": {},
+        "streetNumber": "50",
+        "streetName": "Kajaanintie",
+        "city": "Oulu",
+        "country": "Finland",
+        "countryCode": "FI",
+        "zipcode": "90220",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "FINLANDE",
+    "region": "Finland",
+    "city": "TAMPERE",
+    "hospital": "TAYS - Tampere University Hospital",
+    "name": "Paediatric Haematology and Oncology Unit",
+    "name_en": "Paediatric Haematology and Oncology Unit",
+    "address": "Lasten hematologian ja onkologian osasto TAYS - Tampere University Hospital Teiskontie 35 33520 TAMPERE FINLANDE",
+    "consultation_managers": ["Dr Olli LOHI"],
+    "phones": [],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [23.8136711, 61.5048357] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Elämänaukio, Kuntokatu 2, 33520 Tampere, Finland",
+        "latitude": 61.5048357,
+        "longitude": 23.8136711,
+        "extra": {
+          "googlePlaceId": "ChIJo2rtSKMgj0YR8j-1RE4eVbc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Tampere",
+          "establishment": null
+        },
+        "administrativeLevels": {},
+        "streetNumber": "2",
+        "streetName": "Kuntokatu",
+        "city": "Tampere",
+        "country": "Finland",
+        "countryCode": "FI",
+        "zipcode": "33520",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "FINLANDE",
+    "region": "Finland",
+    "city": "TAMPERE",
+    "hospital": "TAYS - Tampere University Hospital",
+    "name": "Harvinaissairauksien yksikkö",
+    "name_en": "Rare Diseases Unit",
+    "address": "Tampere University Hospital TAYS - Tampere University Hospital Teiskontie 35 33520 TAMPERE FINLANDE",
+    "consultation_managers": [" Dr Pasi NEVALAINEN"],
+    "phones": [],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "",
+    "location": { "type": "Point", "coordinates": [23.8136711, 61.5048357] },
+    "meta": {
+      "place": {
+        "formattedAddress": "Elämänaukio, Kuntokatu 2, 33520 Tampere, Finland",
+        "latitude": 61.5048357,
+        "longitude": 23.8136711,
+        "extra": {
+          "googlePlaceId": "ChIJo2rtSKMgj0YR8j-1RE4eVbc",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Tampere",
+          "establishment": null
+        },
+        "administrativeLevels": {},
+        "streetNumber": "2",
+        "streetName": "Kuntokatu",
+        "city": "Tampere",
+        "country": "Finland",
+        "countryCode": "FI",
+        "zipcode": "33520",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "FINLANDE",
+    "region": "Finland",
+    "city": "TURKU",
+    "hospital": "Turku University Hospital",
+    "name": "Paediatric and Adolescent Haematology and Oncology Section",
+    "name_en": "Paediatric and Adolescent Haematology and Oncology Section",
+    "address": "Department of Pediatrics - Lasten ja nuorten klinikka Turku University Hospital Kiinamyllynkatu 4-8 20520 TURKU FINLANDE",
+    "consultation_managers": [],
+    "phones": ["358 2 313 2400"],
+    "for_children": true,
+    "for_adults": false,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": true,
+    "website": "http://www.vsshp.fi/en/toimipaikat/tyks/to8/Pages/default.aspx",
+    "location": {
+      "type": "Point",
+      "coordinates": [22.2915922, 60.45315060000001]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Kiinamyllynkatu 4-8, 20521 Turku, Finland",
+        "latitude": 60.45315060000001,
+        "longitude": 22.2915922,
+        "extra": {
+          "googlePlaceId": "ChIJEf6DO-92jEYRZ_zALvFCoOE",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Turku",
+          "establishment": null
+        },
+        "administrativeLevels": {},
+        "streetNumber": "4-8",
+        "streetName": "Kiinamyllynkatu",
+        "city": "Turku",
+        "country": "Finland",
+        "countryCode": "FI",
+        "zipcode": "20521",
+        "provider": "google"
+      }
+    }
+  },
+  {
+    "country": "FINLANDE",
+    "region": "Finland",
+    "city": "TURKU",
+    "hospital": "Turku University Hospital",
+    "name": "Harvinaissairauksien yksikkö",
+    "name_en": "Rare Diseases Unit",
+    "address": "Department of Pediatrics - Lasten ja nuorten klinikka Turku University Hospital Kiinamyllynkatu 4-8 20520 TURKU FINLANDE",
+    "consultation_managers": [],
+    "phones": ["358 2 313 2400"],
+    "for_children": true,
+    "for_adults": true,
+    "specialized_consultation": true,
+    "officially_designated": true,
+    "ern_member": false,
+    "website": "http://www.vsshp.fi/en/toimipaikat/tyks/to8/Pages/default.aspx",
+    "location": {
+      "type": "Point",
+      "coordinates": [22.2915922, 60.45315060000001]
+    },
+    "meta": {
+      "place": {
+        "formattedAddress": "Kiinamyllynkatu 4-8, 20521 Turku, Finland",
+        "latitude": 60.45315060000001,
+        "longitude": 22.2915922,
+        "extra": {
+          "googlePlaceId": "ChIJEf6DO-92jEYRZ_zALvFCoOE",
+          "confidence": 1,
+          "premise": null,
+          "subpremise": null,
+          "neighborhood": "Turku",
+          "establishment": null
+        },
+        "administrativeLevels": {},
+        "streetNumber": "4-8",
+        "streetName": "Kiinamyllynkatu",
+        "city": "Turku",
+        "country": "Finland",
+        "countryCode": "FI",
+        "zipcode": "20521",
+        "provider": "google"
+      }
+    }
+  }
+]
