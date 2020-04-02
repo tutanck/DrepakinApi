@@ -50,7 +50,7 @@ jobs:
       - run:
           name: Clever Cloud deploy
           command: |
-            git remote add clever git+ssh://git@push-mtl-clevercloud-customers.services.clever-cloud.com/$CLEVER_APP_ID.git
+            git remote add clever https://$CLEVER_TOKEN:$CLEVER_SECRET@push-mtl-clevercloud-customers.services.clever-cloud.com/$CLEVER_APP_ID.git
             git push clever master
 
 workflows:
