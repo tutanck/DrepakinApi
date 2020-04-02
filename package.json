@@ -5,7 +5,7 @@
   "main": "app",
   "scripts": {
     "dev": "nodemon --watch app",
-    "start": "env-cmd -f .env.production node app",
+    "start": "node app",
     "start:staging": "env-cmd -f .env.staging node app",
     "pretty-ec": "prettier --write 'public/data/json/ecs/*.json'",
     "init-db": "node app/scripts/init-db",
