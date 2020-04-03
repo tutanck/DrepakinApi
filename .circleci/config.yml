@@ -68,8 +68,8 @@ workflows:
             branches:
               only: master
       - deploy_heroku:
-        requires:
-          - build
-        filters:
-          branches:
-            only: master
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
