@@ -33,10 +33,10 @@ const initDB = async () => {
   console.log(blue(now(), 'Database initialised !'));
 };
 
-const MONGO_DATABASE = 'mongodb://localhost/drepakin';
+const MONGODB_TESTS_URI = 'mongodb://localhost/drepakin_tests';
 
 // connect to mongoose
-mongoose.connect(MONGO_DATABASE, {
+mongoose.connect(MONGODB_TESTS_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });

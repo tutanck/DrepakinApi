@@ -61,7 +61,7 @@ Object.values(error_handlers).map(fn => app.use(fn));
 
 // connect to mongoose
 if (process.env.NODE_ENV !== 'test') {
-  mongoose.connect(process.env.MONGO_DATABASE, {
+  mongoose.connect(process.env.MONGODB_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
