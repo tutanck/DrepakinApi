@@ -5,7 +5,7 @@
 version: 2.1 # use CircleCI 2.1
 
 orbs:
-  heroku: circleci/heroku@0.0.10
+  heroku: circleci/heroku@1.0.1
 
 jobs:
   build:
