@@ -3,6 +3,10 @@
 # Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
 version: 2.1 # use CircleCI 2.1
+
+orbs:
+  heroku: circleci/heroku@0.0.10
+
 jobs:
   build:
     docker:
@@ -54,8 +58,6 @@ jobs:
             git push clever master
 
   deploy_heroku:
-    orbs:
-      heroku: circleci/heroku@0.0.10
 
 workflows:
   build_and_deploy:
@@ -67,7 +69,7 @@ workflows:
           filters:
             branches:
               only: master
-      - deploy_heroku:
+      - heroku/deploy-via-git:
           requires:
             - build
           filters:
