@@ -57,8 +57,6 @@ jobs:
             git remote add clever https://$CLEVER_TOKEN:$CLEVER_SECRET@push-mtl-clevercloud-customers.services.clever-cloud.com/$CLEVER_APP_ID.git
             git push clever master
 
-  deploy_heroku:
-
 workflows:
   build_and_deploy:
     jobs:
