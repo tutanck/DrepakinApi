@@ -8,7 +8,7 @@
     "start": "node app",
     "start:staging": "env-cmd -f .env.staging node app",
     "pretty-ec": "prettier --write 'public/data/json/ecs/*.json'",
-    "init-db": "node app/scripts/init-db",
+    "init-db": "env-cmd -f .env.local node app/scripts/init-db",
     "relocate-ec": "node app/scripts/relocate-centers",
     "lint": "eslint .",
     "pretest": "cross-env NODE_ENV=test",
