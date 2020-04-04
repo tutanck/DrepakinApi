@@ -50,4 +50,4 @@ const relocate = async (directoryPath, GOOGLE_GEOCODING_API_KEY) => {
   }
 };
 
-relocate('public/data/json/ecs', process.argv.slice(2)[0]);
+relocate('public/data/json/ecs', process.env.GOOGLE_GEOCODING_API_KEY);
