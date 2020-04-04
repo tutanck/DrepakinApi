@@ -33,7 +33,10 @@ if (!['dev', 'test'].includes(process.env.NODE_ENV)) {
   app.use(Sentry.Handlers.errorHandler()); // The error handler must be before any other error middleware
 
   console.log('====================================');
-  console.log('------------------------------------------> SENTRY OK !');
+  console.log(
+    '------------------------------------------> SENTRY:',
+    process.env.SENTRY_DSN,
+  );
   console.log('====================================');
 }
 
