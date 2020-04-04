@@ -12,7 +12,7 @@ const enrichEc = userId => async (ec, toJSON = true) => {
     'rates_count',
   );
 
-  const center = toJSON === true ? ecWithRatesCount.toJSON() : ecWithRatesCount; // TODO better ? (where and when to use toJSON the best way ?)
+  const center = toJSON === true ? ecWithRatesCount.toJSON() : ecWithRatesCount;
 
   const richEc = {
     ...center,

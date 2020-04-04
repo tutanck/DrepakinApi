@@ -85,7 +85,7 @@ const ecRules = [
 
   body('meta.place.extra.types')
     .optional()
-    .isArray(), // TODO of string
+    .isArray(),
 
   body('meta.place.streetNumber')
     .optional({ nullable: true })
