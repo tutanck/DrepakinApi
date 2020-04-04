@@ -24,13 +24,17 @@ const PORT = process.env.PORT;
 
 const app = express();
 
-if (process.env.APP_ENV === 'production') {
+if (!['dev', 'test'].includes(process.env.NODE_ENV)) {
   Sentry.init({
     dsn: process.env.SENTRY_DSN,
   });
 
   app.use(Sentry.Handlers.requestHandler()); // The request handler must be the first middleware on the app
   app.use(Sentry.Handlers.errorHandler()); // The error handler must be before any other error middleware
+
+  console.log('====================================');
+  console.log('------------------------------------------> SENTRY OK !');
+  console.log('====================================');
 }
 
 // mount classic middlewares
