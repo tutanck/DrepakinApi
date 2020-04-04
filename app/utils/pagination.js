@@ -1,4 +1,4 @@
-const paginate = async (query, pageParam = 1, perPageParam = 5) => {
+const paginate = async (query, pageParam = 1, perPageParam = 5, sortby) => {
   const page = parseInt(pageParam);
   const perPage = parseInt(perPageParam);
 
@@ -14,7 +14,7 @@ const paginate = async (query, pageParam = 1, perPageParam = 5) => {
     query: new queryBuilder()
       .skip(page > 0 ? (page - 1) * perPage : 0)
       .limit(perPage)
-      .sort({ updated_at: -1 }), // TODO see implications
+      .sort(sortby),
   };
 };
 

@@ -6,7 +6,9 @@ const { now } = require('../../utils/toolbox');
 const list = async (page = 1, perPage = 5, userId) => {
   const baseQuery = ExpertCenter.find();
 
-  const { metas, query } = await paginate(baseQuery, page, perPage);
+  const { metas, query } = await paginate(baseQuery, page, perPage, {
+    updated_at: -1,
+  });
 
   const ecList = await query;
   const enrichedEcList = await enrichEcList(userId)(ecList);
