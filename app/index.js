@@ -24,7 +24,7 @@ const PORT = process.env.PORT;
 
 const app = express();
 
-if (!['dev', 'test'].includes(process.env.NODE_ENV)) {
+if (['production', 'staging'].includes(process.env.NODE_ENV)) {
   Sentry.init({
     dsn: process.env.SENTRY_DSN,
   });
