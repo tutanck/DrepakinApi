@@ -29,9 +29,9 @@ const ecRules = [
     .isString()
     .isLength({ min: 1 }),
 
-  body('consultation_managers').isArray(), //TODO of string
+  body('consultation_managers').isArray(),
 
-  body('phones').isArray(), //TODO of string
+  body('phones').isArray(),
 
   body('for_children')
     .optional()
@@ -85,7 +85,7 @@ const ecRules = [
 
   body('meta.place.extra.types')
     .optional()
-    .isArray(), // TODO of string
+    .isArray(),
 
   body('meta.place.streetNumber')
     .optional({ nullable: true })

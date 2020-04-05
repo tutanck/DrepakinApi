@@ -59,7 +59,9 @@ describe('list', () => {
 
     // expectations
     expect(ExpertCenter.find).toHaveBeenCalledWith();
-    expect(paginate).toHaveBeenCalledWith(query, page, perPage);
+    expect(paginate).toHaveBeenCalledWith(query, page, perPage, {
+      updated_at: -1,
+    });
     expect(enrichEcList).toHaveBeenCalledWith(userId);
     expect(enrichEcListCallback).toHaveBeenCalledWith(centers);
     expect(result).toEqual({

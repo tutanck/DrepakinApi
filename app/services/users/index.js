@@ -8,7 +8,9 @@ const list = async (page = 1, perPage = 5, search) => {
     search ? { $text: { $search: search } } : undefined,
   );
 
-  const { metas, query } = await paginate(baseQuery, page, perPage);
+  const { metas, query } = await paginate(baseQuery, page, perPage, {
+    updated_at: -1,
+  });
 
   const users = await query;
 

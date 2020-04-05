@@ -45,7 +45,9 @@ describe('list', () => {
 
     // expectations
     expect(User.find).toHaveBeenCalledWith({ $text: { $search: searchText } });
-    expect(paginate).toHaveBeenCalledWith(query, page, perPage);
+    expect(paginate).toHaveBeenCalledWith(query, page, perPage, {
+      updated_at: -1,
+    });
     expect(result).toEqual({ ...metas, items: users });
   });
 });

@@ -10,7 +10,9 @@ const listByCenter = async (centerId, page = 1, perPage = 5) => {
     center_id: ec.id,
   });
 
-  const { metas, query } = await paginate(baseQuery, page, perPage);
+  const { metas, query } = await paginate(baseQuery, page, perPage, {
+    updated_at: -1,
+  });
 
   const comments = await query
     .populate({ path: 'author', select: 'name picture' })

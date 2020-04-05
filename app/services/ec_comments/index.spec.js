@@ -58,6 +58,7 @@ describe('listByCenter', () => {
       Promise.resolve(query),
       page,
       perPage,
+      { updated_at: -1 },
     );
     expect(query.populate).toHaveBeenCalledWith({
       path: 'author',

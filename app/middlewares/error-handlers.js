@@ -6,7 +6,7 @@ const {
   NotFound,
   ServiceUnavailable,
 } = require('http-errors');
-const { MongoError } = require('mongodb'); //TODO npm i ?
+const { MongoError } = require('mongodb');
 const DocumentNotFoundError = require('mongoose/lib/error/notFound'); // TODO better ? --uniformize with 'http-errors to have the same error pattern in the client side maybe replace all by NotFound from http errors to uniformize
 
 const { isInstanceOfSome } = require('../utils/toolbox');
