@@ -8,7 +8,7 @@
 
 > This project aims to help sickle cell patients find the specialist hospital closest to the desired location.
 
-### ✨ [drepakin.com](drepakin.com)
+### ✨ [drepakin.com](https://drepakin.com/)
 
 ### 💻 [React App](https://github.com/tutanck/Drepakin)
 
@@ -68,7 +68,7 @@ npm start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](github.com/tutanck/Drepakin/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/tutanck/DrepakinApi/issues).
 
 ## Show your support
 
