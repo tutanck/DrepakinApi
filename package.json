@@ -7,7 +7,7 @@
     "dev": "nodemon --watch app",
     "start": "node app",
     "start:staging": "node app",
-    "pretty-ec": "prettier --write 'public/data/json/ecs/*.json'",
+    "pretty-ec": "prettier --write 'secret/data/json/ecs/*.json'",
     "init-db": "env-cmd -f .env.local node app/scripts/init-db",
     "relocate-ec": "env-cmd -f .env.local node app/scripts/relocate-centers",
     "lint": "eslint .",
