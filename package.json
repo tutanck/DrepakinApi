@@ -10,6 +10,7 @@
     "pretty-ec": "prettier --write 'secret/data/json/ecs/*.json'",
     "init-db": "env-cmd -f .env.local node app/scripts/init-db",
     "relocate-ec": "env-cmd -f .env.local node app/scripts/relocate-centers",
+    "serialize-ec": "env-cmd -f .env.local node app/scripts/serialize-db-ecs",
     "lint": "eslint .",
     "pretest": "cross-env NODE_ENV=test",
     "test": "jest --testTimeout=9000 --maxWorkers=1"
