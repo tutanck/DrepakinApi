@@ -58,6 +58,9 @@ npm start
 
 - `npm run pretty-ec` : apply prettier on experts centers json files (located in `secret/data/json/ecs`)
 
+- `serialize-ec`: serialize experts centers collection into a json file (located in `secret/tmp/json/ecs.json`)
+  - use **true** as an option to add mongodb metas like _\_id_ and _\_\_v_
+
 ## Author
 
 👤 **tutanck**
