@@ -56,7 +56,10 @@ npm start
 
 - `npm run relocate-ec` : adjust experts centers coordinates in json files from Google Maps api.
 
-- `npm run pretty-ec` : apply prettier on experts centers json files (located in `public/data/json/ecs`)
+- `npm run pretty-ec` : apply prettier on experts centers json files (located in `secret/data/json/ecs`)
+
+- `serialize-ec`: serialize experts centers collection into a json file (located in `secret/tmp/json/ecs.json`)
+  - use **true** as an option to add mongodb metas like _\_id_ and _\_\_v_
 
 ## Author
 
