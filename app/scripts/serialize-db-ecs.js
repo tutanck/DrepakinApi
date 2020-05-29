@@ -36,9 +36,11 @@ const serializeDB = async (destDir, withMongoMetas) => {
     fs.writeFileSync(destFileName, JSON.stringify(ecList), 'utf8');
 
     db.close();
+
+    console.log(green('Done !'));
   });
 };
 
 const options = process.argv.slice(2);
 
-serializeDB('snapshots', ...options);
+serializeDB('secret/versions', ...options);

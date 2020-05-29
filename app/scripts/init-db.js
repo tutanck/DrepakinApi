@@ -17,7 +17,7 @@ const initDB = async () => {
   console.log('creating 2dsphere index...');
   await ExpertCenter.collection.createIndex({ location: '2dsphere' });
 
-  const jsonFileNames = getJsonFileNames('secret');
+  const jsonFileNames = getJsonFileNames('secret/db');
 
   for (const fileName of jsonFileNames) {
     console.log('inserting >>>', fileName);
