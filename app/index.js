@@ -51,11 +51,6 @@ app.use(cookieParser());
 app.use('/static', express.static(path.join(__dirname, '../public')));
 app.use(express.static(path.join(__dirname, '../build')));
 
-// serve static client webapp
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, '../build', 'index.html'));
-});
-
 // mount routers middlewares
 app.use('/users', usersRouter);
 app.use('/centers', centersRouter);

@@ -24,4 +24,33 @@ const sleep = ms => {
 
 const now = () => new Date();
 
-module.exports = { isInstanceOfSome, getJsonFileNames, sleep, now };
+const getFormatedInstant = () => {
+  const instant = new Date();
+
+  const day = [
+    instant.getDate(),
+    instant.getMonth(),
+    instant.getFullYear(),
+  ].join('-');
+
+  const time =
+    instant.getHours() +
+    'h' +
+    instant.getMinutes() +
+    'm' +
+    instant.getSeconds() +
+    's' +
+    instant.getMilliseconds();
+
+  const formatedInstant = [day, time].join('_');
+
+  return formatedInstant;
+};
+
+module.exports = {
+  isInstanceOfSome,
+  getJsonFileNames,
+  sleep,
+  now,
+  getFormatedInstant,
+};
