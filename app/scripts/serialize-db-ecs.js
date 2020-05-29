@@ -1,9 +1,13 @@
 const fs = require('fs');
 const mongoose = require('mongoose');
 const ExpertCenter = require('../models/ExpertCenter');
+const { getFormatedInstant } = require('../utils/toolbox');
+
 const { green } = require('chalk');
 
-const serializeDB = async (destinationFileName, withMongoMetas) => {
+const serializeDB = async (destDir, withMongoMetas) => {
+  const destFileName = `${destDir}/snapshot_${getFormatedInstant()}.json`;
+
   mongoose.set('toJSON', { virtuals: false });
 
   // connect to mongoose
@@ -29,7 +33,7 @@ const serializeDB = async (destinationFileName, withMongoMetas) => {
       withMongoMetas === 'true' ? undefined : removeMongoMetasOptions,
     );
 
-    fs.writeFileSync(destinationFileName, JSON.stringify(ecList), 'utf8');
+    fs.writeFileSync(destFileName, JSON.stringify(ecList), 'utf8');
 
     db.close();
   });
@@ -37,4 +41,4 @@ const serializeDB = async (destinationFileName, withMongoMetas) => {
 
 const options = process.argv.slice(2);
 
-serializeDB('secret/tmp/json/ecs.json', ...options);
+serializeDB('snapshots', ...options);
