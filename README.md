@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> This project aims to help sickle cell patients find the nearest specialist hospital.
+> Help sickle cell patients find nearby specialist hospitals
 
 ### ✨ [drepakin.com](https://drepakin.com/)
 
