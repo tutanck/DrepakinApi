@@ -50,4 +50,4 @@ const relocate = async (directoryPath, GOOGLE_GEOCODING_API_KEY) => {
   }
 };
 
-relocate('secret/data/json/ecs', process.env.GOOGLE_GEOCODING_API_KEY);
+relocate('drepakin-secret/data/json/ecs', process.env.GOOGLE_GEOCODING_API_KEY);
