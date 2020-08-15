@@ -30,4 +30,4 @@ yarn-error.log*
 .vscode
 
 # others
-secret
+drepakin-secret

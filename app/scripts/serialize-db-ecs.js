@@ -43,4 +43,4 @@ const serializeDB = async (destDir, withMongoMetas) => {
 
 const options = process.argv.slice(2);
 
-serializeDB('secret/versions', ...options);
+serializeDB('drepakin-secret/versions', ...options);
