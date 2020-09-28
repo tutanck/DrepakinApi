@@ -10,7 +10,7 @@ const UserSchema = new Schema({
   family_name: { required, type: String },
   locale: { required, type: String },
   picture: { required, type: String },
-  created_at: { required, type: Date, default: Date.now },
+  created_at: { required, type: Date },
   updated_at: { required, type: Date, default: Date.now },
   is_admin: { type: Boolean },
 });
